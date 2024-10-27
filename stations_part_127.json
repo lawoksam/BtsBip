@@ -1,0 +1,4002 @@
+[
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E22'04\"",
+        "latitude": "53N46'57\"",
+        "city": "Łupstych",
+        "location": "3229/10",
+        "station_id": "34030"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E35'33\"",
+        "latitude": "53N47'15\"",
+        "city": "Wójtowo",
+        "location": "Modrzewiowa 6, 261/40",
+        "station_id": "34039"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E30'24\"",
+        "latitude": "53N47'08\"",
+        "city": "Olsztyn",
+        "location": "Lubelska 19, 13/2",
+        "station_id": "34043"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E27'13\"",
+        "latitude": "53N46'21\"",
+        "city": "Olsztyn",
+        "location": "Kazimierza Jagiellończyka 45, 3/8",
+        "station_id": "34048"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E29'02\"",
+        "latitude": "53N47'38\"",
+        "city": "Olsztyn",
+        "location": "Aleja Wojska Polskiego 37, 5/1",
+        "station_id": "34052"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E34'45\"",
+        "latitude": "53N44'16\"",
+        "city": "Klewki",
+        "location": "Spacerowa, 17/18",
+        "station_id": "34055"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E30'30\"",
+        "latitude": "53N44'03\"",
+        "city": "Olsztyn",
+        "location": "Bajkowa 15, 134/1",
+        "station_id": "34057"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E30'47\"",
+        "latitude": "53N46'34\"",
+        "city": "Olsztyn",
+        "location": "Władysława Leonharda 5B, 20/8",
+        "station_id": "34067"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E56'30\"",
+        "latitude": "53N32'38\"",
+        "city": "Wysoka Wieś",
+        "location": "22, 76/3",
+        "station_id": "34117"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E19'25\"",
+        "latitude": "53N43'16\"",
+        "city": "Unieszewo",
+        "location": "261/47",
+        "station_id": "34745"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E19'25\"",
+        "latitude": "53N43'15\"",
+        "city": "Unieszewo",
+        "location": "261/47",
+        "station_id": "34745"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E27'11\"",
+        "latitude": "53N45'17\"",
+        "city": "Olsztyn",
+        "location": "Czesława Kanafojskiego 1",
+        "station_id": "37048"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E57'12\"",
+        "latitude": "53N41'25\"",
+        "city": "Ostróda",
+        "location": "21 Stycznia 34, 158/19",
+        "station_id": "39207"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E55'04\"",
+        "latitude": "53N40'57\"",
+        "city": "Morliny",
+        "location": "10/53",
+        "station_id": "39208"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E57'30\"",
+        "latitude": "53N42'27\"",
+        "city": "Ostróda",
+        "location": "Adama Mickiewicza 21, 3/17",
+        "station_id": "39209"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E44'38\"",
+        "latitude": "53N55'29\"",
+        "city": "Małdyty",
+        "location": "Lipowa 6, 14/25",
+        "station_id": "39210"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E47'11\"",
+        "latitude": "53N48'43\"",
+        "city": "Liksajny",
+        "location": "174/2",
+        "station_id": "39211"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E54'01\"",
+        "latitude": "53N44'36\"",
+        "city": "Piławki",
+        "location": "83/3",
+        "station_id": "39213"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E59'03\"",
+        "latitude": "53N41'58\"",
+        "city": "Ostróda",
+        "location": "Demokracji, 80/6",
+        "station_id": "39214"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E03'19\"",
+        "latitude": "53N35'15\"",
+        "city": "Domkowo",
+        "location": "80/6, 80/9",
+        "station_id": "39215"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E10'45\"",
+        "latitude": "53N35'19\"",
+        "city": "Warlity Małe",
+        "location": "77/1",
+        "station_id": "39217"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E57'47\"",
+        "latitude": "53N41'48\"",
+        "city": "Ostróda",
+        "location": "Tadeusza Kościuszki 2, 146/5",
+        "station_id": "39219"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E18'57\"",
+        "latitude": "53N30'07\"",
+        "city": "Waplewo",
+        "location": "87/1",
+        "station_id": "39220"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E20'10\"",
+        "latitude": "53N24'45\"",
+        "city": "Rączki",
+        "location": "34/12",
+        "station_id": "39222"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E25'50\"",
+        "latitude": "53N19'39\"",
+        "city": "Kanigowo",
+        "location": "78/1",
+        "station_id": "39223"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E02'54\"",
+        "latitude": "53N37'40\"",
+        "city": "Szyldak",
+        "location": "Gdańska 3, 68/2",
+        "station_id": "39225"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E26'28\"",
+        "latitude": "53N14'58\"",
+        "city": "Grabowo Leśne",
+        "location": "466/4, 3466/7",
+        "station_id": "39226"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E17'11\"",
+        "latitude": "53N34'56\"",
+        "city": "Olsztynek",
+        "location": "Chopina 7, 153",
+        "station_id": "39228"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E15'44\"",
+        "latitude": "53N31'45\"",
+        "city": "Pawłowo",
+        "location": "63",
+        "station_id": "39229"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E55'31\"",
+        "latitude": "53N55'25\"",
+        "city": "Morąg",
+        "location": "gen. Józefa Bema 14, 100/7",
+        "station_id": "39841"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E56'41\"",
+        "latitude": "53N54'47\"",
+        "city": "Morąg",
+        "location": "Przemysłowa 17, 48/5",
+        "station_id": "39843"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E49'25\"",
+        "latitude": "54N00'09\"",
+        "city": "Kalnik",
+        "location": "53",
+        "station_id": "39849"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E29'08\"",
+        "latitude": "53N45'13\"",
+        "city": "Olsztyn",
+        "location": "Juliana Tuwima 26, 12/14",
+        "station_id": "32233"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E07'47\"",
+        "latitude": "54N06'54\"",
+        "city": "Orneta",
+        "location": "Kościelna 3-20, 20",
+        "station_id": "38730"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E06'01\"",
+        "latitude": "53N33'03\"",
+        "city": "Olszyny",
+        "location": "454",
+        "station_id": "32442"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E29'08\"",
+        "latitude": "53N45'14\"",
+        "city": "Olsztyn",
+        "location": "Juliana Tuwima 26, 12/14",
+        "station_id": "32353"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E29'07\"",
+        "latitude": "53N45'15\"",
+        "city": "Olsztyn",
+        "location": "Juliana Tuwima 26, 12/26",
+        "station_id": "32353"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E56'06\"",
+        "latitude": "53N42'57\"",
+        "city": "Wałdowo",
+        "location": "7/1, 144/58",
+        "station_id": "32751"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E42'22\"",
+        "latitude": "53N57'45\"",
+        "city": "Sambród",
+        "location": "153",
+        "station_id": "32753"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E01'21\"",
+        "latitude": "53N39'53\"",
+        "city": "Wólka Lichtajńska",
+        "location": "15/2",
+        "station_id": "32752"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E28'42\"",
+        "latitude": "53N43'33\"",
+        "city": "Olsztyn",
+        "location": "Srebrna 4, 55/3",
+        "station_id": "32743"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E33'50\"",
+        "latitude": "53N45'57\"",
+        "city": "Klebark Mały",
+        "location": "266/4",
+        "station_id": "32744"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E31'57\"",
+        "latitude": "53N46'16\"",
+        "city": "Olsztyn",
+        "location": "Aleja Marszałka Józefa Piłsudskiego 79d, 42",
+        "station_id": "32747"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E31'57\"",
+        "latitude": "53N46'15\"",
+        "city": "Olsztyn",
+        "location": "Aleja Marszałka Józefa Piłsudskiego 79d, 42",
+        "station_id": "32747"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E29'34\"",
+        "latitude": "53N42'30\"",
+        "city": "Bartążek",
+        "location": "30/193",
+        "station_id": "32742"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E28'50\"",
+        "latitude": "53N41'43\"",
+        "city": "Ruś",
+        "location": "29/13",
+        "station_id": "34054"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E56'01\"",
+        "latitude": "53N39'22\"",
+        "city": "Ornowo",
+        "location": "240/3",
+        "station_id": "32912"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E13'18\"",
+        "latitude": "53N27'26\"",
+        "city": "Orzeszki",
+        "location": "55/2",
+        "station_id": "33158"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E50'02\"",
+        "latitude": "53N19'46\"",
+        "city": "Baranowo",
+        "location": "10/62",
+        "station_id": "33210"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E12'59\"",
+        "latitude": "53N32'18\"",
+        "city": "Świętajno",
+        "location": "Grunwaldzka, 968/2",
+        "station_id": "33364"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E00'01\"",
+        "latitude": "53N43'05\"",
+        "city": "Międzylesie",
+        "location": "Sosnowa 4, 352/3",
+        "station_id": "33380"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E09'01\"",
+        "latitude": "54N10'56\"",
+        "city": "Henrykowo",
+        "location": "65/2",
+        "station_id": "33280"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E28'23\"",
+        "latitude": "53N45'21\"",
+        "city": "Olsztyn",
+        "location": "1/46",
+        "station_id": "32947"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E28'21\"",
+        "latitude": "53N45'21\"",
+        "city": "Olsztyn",
+        "location": "1/46",
+        "station_id": "32947"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E45'53\"",
+        "latitude": "54N02'39\"",
+        "city": "Franknowo",
+        "location": "106, Franknowo  106",
+        "station_id": "33269"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E06'13\"",
+        "latitude": "53N23'23\"",
+        "city": "Lesiny Małe",
+        "location": "3, 32",
+        "station_id": "73294"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E27'13\"",
+        "latitude": "54N19'29\"",
+        "city": "Kamińsk",
+        "location": "4/4",
+        "station_id": "73522"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E28'46\"",
+        "latitude": "54N08'44\"",
+        "city": "Ignalin",
+        "location": "64, 202",
+        "station_id": "73523"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E21'31\"",
+        "latitude": "53N37'24\"",
+        "city": "Gryźliny",
+        "location": "154/2",
+        "station_id": "73456"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E28'35\"",
+        "latitude": "54N13'01\"",
+        "city": "Janikowo",
+        "location": "5, 112",
+        "station_id": "33273"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E04'18\"",
+        "latitude": "53N31'57\"",
+        "city": "Korsztyn",
+        "location": "dz. 24/28, Korsztyn  dz. 24/28",
+        "station_id": "33539"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E56'46\"",
+        "latitude": "53N59'31\"",
+        "city": "Strużyna",
+        "location": "DZ 257",
+        "station_id": "33557"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E10'55\"",
+        "latitude": "53N43'33\"",
+        "city": "Biesal",
+        "location": "10/7, 257/29",
+        "station_id": "34701"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E40'55\"",
+        "latitude": "53N49'49\"",
+        "city": "Barczewo",
+        "location": "Warmińska, 3/108",
+        "station_id": "34702"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E56'54\"",
+        "latitude": "53N52'21\"",
+        "city": "Biskupiec",
+        "location": "Leśna, 122",
+        "station_id": "34703"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E46'53\"",
+        "latitude": "53N38'26\"",
+        "city": "Pasym",
+        "location": "Jana Pawła II, 309/4",
+        "station_id": "34705"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E48'55\"",
+        "latitude": "53N40'17\"",
+        "city": "Samborowo",
+        "location": "Przemysłowa 7, 430/5",
+        "station_id": "34707"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E38'55\"",
+        "latitude": "53N42'59\"",
+        "city": "Wyrandy",
+        "location": "22, 56/2",
+        "station_id": "34708"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E10'24\"",
+        "latitude": "53N33'24\"",
+        "city": "Jeruty",
+        "location": "31/1",
+        "station_id": "34709"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E57'41\"",
+        "latitude": "53N47'23\"",
+        "city": "Labuszewo",
+        "location": "115",
+        "station_id": "34710"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E58'27\"",
+        "latitude": "53N43'03\"",
+        "city": "Dźwierzuty",
+        "location": "268/1",
+        "station_id": "34711"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E51'13\"",
+        "latitude": "53N48'13\"",
+        "city": "Kierzbuń",
+        "location": "6/2",
+        "station_id": "34713"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E08'05\"",
+        "latitude": "53N40'06\"",
+        "city": "Jeleniowo",
+        "location": "124/19",
+        "station_id": "34714"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E20'44\"",
+        "latitude": "54N20'26\"",
+        "city": "Sągnity",
+        "location": "91/9",
+        "station_id": "34715"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E12'36\"",
+        "latitude": "54N17'12\"",
+        "city": "Solkieniki",
+        "location": "41/2",
+        "station_id": "34718"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E27'12\"",
+        "latitude": "53N53'18\"",
+        "city": "Sętal",
+        "location": "82/17",
+        "station_id": "34721"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E30'15\"",
+        "latitude": "54N03'15\"",
+        "city": "Miłogórze",
+        "location": "57, Miłogórze  57",
+        "station_id": "34722"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E42'41\"",
+        "latitude": "54N11'01\"",
+        "city": "Samolubie",
+        "location": "248/3",
+        "station_id": "34723"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E13'16\"",
+        "latitude": "53N39'44\"",
+        "city": "Tomaszyn",
+        "location": "7, 29",
+        "station_id": "34724"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E21'50\"",
+        "latitude": "53N35'34\"",
+        "city": "Spychowo",
+        "location": "Juranda, 101/3",
+        "station_id": "34725"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E18'42\"",
+        "latitude": "53N46'14\"",
+        "city": "Szelągowo",
+        "location": "2, 3238/1",
+        "station_id": "34726"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E54'14\"",
+        "latitude": "53N58'45\"",
+        "city": "Górkowo",
+        "location": "10/3",
+        "station_id": "34733"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E21'09\"",
+        "latitude": "54N10'53\"",
+        "city": "Babiak",
+        "location": "44, 15",
+        "station_id": "34735"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E44'28\"",
+        "latitude": "54N06'37\"",
+        "city": "Stoczek",
+        "location": "19, 96/2",
+        "station_id": "34737"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E30'32\"",
+        "latitude": "54N09'50\"",
+        "city": "Solanka",
+        "location": "154/2",
+        "station_id": "34190"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E28'56\"",
+        "latitude": "54N17'03\"",
+        "city": "Górowo Iławeckie",
+        "location": "kard. Wyszyńskiego 31, 2",
+        "station_id": "34741"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E43'38\"",
+        "latitude": "54N19'22\"",
+        "city": "Bezledy",
+        "location": "641",
+        "station_id": "34746"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E54'51\"",
+        "latitude": "53N55'03\"",
+        "city": "Czerwonka",
+        "location": "132",
+        "station_id": "34748"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E14'31\"",
+        "latitude": "54N12'19\"",
+        "city": "Drogosze",
+        "location": "7",
+        "station_id": "34213"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E21'36\"",
+        "latitude": "53N29'19\"",
+        "city": "Rozogi",
+        "location": "Juranda 15, 150/5",
+        "station_id": "23110"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E48'55\"",
+        "latitude": "54N15'04\"",
+        "city": "Bartoszyce",
+        "location": "Grota-Roweckiego 1, 77",
+        "station_id": "34802"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E48'15\"",
+        "latitude": "54N15'05\"",
+        "city": "Bartoszyce",
+        "location": "Traugutta 23, 83/9",
+        "station_id": "34804"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E48'10\"",
+        "latitude": "54N15'52\"",
+        "city": "Bartoszyce",
+        "location": "Generała Bema 40, 42/13",
+        "station_id": "34805"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E50'03\"",
+        "latitude": "54N14'22\"",
+        "city": "Ceglarki",
+        "location": "15/2",
+        "station_id": "33151"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E01'11\"",
+        "latitude": "54N17'27\"",
+        "city": "Stopki",
+        "location": "34/5",
+        "station_id": "34807"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E57'52\"",
+        "latitude": "54N11'19\"",
+        "city": "Łabędnik",
+        "location": "41, 70/4",
+        "station_id": "34809"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E35'37\"",
+        "latitude": "54N08'17\"",
+        "city": "Lidzbark Warmiński",
+        "location": "Astronomów 47, 41/4",
+        "station_id": "34811"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E08'32\"",
+        "latitude": "54N10'12\"",
+        "city": "Korsze",
+        "location": "Wolności 5, 471/12",
+        "station_id": "34821"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E13'12\"",
+        "latitude": "54N01'33\"",
+        "city": "Święta Lipka",
+        "location": "16, 17/6",
+        "station_id": "34830"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E07'56\"",
+        "latitude": "54N03'08\"",
+        "city": "Reszel",
+        "location": "Racławicka 3A, 10/1",
+        "station_id": "34831"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E07'07\"",
+        "latitude": "53N56'32\"",
+        "city": "Łężany",
+        "location": "13/6",
+        "station_id": "34833"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E22'59\"",
+        "latitude": "54N03'58\"",
+        "city": "Nowa Wieś Kętrzyńska",
+        "location": "2/23",
+        "station_id": "34835"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E30'40\"",
+        "latitude": "54N02'46\"",
+        "city": "Pożarki",
+        "location": "181/1",
+        "station_id": "34837"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E30'52\"",
+        "latitude": "54N04'47\"",
+        "city": "Parcz",
+        "location": "5/16",
+        "station_id": "34839"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E01'19\"",
+        "latitude": "54N04'35\"",
+        "city": "Sątopy-Samulewo",
+        "location": "357/2",
+        "station_id": "34841"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E13'17\"",
+        "latitude": "53N51'16\"",
+        "city": "Nowe Kawkowo",
+        "location": "168/2",
+        "station_id": "34845"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E12'17\"",
+        "latitude": "53N47'50\"",
+        "city": "Stękiny",
+        "location": "87/8",
+        "station_id": "34846"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E07'16\"",
+        "latitude": "53N54'49\"",
+        "city": "Brzydowo",
+        "location": "136",
+        "station_id": "34850"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E03'11\"",
+        "latitude": "53N48'01\"",
+        "city": "Strzałkowo",
+        "location": "570",
+        "station_id": "34855"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E14'08\"",
+        "latitude": "53N59'54\"",
+        "city": "Wilczkowo",
+        "location": "216",
+        "station_id": "34857"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E21'14\"",
+        "latitude": "54N04'31\"",
+        "city": "Kętrzyn",
+        "location": "Klonowa 8, 615",
+        "station_id": "34868"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E25'10\"",
+        "latitude": "54N04'33\"",
+        "city": "Urbanowo",
+        "location": "4/11",
+        "station_id": "31189"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E56'25\"",
+        "latitude": "53N32'58\"",
+        "city": "Wysoka Wieś",
+        "location": "111/3",
+        "station_id": "34893"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E55'39\"",
+        "latitude": "53N28'14\"",
+        "city": "Elgnowo",
+        "location": "37, 25",
+        "station_id": "34894"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E08'16\"",
+        "latitude": "53N29'57\"",
+        "city": "Stębark",
+        "location": "174/1",
+        "station_id": "34895"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E02'03\"",
+        "latitude": "53N26'07\"",
+        "city": "Dąbrówno",
+        "location": "Ostródzka 6, 109/1",
+        "station_id": "34897"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E59'48\"",
+        "latitude": "53N33'45\"",
+        "city": "Szczytno",
+        "location": "Polska 12, 412/2",
+        "station_id": "34902"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E58'27\"",
+        "latitude": "53N33'52\"",
+        "city": "Szczytno",
+        "location": "Gnieźnieńska 2, 1/22",
+        "station_id": "34903"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E59'38\"",
+        "latitude": "53N34'15\"",
+        "city": "Szczytno",
+        "location": "Wojciecha Kętrzyńskiego 2a, 214",
+        "station_id": "34904"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E50'14\"",
+        "latitude": "53N35'13\"",
+        "city": "Lipowo",
+        "location": "61, Lipowo  61",
+        "station_id": "34912"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E53'04\"",
+        "latitude": "53N36'23\"",
+        "city": "Jęcznik",
+        "location": "33/32",
+        "station_id": "31188"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E41'11\"",
+        "latitude": "53N40'49\"",
+        "city": "Purdka",
+        "location": "3170/11",
+        "station_id": "34915"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E47'49\"",
+        "latitude": "53N33'06\"",
+        "city": "Brajniki",
+        "location": "46/5",
+        "station_id": "34918"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E33'31\"",
+        "latitude": "53N33'37\"",
+        "city": "Zgniłocha",
+        "location": "197",
+        "station_id": "34921"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E35'33\"",
+        "latitude": "53N27'04\"",
+        "city": "Zimna Woda",
+        "location": "3135/3",
+        "station_id": "34922"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E34'11\"",
+        "latitude": "53N37'47\"",
+        "city": "Pokrzywy",
+        "location": "11",
+        "station_id": "34923"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E26'46\"",
+        "latitude": "53N30'21\"",
+        "city": "Lipowo Kurkowskie",
+        "location": "16/4",
+        "station_id": "34924"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E21'19\"",
+        "latitude": "53N34'57\"",
+        "city": "Mierki",
+        "location": "383/1",
+        "station_id": "34925"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E57'37\"",
+        "latitude": "53N24'01\"",
+        "city": "Wielbark",
+        "location": "222/5",
+        "station_id": "34927"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E44'50\"",
+        "latitude": "53N32'00\"",
+        "city": "Jedwabno",
+        "location": "Lipowa 23, 112/7",
+        "station_id": "34928"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E36'43\"",
+        "latitude": "53N22'25\"",
+        "city": "Muszaki",
+        "location": "158",
+        "station_id": "34929"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E24'46\"",
+        "latitude": "53N21'58\"",
+        "city": "Nidzica",
+        "location": "Boczna 35, 266/1",
+        "station_id": "34931"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E57'10\"",
+        "latitude": "53N29'38\"",
+        "city": "Szymany",
+        "location": "463/38",
+        "station_id": "32538"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E32'28\"",
+        "latitude": "53N18'05\"",
+        "city": "Kuce",
+        "location": "25/14",
+        "station_id": "34934"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E16'23\"",
+        "latitude": "53N17'44\"",
+        "city": "Kozłowo",
+        "location": "Nidzicka, 175",
+        "station_id": "34935"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E29'10\"",
+        "latitude": "53N24'38\"",
+        "city": "Napiwoda",
+        "location": "69/3",
+        "station_id": "34938"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E56'43\"",
+        "latitude": "53N23'57\"",
+        "city": "Wielbark",
+        "location": "Władysława Jagiełły 11, 731",
+        "station_id": "34939"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E53'45\"",
+        "latitude": "53N20'53\"",
+        "city": "Piwnice Wielkie",
+        "location": "2, 51",
+        "station_id": "31186"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E00'13\"",
+        "latitude": "53N07'26\"",
+        "city": "Bydgoszcz",
+        "location": "Jagiellońska 6",
+        "station_id": "35000"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E00'55\"",
+        "latitude": "53N06'34\"",
+        "city": "Bydgoszcz",
+        "location": "Janikowska 19, 42/32",
+        "station_id": "35005"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E00'32\"",
+        "latitude": "53N07'25\"",
+        "city": "Bydgoszcz",
+        "location": "Jagiellońska 17, 28/3",
+        "station_id": "35007"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E10'48\"",
+        "latitude": "53N09'09\"",
+        "city": "Bydgoszcz",
+        "location": "Altanowa 4, 535",
+        "station_id": "35011"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E09'58\"",
+        "latitude": "53N10'15\"",
+        "city": "Bydgoszcz",
+        "location": "Wyzwolenia 122c, 1/19",
+        "station_id": "35012"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E08'41\"",
+        "latitude": "53N08'58\"",
+        "city": "Bydgoszcz",
+        "location": "gen. Władysława Andersa, 21/2",
+        "station_id": "35013"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E04'29\"",
+        "latitude": "53N07'22\"",
+        "city": "Bydgoszcz",
+        "location": "Fordońska 152, 2",
+        "station_id": "35015"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E02'57\"",
+        "latitude": "53N07'13\"",
+        "city": "Bydgoszcz",
+        "location": "Fordońska 44, 10/1",
+        "station_id": "35009"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E55'18\"",
+        "latitude": "53N08'04\"",
+        "city": "Bydgoszcz",
+        "location": "Cieplicka 2, 3/17",
+        "station_id": "35019"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E54'06\"",
+        "latitude": "53N08'53\"",
+        "city": "Bydgoszcz",
+        "location": "Niklowa 4, 2/14",
+        "station_id": "35020"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E54'51\"",
+        "latitude": "53N09'44\"",
+        "city": "Bydgoszcz",
+        "location": "Wielorybia, 1/3",
+        "station_id": "35021"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E59'01\"",
+        "latitude": "53N08'09\"",
+        "city": "Bydgoszcz",
+        "location": "Żeglarska 4, 35",
+        "station_id": "35022"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E58'58\"",
+        "latitude": "53N07'04\"",
+        "city": "Bydgoszcz",
+        "location": "Piękna 13, 132/1",
+        "station_id": "35024"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E59'35\"",
+        "latitude": "53N07'36\"",
+        "city": "Bydgoszcz",
+        "location": "Garbary 3, 76/1",
+        "station_id": "35025"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E02'04\"",
+        "latitude": "53N06'39\"",
+        "city": "Bydgoszcz",
+        "location": "Adama Grzymały Siedleckiego 11",
+        "station_id": "35027"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E00'44\"",
+        "latitude": "53N07'45\"",
+        "city": "Bydgoszcz",
+        "location": "Wojska Polskiego 1",
+        "station_id": "35028"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E05'53\"",
+        "latitude": "53N06'31\"",
+        "city": "Bydgoszcz",
+        "location": "Objazdowa 1, 1/41",
+        "station_id": "35029"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E03'44\"",
+        "latitude": "53N06'27\"",
+        "city": "Bydgoszcz",
+        "location": "Sandomierska 35, 16/14",
+        "station_id": "35030"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E00'18\"",
+        "latitude": "53N07'36\"",
+        "city": "Bydgoszcz",
+        "location": "Plac Wolności, 62,63",
+        "station_id": "35035"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E59'06\"",
+        "latitude": "53N06'26\"",
+        "city": "Bydgoszcz",
+        "location": "Inowrocławska 11, 4/3",
+        "station_id": "35037"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E59'37\"",
+        "latitude": "53N07'59\"",
+        "city": "Bydgoszcz",
+        "location": "Dworcowa 81, 34/2",
+        "station_id": "35039"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E00'56\"",
+        "latitude": "53N06'55\"",
+        "city": "Bydgoszcz",
+        "location": "Wojska Polskiego 7, 20",
+        "station_id": "35040"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E03'51\"",
+        "latitude": "53N07'25\"",
+        "city": "Bydgoszcz",
+        "location": "Fabryczna 1A, 40/1",
+        "station_id": "35041"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E09'25\"",
+        "latitude": "53N09'20\"",
+        "city": "Bydgoszcz",
+        "location": "Stanisława Skarżyńskiego 4, 25/2",
+        "station_id": "35042"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E08'05\"",
+        "latitude": "53N09'15\"",
+        "city": "Bydgoszcz",
+        "location": "Mikołaja Bołtucia 5, 60/1",
+        "station_id": "35043"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E59'56\"",
+        "latitude": "53N06'38\"",
+        "city": "Bydgoszcz",
+        "location": "Seweryna Goszczyńskiego 3, 86",
+        "station_id": "35045"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E00'26\"",
+        "latitude": "53N10'20\"",
+        "city": "Bydgoszcz",
+        "location": "Jeździecka 6, 159/5",
+        "station_id": "35050"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E00'44\"",
+        "latitude": "53N06'15\"",
+        "city": "Bydgoszcz",
+        "location": "Aleje Jana Pawła II 123",
+        "station_id": "35113"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E00'12\"",
+        "latitude": "53N07'28\"",
+        "city": "Bydgoszcz",
+        "location": "Jagiellońska 1, 4",
+        "station_id": "35115"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E00'09\"",
+        "latitude": "53N07'52\"",
+        "city": "Bydgoszcz",
+        "location": "Bolesława Chrobrego 14, 104",
+        "station_id": "35202"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E58'08\"",
+        "latitude": "53N07'17\"",
+        "city": "Bydgoszcz",
+        "location": "Lotników 2, 5/1",
+        "station_id": "35204"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E58'47\"",
+        "latitude": "53N07'41\"",
+        "city": "Bydgoszcz",
+        "location": "Grunwaldzka 41, 83/2",
+        "station_id": "35205"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E00'28\"",
+        "latitude": "53N08'08\"",
+        "city": "Bydgoszcz",
+        "location": "Plac Tadeusza Kościuszki 27",
+        "station_id": "35206"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E05'58\"",
+        "latitude": "53N07'29\"",
+        "city": "Bydgoszcz",
+        "location": "Przemysłowa 8, 1/35",
+        "station_id": "35233"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E05'04\"",
+        "latitude": "53N07'08\"",
+        "city": "Bydgoszcz",
+        "location": "Toruńska 151, 7/8",
+        "station_id": "35234"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E59'59\"",
+        "latitude": "53N07'17\"",
+        "city": "Bydgoszcz",
+        "location": "Stary Rynek 14, 41",
+        "station_id": "35241"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E58'05\"",
+        "latitude": "53N10'16\"",
+        "city": "Bydgoszcz",
+        "location": "Drzycimska 7, 1/23",
+        "station_id": "35245"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E03'07\"",
+        "latitude": "53N06'35\"",
+        "city": "Bydgoszcz",
+        "location": "Bohaterów Westerplatte 2, 73",
+        "station_id": "35251"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E58'29\"",
+        "latitude": "53N06'45\"",
+        "city": "Bydgoszcz",
+        "location": "Jaskółcza 39, 81/1",
+        "station_id": "35252"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E00'56\"",
+        "latitude": "53N08'06\"",
+        "city": "Bydgoszcz",
+        "location": "Gdańska 122, 73/1",
+        "station_id": "35261"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E01'17\"",
+        "latitude": "53N07'34\"",
+        "city": "Bydgoszcz",
+        "location": "Michała Kleofasa Ogińskiego 16, 101/1",
+        "station_id": "35272"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E09'36\"",
+        "latitude": "53N09'51\"",
+        "city": "Bydgoszcz",
+        "location": "Salezjańska 1, 212",
+        "station_id": "35274"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E05'34\"",
+        "latitude": "53N04'06\"",
+        "city": "Bydgoszcz",
+        "location": "Wojska Polskiego 65, 1/48",
+        "station_id": "35715"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E53'49\"",
+        "latitude": "53N07'15\"",
+        "city": "Białe Błota",
+        "location": "Łochowska 69, 772/51",
+        "station_id": "35716"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E54'49\"",
+        "latitude": "53N05'42\"",
+        "city": "Białe Błota",
+        "location": "Czerska 40, 181/4",
+        "station_id": "35717"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E18'07\"",
+        "latitude": "53N10'14\"",
+        "city": "Dąbrowa Chełmińska",
+        "location": "603",
+        "station_id": "35401"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E22'26\"",
+        "latitude": "53N02'53\"",
+        "city": "Przyłubie",
+        "location": "22/2",
+        "station_id": "35610"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E19'23\"",
+        "latitude": "53N03'02\"",
+        "city": "Przyłubie",
+        "location": "316",
+        "station_id": "35611"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E13'25\"",
+        "latitude": "53N04'47\"",
+        "city": "Solec Kujawski",
+        "location": "Żwirki i Wigury 1, 276/7",
+        "station_id": "35962"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E56'18\"",
+        "latitude": "53N18'49\"",
+        "city": "Koronowo",
+        "location": "Farna 25, 959",
+        "station_id": "35872"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E52'09\"",
+        "latitude": "53N22'40\"",
+        "city": "Lucim",
+        "location": "84, 390",
+        "station_id": "35723"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E46'29\"",
+        "latitude": "53N17'56\"",
+        "city": "Wierzchucin Królewski",
+        "location": "123/41",
+        "station_id": "35874"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E00'15\"",
+        "latitude": "53N02'40\"",
+        "city": "Brzoza",
+        "location": "437/3",
+        "station_id": "35710"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E04'08\"",
+        "latitude": "53N11'10\"",
+        "city": "Osielsko",
+        "location": "Szosa Gdańska 43, 574/8",
+        "station_id": "35051"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E04'55\"",
+        "latitude": "53N12'34\"",
+        "city": "Żołędowo",
+        "location": "Polna 17, 458/4",
+        "station_id": "35705"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E59'53\"",
+        "latitude": "53N14'04\"",
+        "city": "Bożenkowo",
+        "location": "Deszczowa, 251",
+        "station_id": "35725"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E50'20\"",
+        "latitude": "53N12'07\"",
+        "city": "Wojnowo",
+        "location": "48/4",
+        "station_id": "35731"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E46'48\"",
+        "latitude": "53N09'43\"",
+        "city": "Strzelewo",
+        "location": "83/20",
+        "station_id": "35607"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E37'25\"",
+        "latitude": "53N41'22\"",
+        "city": "Pawłowo",
+        "location": "Łąkowa, 44/7",
+        "station_id": "33984"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E34'01\"",
+        "latitude": "53N42'12\"",
+        "city": "Chojnice",
+        "location": "Ceynowy 15, 4294",
+        "station_id": "35801"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E35'28\"",
+        "latitude": "53N41'27\"",
+        "city": "Chojnice",
+        "location": "Przemysłowa 4, 688/28",
+        "station_id": "35803"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E39'13\"",
+        "latitude": "53N43'58\"",
+        "city": "Krojanty",
+        "location": "55, 291/1",
+        "station_id": "35506"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E42'32\"",
+        "latitude": "53N53'17\"",
+        "city": "Brusy",
+        "location": "Łąkowa, 109/2",
+        "station_id": "35815"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E34'42\"",
+        "latitude": "53N56'19\"",
+        "city": "Rolbik",
+        "location": "135/3",
+        "station_id": "35759"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E39'59\"",
+        "latitude": "53N49'21\"",
+        "city": "Męcikał",
+        "location": "174/12",
+        "station_id": "35810"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E58'30\"",
+        "latitude": "53N48'09\"",
+        "city": "Czersk",
+        "location": "Towarowa 11, 174/50",
+        "station_id": "35812"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E01'23\"",
+        "latitude": "53N53'20\"",
+        "city": "Wojtal",
+        "location": "119",
+        "station_id": "30709"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E23'41\"",
+        "latitude": "53N48'37\"",
+        "city": "Ciecholewy",
+        "location": "449/4",
+        "station_id": "31753"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E52'04\"",
+        "latitude": "53N46'28\"",
+        "city": "Gutowiec",
+        "location": "820/1",
+        "station_id": "31191"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E48'25\"",
+        "latitude": "53N03'32\"",
+        "city": "Rynarzewo",
+        "location": "Malinowa, 54/4",
+        "station_id": "31193"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E36'49\"",
+        "latitude": "53N08'29\"",
+        "city": "Nakło nad Notecią",
+        "location": "Rudki, 478/3",
+        "station_id": "35881"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E35'21\"",
+        "latitude": "53N08'17\"",
+        "city": "Nakło nad Notecią",
+        "location": "Sądowa 14, 2443/38",
+        "station_id": "35882"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E41'02\"",
+        "latitude": "53N31'36\"",
+        "city": "Dolna Grupa",
+        "location": "84, 269/7",
+        "station_id": "31195"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E44'05\"",
+        "latitude": "53N00'47\"",
+        "city": "Szubin",
+        "location": "Nakielska 23",
+        "station_id": "35706"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E43'38\"",
+        "latitude": "52N58'10\"",
+        "city": "Kowalewo",
+        "location": "35, 440/18",
+        "station_id": "35701"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E28'57\"",
+        "latitude": "52N59'05\"",
+        "city": "Kcynia",
+        "location": "655/12",
+        "station_id": "35741"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E36'17\"",
+        "latitude": "53N15'05\"",
+        "city": "Mrocza",
+        "location": "Kościuszki 57, 317/1",
+        "station_id": "35883"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E25'32\"",
+        "latitude": "53N09'28\"",
+        "city": "Sadki",
+        "location": "Wyrzyska 103, 346/1",
+        "station_id": "35606"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E51'14\"",
+        "latitude": "53N07'21\"",
+        "city": "Łochowo",
+        "location": "Kwiatowa 36, Łochowo Kwiatowa 36",
+        "station_id": "31580"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E22'28\"",
+        "latitude": "53N23'39\"",
+        "city": "Świecie",
+        "location": "Bydgoska 1, 105/64",
+        "station_id": "32084"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E22'28\"",
+        "latitude": "53N23'39\"",
+        "city": "Świecie",
+        "location": "Bydgoska 1, 105/64",
+        "station_id": "32084"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E32'29\"",
+        "latitude": "53N27'29\"",
+        "city": "Sępólno Krajeńskie",
+        "location": "Tadeusza Kościuszki 15, 11/13",
+        "station_id": "35851"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E31'54\"",
+        "latitude": "53N27'06\"",
+        "city": "Sępólno Krajeńskie",
+        "location": "Hallera 8, 172/3",
+        "station_id": "35853"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E41'38\"",
+        "latitude": "53N26'44\"",
+        "city": "Wałdówko",
+        "location": "26/5",
+        "station_id": "35722"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E04'35\"",
+        "latitude": "53N04'46\"",
+        "city": "Bydgoszcz",
+        "location": "Emila Gamma, 7/224",
+        "station_id": "32079"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E04'35\"",
+        "latitude": "53N04'46\"",
+        "city": "Bydgoszcz",
+        "location": "Emila Gamma, 7/224",
+        "station_id": "32079"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E28'26\"",
+        "latitude": "53N20'29\"",
+        "city": "Więcbork",
+        "location": "Mickiewicza 22, 397/3",
+        "station_id": "35861"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E18'21\"",
+        "latitude": "53N22'38\"",
+        "city": "Sypniewo",
+        "location": "9/4",
+        "station_id": "35757"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E29'04\"",
+        "latitude": "53N33'19\"",
+        "city": "Orzełek",
+        "location": "502/3",
+        "station_id": "35721"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E38'12\"",
+        "latitude": "53N34'51\"",
+        "city": "Dąbrówka",
+        "location": "Parkowa 63, 307/3",
+        "station_id": "35758"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E40'09\"",
+        "latitude": "53N18'57\"",
+        "city": "Wąwelno",
+        "location": "Mrotecka 16, 215/5",
+        "station_id": "35887"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E02'24\"",
+        "latitude": "52N49'01\"",
+        "city": "Piechcin",
+        "location": "Radłowska 5A, 8/5",
+        "station_id": "32344"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E58'05\"",
+        "latitude": "53N07'54\"",
+        "city": "Bydgoszcz",
+        "location": "Józefa Ignacego Kraszewskiego 1, 19/5",
+        "station_id": "32335"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E58'05\"",
+        "latitude": "53N07'54\"",
+        "city": "Bydgoszcz",
+        "location": "Józefa Ignacego Kraszewskiego 1, 19/5",
+        "station_id": "32335"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E15'18\"",
+        "latitude": "53N03'42\"",
+        "city": "Solec Kujawski",
+        "location": "Rzymska, 1077/4",
+        "station_id": "32354"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E15'18\"",
+        "latitude": "53N03'42\"",
+        "city": "Solec Kujawski",
+        "location": "Rzymska, 1077/4",
+        "station_id": "32354"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E07'15\"",
+        "latitude": "53N07'56\"",
+        "city": "Bydgoszcz",
+        "location": "Skandynawska 1, Bydgoszcz Skandynawska 1",
+        "station_id": "32507"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E05'18\"",
+        "latitude": "53N05'55\"",
+        "city": "Bydgoszcz",
+        "location": "Energetyczna 1, 2/14",
+        "station_id": "32127"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E58'14\"",
+        "latitude": "53N19'55\"",
+        "city": "Koronowo",
+        "location": "Aleja Jana Pawła II, 114/1",
+        "station_id": "32427"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E58'14\"",
+        "latitude": "53N19'55\"",
+        "city": "Koronowo",
+        "location": "114/1",
+        "station_id": "32427"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E48'25\"",
+        "latitude": "53N24'15\"",
+        "city": "Mąkowarsko",
+        "location": "Sportowa 5, 452/2",
+        "station_id": "32429"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E55'03\"",
+        "latitude": "53N09'17\"",
+        "city": "Bydgoszcz",
+        "location": "św. Maksymiliana Kolbego 44, 21/3",
+        "station_id": "32372"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E55'03\"",
+        "latitude": "53N09'17\"",
+        "city": "Bydgoszcz",
+        "location": "św. Maksymiliana Kolbego 44, 21/3",
+        "station_id": "32372"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E00'49\"",
+        "latitude": "53N05'42\"",
+        "city": "Bydgoszcz",
+        "location": "Wąbrzeska 34, 24/6",
+        "station_id": "32373"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E25'56\"",
+        "latitude": "53N27'59\"",
+        "city": "Belno",
+        "location": "162/1",
+        "station_id": "32375"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E36'28\"",
+        "latitude": "53N26'20\"",
+        "city": "Niechorz",
+        "location": "54",
+        "station_id": "32432"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E01'09\"",
+        "latitude": "53N08'42\"",
+        "city": "Bydgoszcz",
+        "location": "Gdańska 163, Bydgoszcz Gdańska 163",
+        "station_id": "32431"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E01'09\"",
+        "latitude": "53N08'42\"",
+        "city": "Bydgoszcz",
+        "location": "Gdańska 163",
+        "station_id": "32431"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E04'36\"",
+        "latitude": "53N14'19\"",
+        "city": "Nekla",
+        "location": "109/3",
+        "station_id": "32434"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E15'27\"",
+        "latitude": "52N45'59\"",
+        "city": "Inowrocław",
+        "location": "Budowlana 1, Inowrocław Budowlana 1",
+        "station_id": "32533"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E15'25\"",
+        "latitude": "52N45'59\"",
+        "city": "Inowrocław",
+        "location": "Budowlana 1",
+        "station_id": "32533"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E57'40\"",
+        "latitude": "53N02'58\"",
+        "city": "Przyłęki",
+        "location": "Orzechowa, 313/4",
+        "station_id": "32483"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E21'31\"",
+        "latitude": "53N30'13\"",
+        "city": "Gródek",
+        "location": "Szkolna 5, 18/1",
+        "station_id": "32598"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E57'04\"",
+        "latitude": "52N51'05\"",
+        "city": "Barcin",
+        "location": "Dworcowa 14, 108",
+        "station_id": "35895"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E56'22\"",
+        "latitude": "52N51'20\"",
+        "city": "Barcin",
+        "location": "Mogileńska 7",
+        "station_id": "35898"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E29'13\"",
+        "latitude": "52N46'20\"",
+        "city": "Włoszanowo",
+        "location": "59/2",
+        "station_id": "35719"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E46'58\"",
+        "latitude": "52N46'30\"",
+        "city": "Łysinin",
+        "location": "98/10",
+        "station_id": "35713"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E52'52\"",
+        "latitude": "52N48'48\"",
+        "city": "Annowo",
+        "location": "187/1",
+        "station_id": "35936"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E59'15\"",
+        "latitude": "53N36'38\"",
+        "city": "Łosiny",
+        "location": "Dz. nr 6244/1",
+        "station_id": "32669"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E54'51\"",
+        "latitude": "52N57'31\"",
+        "city": "Łabiszyn",
+        "location": "Szubińska, 73/12",
+        "station_id": "35768"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E53'58\"",
+        "latitude": "53N00'02\"",
+        "city": "Pszczółczyn",
+        "location": "65/7",
+        "station_id": "35767"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E26'00\"",
+        "latitude": "53N24'48\"",
+        "city": "Świecie",
+        "location": "Żwirki i Wigury 6, Świecie Żwirki i Wigury 6",
+        "station_id": "32430"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E26'00\"",
+        "latitude": "53N24'48\"",
+        "city": "Świecie",
+        "location": "Żwirki i Wigury 6",
+        "station_id": "32430"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E22'20\"",
+        "latitude": "52N44'44\"",
+        "city": "Łąkocin",
+        "location": "54",
+        "station_id": "32665"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E24'22\"",
+        "latitude": "53N23'59\"",
+        "city": "Świecie",
+        "location": "Fabryczna 2, 389/17",
+        "station_id": "35310"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E31'32\"",
+        "latitude": "53N25'53\"",
+        "city": "Wiąg",
+        "location": "20/5",
+        "station_id": "35309"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E17'57\"",
+        "latitude": "53N20'53\"",
+        "city": "Gruczno",
+        "location": "Kolonia Sienkiewicza 5, 672/2",
+        "station_id": "35703"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E13'49\"",
+        "latitude": "53N25'32\"",
+        "city": "Bukowiec",
+        "location": "271/4",
+        "station_id": "35131"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E40'47\"",
+        "latitude": "53N30'01\"",
+        "city": "Dolna Grupa",
+        "location": "117/3",
+        "station_id": "35331"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E27'02\"",
+        "latitude": "53N30'47\"",
+        "city": "Laskowice",
+        "location": "30/1",
+        "station_id": "35750"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E35'26\"",
+        "latitude": "53N30'13\"",
+        "city": "Sarnowo",
+        "location": "61",
+        "station_id": "35304"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E18'44\"",
+        "latitude": "53N30'33\"",
+        "city": "Drzycim",
+        "location": "Broniewskiego 2, 297",
+        "station_id": "35132"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E21'59\"",
+        "latitude": "53N27'43\"",
+        "city": "Dólsk",
+        "location": "86/5",
+        "station_id": "35746"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E13'24\"",
+        "latitude": "53N31'06\"",
+        "city": "Lniano",
+        "location": "387/5",
+        "station_id": "35752"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E43'03\"",
+        "latitude": "53N38'49\"",
+        "city": "Nowe",
+        "location": "Fabryczna 5, 526/1",
+        "station_id": "35306"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E40'12\"",
+        "latitude": "53N40'10\"",
+        "city": "Milewo",
+        "location": "118/1",
+        "station_id": "35305"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E38'30\"",
+        "latitude": "53N37'52\"",
+        "city": "Gajewo",
+        "location": "37, 95/4",
+        "station_id": "35303"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E15'47\"",
+        "latitude": "53N36'52\"",
+        "city": "Tleń",
+        "location": "39",
+        "station_id": "35751"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E12'19\"",
+        "latitude": "53N19'55\"",
+        "city": "Pruszcz",
+        "location": "Wyzwolenia 1",
+        "station_id": "35702"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E05'43\"",
+        "latitude": "53N24'42\"",
+        "city": "Świekatowo",
+        "location": "236/1",
+        "station_id": "35745"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E39'07\"",
+        "latitude": "53N33'45\"",
+        "city": "Bzowo",
+        "location": "150",
+        "station_id": "35307"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E29'12\"",
+        "latitude": "53N38'39\"",
+        "city": "Lipinki",
+        "location": "858/4",
+        "station_id": "35740"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E46'06\"",
+        "latitude": "52N55'58\"",
+        "city": "Chomętowo",
+        "location": "101/3",
+        "station_id": "32921"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E45'30\"",
+        "latitude": "52N51'17\"",
+        "city": "Żnin",
+        "location": "Klemensa Janickiego 48, Żnin Klemensa Janickiego 48",
+        "station_id": "32934"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E45'30\"",
+        "latitude": "52N51'17\"",
+        "city": "Żnin",
+        "location": "Klemensa Janickiego 48, 1725/15",
+        "station_id": "32934"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E51'13\"",
+        "latitude": "53N03'25\"",
+        "city": "Małe Rudy",
+        "location": "66/6",
+        "station_id": "32919"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E51'14\"",
+        "latitude": "53N03'25\"",
+        "city": "Małe Rudy",
+        "location": "66/6",
+        "station_id": "32919"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E34'57\"",
+        "latitude": "53N06'19\"",
+        "city": "Nakło nad Notecią",
+        "location": "302/32",
+        "station_id": "32933"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E25'02\"",
+        "latitude": "52N38'35\"",
+        "city": "Gocanówko",
+        "location": "23/6",
+        "station_id": "32920"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E52'44\"",
+        "latitude": "53N35'16\"",
+        "city": "Tuchola",
+        "location": "Cegielniana, 1423/4",
+        "station_id": "35832"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E56'01\"",
+        "latitude": "53N42'22\"",
+        "city": "Brody",
+        "location": "2, 642",
+        "station_id": "35755"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E03'56\"",
+        "latitude": "53N05'07\"",
+        "city": "Bydgoszcz",
+        "location": "Bydgoskich Przemysłowców, 7/215",
+        "station_id": "32924"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E10'58\"",
+        "latitude": "53N42'25\"",
+        "city": "Śliwice",
+        "location": "Leśna, 643/2",
+        "station_id": "35754"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E36'12\"",
+        "latitude": "53N38'58\"",
+        "city": "Lichnowy",
+        "location": "Szkolna 4, 299/1",
+        "station_id": "32948"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E01'30\"",
+        "latitude": "53N28'06\"",
+        "city": "Lubiewo",
+        "location": "Wojska Polskiego 41A, 542/3",
+        "station_id": "35877"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E58'55\"",
+        "latitude": "53N31'52\"",
+        "city": "Bysław",
+        "location": "115/3",
+        "station_id": "35753"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E54'46\"",
+        "latitude": "53N26'15\"",
+        "city": "Sucha",
+        "location": "144, 130LP",
+        "station_id": "35146"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E02'28\"",
+        "latitude": "53N06'55\"",
+        "city": "Bydgoszcz",
+        "location": "Toruńska 170B, Bydgoszcz Toruńska 170B",
+        "station_id": "32913"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E44'21\"",
+        "latitude": "53N37'58\"",
+        "city": "Piastoszyn",
+        "location": "Główna, 104/1",
+        "station_id": "35834"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E51'00\"",
+        "latitude": "53N30'06\"",
+        "city": "Gostycyn",
+        "location": "Pilska 13, 666/8",
+        "station_id": "35756"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E40'47\"",
+        "latitude": "53N30'01\"",
+        "city": "Dragacz",
+        "location": "117/3",
+        "station_id": "33154"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E41'07\"",
+        "latitude": "53N57'13\"",
+        "city": "Leśno",
+        "location": "18",
+        "station_id": "33138"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E01'23\"",
+        "latitude": "53N34'44\"",
+        "city": "Cekcyn",
+        "location": "Leśna 1, 240/2",
+        "station_id": "35833"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E06'31\"",
+        "latitude": "53N36'50\"",
+        "city": "Małe Gacno",
+        "location": "391",
+        "station_id": "35835"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E19'24\"",
+        "latitude": "52N46'19\"",
+        "city": "Trzaski",
+        "location": "20",
+        "station_id": "32336"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E19'24\"",
+        "latitude": "52N46'19\"",
+        "city": "Trzaski",
+        "location": "20",
+        "station_id": "32336"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E38'50\"",
+        "latitude": "53N40'40\"",
+        "city": "Rychława",
+        "location": "132",
+        "station_id": "33363"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E13'31\"",
+        "latitude": "53N20'43\"",
+        "city": "Bagniewko",
+        "location": "ul. Bagniewko 1, 37/2",
+        "station_id": "33366"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E38'32\"",
+        "latitude": "53N34'51\"",
+        "city": "Warlubie",
+        "location": "16/3",
+        "station_id": "33368"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E15'00\"",
+        "latitude": "52N47'24\"",
+        "city": "Inowrocław",
+        "location": "al. Niepodległości 4, 7/2",
+        "station_id": "35900"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E16'24\"",
+        "latitude": "52N47'55\"",
+        "city": "Inowrocław",
+        "location": "Błonie 6, 46/15",
+        "station_id": "35902"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E15'49\"",
+        "latitude": "52N46'50\"",
+        "city": "Inowrocław",
+        "location": "Poznańska 97, 13/69",
+        "station_id": "35903"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E14'28\"",
+        "latitude": "52N44'59\"",
+        "city": "Inowrocław",
+        "location": "Fabryczna 4, 8/3",
+        "station_id": "35904"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E15'32\"",
+        "latitude": "52N47'50\"",
+        "city": "Inowrocław",
+        "location": "pl. Klasztorny 2, 526/5",
+        "station_id": "35905"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E15'19\"",
+        "latitude": "52N45'18\"",
+        "city": "Inowrocław",
+        "location": "Poznańska 332",
+        "station_id": "35906"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E14'58\"",
+        "latitude": "52N48'07\"",
+        "city": "Inowrocław",
+        "location": "ks. Piotra Wawrzyniaka 15, 7/3",
+        "station_id": "35908"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E15'53\"",
+        "latitude": "52N48'28\"",
+        "city": "Inowrocław",
+        "location": "Orłowska 80, 86/4",
+        "station_id": "32426"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E15'57\"",
+        "latitude": "52N47'44\"",
+        "city": "Inowrocław",
+        "location": "Andrzeja 7, 8/9",
+        "station_id": "35917"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E17'40\"",
+        "latitude": "52N58'30\"",
+        "city": "Osiek Wielki",
+        "location": "17/2",
+        "station_id": "35714"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E14'57\"",
+        "latitude": "52N52'31\"",
+        "city": "Wybranowo",
+        "location": "42/3",
+        "station_id": "35923"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E24'33\"",
+        "latitude": "52N53'28\"",
+        "city": "Gniewkowo",
+        "location": "Gerharda Pająkowskiego 6, 579/22",
+        "station_id": "35921"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E39'42\"",
+        "latitude": "52N47'28\"",
+        "city": "Czewujewo",
+        "location": "28, 152, obręb 0005",
+        "station_id": "32903"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E08'32\"",
+        "latitude": "52N54'00\"",
+        "city": "Złotniki Kujawskie",
+        "location": "Szosa Bydgoska, 114",
+        "station_id": "35712"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E36'41\"",
+        "latitude": "53N28'51\"",
+        "city": "Mniszek",
+        "location": "15, 151/5",
+        "station_id": "33286"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E19'08\"",
+        "latitude": "52N40'46\"",
+        "city": "Kruszwica",
+        "location": "Niepodległości 38/40, 4/8",
+        "station_id": "35941"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E19'22\"",
+        "latitude": "52N40'26\"",
+        "city": "Kruszwica",
+        "location": "Rynek 7, 189/1",
+        "station_id": "35942"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E06'34\"",
+        "latitude": "52N44'42\"",
+        "city": "Janikowo",
+        "location": "Topolowa 1, 87/47",
+        "station_id": "35894"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E25'50\"",
+        "latitude": "52N47'31\"",
+        "city": "Modliborzyce",
+        "location": "60/1",
+        "station_id": "35991"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E57'14\"",
+        "latitude": "52N39'34\"",
+        "city": "Mogilno",
+        "location": "Józefa Hallera 12, 725/5",
+        "station_id": "35930"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E56'35\"",
+        "latitude": "52N39'30\"",
+        "city": "Mogilno",
+        "location": "Przemysłowa 3, 1468/4",
+        "station_id": "35932"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E04'45\"",
+        "latitude": "52N40'14\"",
+        "city": "Lubieszewo",
+        "location": "157/13",
+        "station_id": "35985"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E49'35\"",
+        "latitude": "52N42'24\"",
+        "city": "Niestronno",
+        "location": "187",
+        "station_id": "35765"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E15'35\"",
+        "latitude": "52N31'37\"",
+        "city": "Jeziora Wielkie",
+        "location": "351/3",
+        "station_id": "35981"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E55'59\"",
+        "latitude": "52N44'40\"",
+        "city": "Dąbrowa",
+        "location": "12, 60/2",
+        "station_id": "35935"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E23'15\"",
+        "latitude": "53N11'26\"",
+        "city": "Radzicz",
+        "location": "162/8",
+        "station_id": "33383"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E09'30\"",
+        "latitude": "52N37'35\"",
+        "city": "Strzelno",
+        "location": "Elewatorowa 1, 1165",
+        "station_id": "35911"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E08'35\"",
+        "latitude": "52N33'18\"",
+        "city": "Przyjezierze",
+        "location": "162/3",
+        "station_id": "35982"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E36'14\"",
+        "latitude": "53N18'16\"",
+        "city": "Sitno",
+        "location": "116/1",
+        "station_id": "73390"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E35'13\"",
+        "latitude": "53N01'55\"",
+        "city": "Toruń",
+        "location": "Chełmińska 179",
+        "station_id": "36011"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E37'55\"",
+        "latitude": "52N59'41\"",
+        "city": "Toruń",
+        "location": "Okólna 136, 420",
+        "station_id": "36012"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E35'01\"",
+        "latitude": "53N02'28\"",
+        "city": "Toruń",
+        "location": "Szosa Chełmińska 226, 920",
+        "station_id": "36013"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E36'01\"",
+        "latitude": "53N01'17\"",
+        "city": "Toruń",
+        "location": "Piaskowa 5",
+        "station_id": "36016"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E36'25\"",
+        "latitude": "53N01'11\"",
+        "city": "Toruń",
+        "location": "Młodzieżowa 31A, 545/6",
+        "station_id": "36018"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E34'42\"",
+        "latitude": "53N02'46\"",
+        "city": "Toruń",
+        "location": "Rzepakowa 7/9, 202",
+        "station_id": "36021"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E36'28\"",
+        "latitude": "52N59'22\"",
+        "city": "Toruń",
+        "location": "gen. Gustawa Orlicza-Dreszera 66/68, 1111",
+        "station_id": "36022"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E36'31\"",
+        "latitude": "53N01'29\"",
+        "city": "Toruń",
+        "location": "Joachima Lelewela 33, 367/2",
+        "station_id": "36025"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E39'53\"",
+        "latitude": "53N01'37\"",
+        "city": "Toruń",
+        "location": "Ignacego Łyskowskiego 18, 49/60",
+        "station_id": "36030"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E41'25\"",
+        "latitude": "53N01'18\"",
+        "city": "Toruń",
+        "location": "Konstytucji 3 Maja 40, 56/20",
+        "station_id": "36040"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E41'24\"",
+        "latitude": "53N01'50\"",
+        "city": "Toruń",
+        "location": "Olsztyńska 6",
+        "station_id": "36045"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E36'52\"",
+        "latitude": "53N00'42\"",
+        "city": "Toruń",
+        "location": "Wola Zamkowa 16, 149/2",
+        "station_id": "36050"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E36'28\"",
+        "latitude": "52N59'56\"",
+        "city": "Toruń",
+        "location": "Kujawska, 387/1",
+        "station_id": "36052"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E39'39\"",
+        "latitude": "52N59'37\"",
+        "city": "Toruń",
+        "location": "Lipnowska 63, 271",
+        "station_id": "36053"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E38'05\"",
+        "latitude": "53N01'17\"",
+        "city": "Toruń",
+        "location": "Targowa 26, 18/2",
+        "station_id": "36060"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E38'53\"",
+        "latitude": "53N02'05\"",
+        "city": "Toruń",
+        "location": "Marii Skłodowskiej-Curie 55, 109/4",
+        "station_id": "36061"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E37'37\"",
+        "latitude": "53N02'31\"",
+        "city": "Toruń",
+        "location": "Mazowiecka 52, 1124/1",
+        "station_id": "36062"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E35'56\"",
+        "latitude": "53N02'07\"",
+        "city": "Toruń",
+        "location": "Legionów 232, 237",
+        "station_id": "36063"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E34'54\"",
+        "latitude": "53N00'56\"",
+        "city": "Toruń",
+        "location": "Henryka Sienkiewicza 34, 205",
+        "station_id": "36068"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E41'36\"",
+        "latitude": "53N02'53\"",
+        "city": "Toruń",
+        "location": "Ceramiczna 6, 122/139",
+        "station_id": "36070"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E37'23\"",
+        "latitude": "53N01'44\"",
+        "city": "Toruń",
+        "location": "Stefana Batorego 46-52",
+        "station_id": "36074"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E35'23\"",
+        "latitude": "53N02'39\"",
+        "city": "Toruń",
+        "location": "Chabrowa 22, 128/4",
+        "station_id": "36076"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E35'28\"",
+        "latitude": "52N59'29\"",
+        "city": "Toruń",
+        "location": "Ignacego Paderewskiego 5/11, 376",
+        "station_id": "36079"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E50'13\"",
+        "latitude": "53N20'49\"",
+        "city": "Kiełpiny",
+        "location": "221",
+        "station_id": "34966"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E38'17\"",
+        "latitude": "53N01'31\"",
+        "city": "Toruń",
+        "location": "Żółkiewskiego 15, 469/17",
+        "station_id": "36110"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E23'36\"",
+        "latitude": "53N16'38\"",
+        "city": "Karbowo",
+        "location": "77/9",
+        "station_id": "36209"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E36'03\"",
+        "latitude": "53N00'50\"",
+        "city": "Toruń",
+        "location": "Aleja Solidarności 3-13, 6/10",
+        "station_id": "35673"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E34'59\"",
+        "latitude": "53N02'59\"",
+        "city": "Toruń",
+        "location": "Zbożowa 122, 47/1",
+        "station_id": "32348"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E36'46\"",
+        "latitude": "53N03'12\"",
+        "city": "Toruń",
+        "location": "Henryka Strobanda 23, 65/0030",
+        "station_id": "32371"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E41'30\"",
+        "latitude": "53N02'28\"",
+        "city": "Toruń",
+        "location": "Józefa Chrzanowskiego 11, 359/34",
+        "station_id": "32269"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E41'30\"",
+        "latitude": "53N02'27\"",
+        "city": "Toruń",
+        "location": "Józefa Chrzanowskiego 11, 359/34",
+        "station_id": "32269"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E35'45\"",
+        "latitude": "53N01'44\"",
+        "city": "Toruń",
+        "location": "Żwirki i Wigury 49, 293",
+        "station_id": "32563"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E35'45\"",
+        "latitude": "53N01'44\"",
+        "city": "Toruń",
+        "location": "Żwirki i Wigury 49, 293",
+        "station_id": "32563"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E43'56\"",
+        "latitude": "53N00'43\"",
+        "city": "Lampusz",
+        "location": "428/13",
+        "station_id": "32490"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E37'18\"",
+        "latitude": "53N06'53\"",
+        "city": "Ostaszewo",
+        "location": "1/39",
+        "station_id": "36317"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E43'49\"",
+        "latitude": "53N09'04\"",
+        "city": "Kamionki Duże",
+        "location": "155/1",
+        "station_id": "36308"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E38'22\"",
+        "latitude": "53N04'32\"",
+        "city": "Papowo Toruńskie",
+        "location": "Kanałowa, 83/7",
+        "station_id": "36319"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E42'17\"",
+        "latitude": "53N13'51\"",
+        "city": "Zelgno",
+        "location": "145",
+        "station_id": "36307"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E34'37\"",
+        "latitude": "53N23'47\"",
+        "city": "Kurzętnik",
+        "location": "692/1",
+        "station_id": "32617"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E29'38\"",
+        "latitude": "53N01'55\"",
+        "city": "Przysiek",
+        "location": "277/15",
+        "station_id": "36131"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E23'50\"",
+        "latitude": "53N19'15\"",
+        "city": "Żmijewko",
+        "location": "dz. nr 36/3",
+        "station_id": "32615"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E20'16\"",
+        "latitude": "53N05'30\"",
+        "city": "Zławieś Wielka",
+        "location": "29a, 231/7",
+        "station_id": "36318"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E27'57\"",
+        "latitude": "52N59'16\"",
+        "city": "Cierpice",
+        "location": "Sosnowa, 100/8",
+        "station_id": "36091"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E42'55\"",
+        "latitude": "53N03'27\"",
+        "city": "Grębocin",
+        "location": "ks. Jana Pronobisa, 215",
+        "station_id": "36069"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E47'51\"",
+        "latitude": "53N06'05\"",
+        "city": "Gronowo",
+        "location": "70/4",
+        "station_id": "36710"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E46'05\"",
+        "latitude": "53N01'18\"",
+        "city": "Lubicz Górny",
+        "location": "Paderewskiego 8, Lubicz Górny Paderewskiego 8",
+        "station_id": "36603"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E43'55\"",
+        "latitude": "52N56'50\"",
+        "city": "Silno",
+        "location": "Toruńska, 155/9",
+        "station_id": "36314"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E52'20\"",
+        "latitude": "52N58'29\"",
+        "city": "Kawęczyn",
+        "location": "207/3",
+        "station_id": "36601"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E05'03\"",
+        "latitude": "53N20'35\"",
+        "city": "Uzdowo",
+        "location": "24",
+        "station_id": "22511"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E08'48\"",
+        "latitude": "53N13'52\"",
+        "city": "Księży Dwór",
+        "location": "1, 39/3",
+        "station_id": "22522"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E10'52\"",
+        "latitude": "53N14'17\"",
+        "city": "Działdowo",
+        "location": "Marii Konopnickiej 19, 848/9",
+        "station_id": "22571"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E07'31\"",
+        "latitude": "53N23'13\"",
+        "city": "Ruszkowo",
+        "location": "33, 158",
+        "station_id": "31058"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E08'43\"",
+        "latitude": "53N17'14\"",
+        "city": "Filice",
+        "location": "9, 91/1",
+        "station_id": "31198"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E03'09\"",
+        "latitude": "53N18'58\"",
+        "city": "Drzazgi",
+        "location": "6, 98/2",
+        "station_id": "31199"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E17'46\"",
+        "latitude": "53N10'46\"",
+        "city": "Iłowo-Wieś",
+        "location": "Działdowska, 83/2",
+        "station_id": "22221"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E04'11\"",
+        "latitude": "53N15'03\"",
+        "city": "Prioma",
+        "location": "78/3",
+        "station_id": "22517"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E55'36\"",
+        "latitude": "53N23'13\"",
+        "city": "Rybno",
+        "location": "Wyzwolenia 90, 48/32",
+        "station_id": "22525"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E23'31\"",
+        "latitude": "53N04'44\"",
+        "city": "Rusinowo",
+        "location": "2, 431/2",
+        "station_id": "37800"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E25'03\"",
+        "latitude": "53N04'02\"",
+        "city": "Rypin",
+        "location": "3 Maja 2, 827/14",
+        "station_id": "37801"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E24'59\"",
+        "latitude": "53N03'46\"",
+        "city": "Rypin",
+        "location": "Młyńska 12, 975/13",
+        "station_id": "37803"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E13'22\"",
+        "latitude": "53N02'24\"",
+        "city": "Ugoszcz",
+        "location": "143/6",
+        "station_id": "37754"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E19'51\"",
+        "latitude": "52N58'49\"",
+        "city": "Pinino",
+        "location": "3",
+        "station_id": "37804"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E28'04\"",
+        "latitude": "52N59'55\"",
+        "city": "Borowo",
+        "location": "284",
+        "station_id": "37806"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E44'48\"",
+        "latitude": "53N06'08\"",
+        "city": "Turzno",
+        "location": "Toruńska, 176/10",
+        "station_id": "32870"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E36'54\"",
+        "latitude": "53N08'56\"",
+        "city": "Grzywna",
+        "location": "229/5",
+        "station_id": "32873"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E34'52\"",
+        "latitude": "53N14'57\"",
+        "city": "Papowo Biskupie",
+        "location": "204",
+        "station_id": "32950"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E33'06\"",
+        "latitude": "53N10'32\"",
+        "city": "Kończewice",
+        "location": "56/3",
+        "station_id": "32952"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E37'25\"",
+        "latitude": "53N01'13\"",
+        "city": "Skrwilno",
+        "location": "Targowa 14A, 358/4",
+        "station_id": "37802"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E35'17\"",
+        "latitude": "53N01'03\"",
+        "city": "Toruń",
+        "location": "gen. Józefa Bema 73/89, 179/3",
+        "station_id": "32917"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E38'33\"",
+        "latitude": "53N11'22\"",
+        "city": "Nowa Chełmża",
+        "location": "1 Maja 1, Nowa Chełmża 1 Maja 1",
+        "station_id": "32951"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E40'37\"",
+        "latitude": "53N23'12\"",
+        "city": "Klęczkowo",
+        "location": "działka 8/1 obręb 0004",
+        "station_id": "32974"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E42'27\"",
+        "latitude": "53N20'22\"",
+        "city": "Chrusty",
+        "location": "16/1",
+        "station_id": "32966"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E42'15\"",
+        "latitude": "53N20'14\"",
+        "city": "Chrusty",
+        "location": "16/1",
+        "station_id": "32966"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E23'47\"",
+        "latitude": "53N14'46\"",
+        "city": "Brodnica",
+        "location": "Podgórna 38A, 905/6",
+        "station_id": "36814"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E26'33\"",
+        "latitude": "53N09'08\"",
+        "city": "Kretki Małe",
+        "location": "157",
+        "station_id": "36715"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E22'44\"",
+        "latitude": "53N16'02\"",
+        "city": "Kruszynki",
+        "location": "111/35",
+        "station_id": "36816"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E25'12\"",
+        "latitude": "53N15'51\"",
+        "city": "Brodnica",
+        "location": "Świerkowa 4b, 466/14",
+        "station_id": "36817"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E16'30\"",
+        "latitude": "53N13'53\"",
+        "city": "Małki",
+        "location": "172/1",
+        "station_id": "36713"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E43'54\"",
+        "latitude": "52N59'18\"",
+        "city": "Kopanino",
+        "location": "Aleja Dębów, 49/2",
+        "station_id": "33135"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E43'54\"",
+        "latitude": "52N59'18\"",
+        "city": "Kopanino",
+        "location": "Aleja Dębów, 49/2",
+        "station_id": "33135"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E23'02\"",
+        "latitude": "53N11'16\"",
+        "city": "Jeziórki",
+        "location": "18, 22",
+        "station_id": "33152"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E46'29\"",
+        "latitude": "53N24'31\"",
+        "city": "Grodziczno",
+        "location": "GRODZICZNO 35, 111/2",
+        "station_id": "33365"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E32'53\"",
+        "latitude": "52N58'44\"",
+        "city": "Mała Nieszawka",
+        "location": "Krańcowa 9, 455/7",
+        "station_id": "33370"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E36'21\"",
+        "latitude": "53N11'28\"",
+        "city": "Chełmża",
+        "location": "Polna 20, Chełmża Polna 20",
+        "station_id": "33384"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E47'52\"",
+        "latitude": "52N55'48\"",
+        "city": "Osiek nad Wisłą",
+        "location": "Toruńska 38, Osiek nad Wisłą Toruńska 38",
+        "station_id": "34492"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E47'52\"",
+        "latitude": "52N55'48\"",
+        "city": "Osiek nad Wisłą",
+        "location": "Toruńska 38",
+        "station_id": "34492"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E34'59\"",
+        "latitude": "53N25'15\"",
+        "city": "Nowe Miasto Lubawskie",
+        "location": "Kamionki, 1/4",
+        "station_id": "36801"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E35'38\"",
+        "latitude": "53N25'38\"",
+        "city": "Nowe Miasto Lubawskie",
+        "location": "Szkolna 5B, 64",
+        "station_id": "36802"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E28'54\"",
+        "latitude": "53N02'25\"",
+        "city": "Rozgarty",
+        "location": "Jaśminowa 9, Rozgarty Jaśminowa 9",
+        "station_id": "33096"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E28'54\"",
+        "latitude": "53N02'25\"",
+        "city": "Rozgarty",
+        "location": "Jaśminowa 9",
+        "station_id": "33096"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E16'23\"",
+        "latitude": "53N08'02\"",
+        "city": "Wąpielsk",
+        "location": "129/2",
+        "station_id": "73396"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E16'25\"",
+        "latitude": "53N08'03\"",
+        "city": "Wąpielsk",
+        "location": "129/2",
+        "station_id": "73396"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E45'03\"",
+        "latitude": "53N24'34\"",
+        "city": "Grodziczno",
+        "location": "209/16",
+        "station_id": "36720"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E42'12\"",
+        "latitude": "53N21'24\"",
+        "city": "Mroczno",
+        "location": "194/6",
+        "station_id": "36721"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E25'20\"",
+        "latitude": "53N07'44\"",
+        "city": "Łążyn",
+        "location": "13",
+        "station_id": "73509"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E32'16\"",
+        "latitude": "53N00'55\"",
+        "city": "Toruń",
+        "location": "Szosa Bydgoska 57A, 128/5",
+        "station_id": "33412"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E32'16\"",
+        "latitude": "53N00'55\"",
+        "city": "Toruń",
+        "location": "Szosa Bydgoska 57A, 128/5",
+        "station_id": "33412"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E58'18\"",
+        "latitude": "53N16'18\"",
+        "city": "Wąbrzeźno",
+        "location": "św. Floriana 6, Wąbrzeźno św. Floriana 6",
+        "station_id": "33496"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E07'07\"",
+        "latitude": "52N58'48\"",
+        "city": "Klonowo",
+        "location": "57, Klonowo  57",
+        "station_id": "33495"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E07'07\"",
+        "latitude": "52N58'48\"",
+        "city": "Klonowo",
+        "location": "57",
+        "station_id": "33495"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E43'43\"",
+        "latitude": "53N27'20\"",
+        "city": "Grudziądz",
+        "location": "Strażacka 1, Grudziądz Strażacka 1",
+        "station_id": "33507"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E03'13\"",
+        "latitude": "53N06'33\"",
+        "city": "Golub-Dobrzyń",
+        "location": "Plac 1000-lecia 22A, 107/11",
+        "station_id": "36852"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E03'09\"",
+        "latitude": "53N07'22\"",
+        "city": "Golub-Dobrzyń",
+        "location": "Dworcowa 11, 48/6",
+        "station_id": "36853"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E04'07\"",
+        "latitude": "53N06'13\"",
+        "city": "Golub-Dobrzyń",
+        "location": "Szosa Rypińska 44, 220/14",
+        "station_id": "36857"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E53'53\"",
+        "latitude": "53N09'21\"",
+        "city": "Kowalewo Pomorskie",
+        "location": "Strażacka 4, 156/3",
+        "station_id": "36711"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E56'42\"",
+        "latitude": "53N03'03\"",
+        "city": "Ciechocin",
+        "location": "311/7",
+        "station_id": "36855"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E06'01\"",
+        "latitude": "53N00'42\"",
+        "city": "Wielgie",
+        "location": "59/2",
+        "station_id": "37604"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E55'23\"",
+        "latitude": "53N30'01\"",
+        "city": "Dąbrówka Królewska",
+        "location": "77",
+        "station_id": "36704"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E08'23\"",
+        "latitude": "53N30'25\"",
+        "city": "Szonowo",
+        "location": "223",
+        "station_id": "36705"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E06'05\"",
+        "latitude": "53N27'00\"",
+        "city": "Świecie nad Osą",
+        "location": "436/4",
+        "station_id": "36707"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E56'45\"",
+        "latitude": "53N26'19\"",
+        "city": "Gruta",
+        "location": "23/45",
+        "station_id": "36708"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E42'05\"",
+        "latitude": "53N23'55\"",
+        "city": "Ruda",
+        "location": "63/15",
+        "station_id": "36305"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E48'12\"",
+        "latitude": "53N31'20\"",
+        "city": "Świerkocin",
+        "location": "83a, 133/16",
+        "station_id": "31574"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E04'51\"",
+        "latitude": "53N12'44\"",
+        "city": "Wielkie Pułkowo",
+        "location": "12/7",
+        "station_id": "36712"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E30'58\"",
+        "latitude": "53N15'35\"",
+        "city": "Żygląd",
+        "location": "44/2",
+        "station_id": "36312"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E23'39\"",
+        "latitude": "53N13'18\"",
+        "city": "Unisław",
+        "location": "Żwirki i Wigury, 188/1",
+        "station_id": "36724"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E51'53\"",
+        "latitude": "53N33'58\"",
+        "city": "Dusocin",
+        "location": "146/23",
+        "station_id": "36725"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E33'56\"",
+        "latitude": "52N58'20\"",
+        "city": "Toruń",
+        "location": "Poznańska 290/292, 29/15",
+        "station_id": "33579"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E38'11\"",
+        "latitude": "52N59'29\"",
+        "city": "Toruń",
+        "location": "Bociana 3, 612",
+        "station_id": "32880"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E38'43\"",
+        "latitude": "53N21'42\"",
+        "city": "Paparzyn",
+        "location": "226/2",
+        "station_id": "36763"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E09'48\"",
+        "latitude": "53N34'46\"",
+        "city": "Zawda",
+        "location": "52, 27",
+        "station_id": "34189"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E26'03\"",
+        "latitude": "53N17'08\"",
+        "city": "Kosowizna",
+        "location": "35/4",
+        "station_id": "34184"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E23'45\"",
+        "latitude": "53N15'30\"",
+        "city": "Brodnica",
+        "location": "Sienkiewicza 23, 150/1",
+        "station_id": "34194"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E35'48\"",
+        "latitude": "53N00'47\"",
+        "city": "Toruń",
+        "location": "Józefa Ignacego Kraszewskiego 1/3, 154/2",
+        "station_id": "34284"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E35'48\"",
+        "latitude": "53N00'47\"",
+        "city": "Toruń",
+        "location": "Józefa Ignacego Kraszewskiego 1/3, 154/2",
+        "station_id": "34284"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E56'43\"",
+        "latitude": "53N16'49\"",
+        "city": "Wąbrzeźno",
+        "location": "Górna 13, 20",
+        "station_id": "36822"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E46'54\"",
+        "latitude": "53N17'32\"",
+        "city": "Płużnica",
+        "location": "138/9",
+        "station_id": "36825"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E04'17\"",
+        "latitude": "53N19'10\"",
+        "city": "Książki",
+        "location": "Okrężna 2, 329/2",
+        "station_id": "36826"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E49'26\"",
+        "latitude": "53N13'35\"",
+        "city": "Ryńsk",
+        "location": "Mikołaja Ryńskiego 29, 438/2",
+        "station_id": "36827"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E47'54\"",
+        "latitude": "53N30'11\"",
+        "city": "Grudziądz",
+        "location": "Ignacego Paderewskiego 82, 207/12",
+        "station_id": "33377"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E47'54\"",
+        "latitude": "53N30'11\"",
+        "city": "Grudziądz",
+        "location": "Ignacego Paderewskiego 82A, 207/12",
+        "station_id": "33377"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E44'56\"",
+        "latitude": "53N29'22\"",
+        "city": "Grudziądz",
+        "location": "al. 23 Stycznia 26, 1/4",
+        "station_id": "36880"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E46'40\"",
+        "latitude": "53N30'08\"",
+        "city": "Grudziądz",
+        "location": "Tczewska 8, 48",
+        "station_id": "36883"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E42'58\"",
+        "latitude": "53N27'05\"",
+        "city": "Grudziądz",
+        "location": "Jana III Sobieskiego 4",
+        "station_id": "36885"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E46'05\"",
+        "latitude": "53N27'51\"",
+        "city": "Grudziądz",
+        "location": "Centrum Wyszkolenia Kawalerii 3, 21/614",
+        "station_id": "36886"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E46'40\"",
+        "latitude": "53N29'02\"",
+        "city": "Grudziądz",
+        "location": "Ludwika Waryńskiego 32-36, 2/3",
+        "station_id": "36888"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E43'32\"",
+        "latitude": "53N25'42\"",
+        "city": "Grudziądz",
+        "location": "droga Kaszubska 15, 151/1",
+        "station_id": "36891"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E45'58\"",
+        "latitude": "53N29'55\"",
+        "city": "Grudziądz",
+        "location": "Legionów 48, 7/1",
+        "station_id": "36896"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E48'54\"",
+        "latitude": "53N29'48\"",
+        "city": "Grudziądz",
+        "location": "Trynkowa 49, 203/14",
+        "station_id": "36897"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E40'36\"",
+        "latitude": "53N25'46\"",
+        "city": "Rozgarty",
+        "location": "5, 42",
+        "station_id": "33098"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E02'55\"",
+        "latitude": "52N39'38\"",
+        "city": "Włocławek",
+        "location": "Szpitalna 30, 4/8",
+        "station_id": "37004"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E06'41\"",
+        "latitude": "52N39'16\"",
+        "city": "Włocławek",
+        "location": "Płocka 91, 1/14",
+        "station_id": "37005"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E02'16\"",
+        "latitude": "52N37'03\"",
+        "city": "Włocławek",
+        "location": "Aleja Jana Pawła II 15, 1/175",
+        "station_id": "37006"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E03'16\"",
+        "latitude": "52N38'56\"",
+        "city": "Włocławek",
+        "location": "Stefana Żeromskiego 19/21, 20/4",
+        "station_id": "37008"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E03'40\"",
+        "latitude": "52N39'18\"",
+        "city": "Włocławek",
+        "location": "Kazimierza Pułaskiego 10-12, 5/50",
+        "station_id": "37017"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E03'05\"",
+        "latitude": "52N38'38\"",
+        "city": "Włocławek",
+        "location": "Płowiecka 7, 157/20",
+        "station_id": "37019"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E01'07\"",
+        "latitude": "52N36'22\"",
+        "city": "Włocławek",
+        "location": "Kościelna 8",
+        "station_id": "37020"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E57'34\"",
+        "latitude": "52N42'51\"",
+        "city": "Włocławek",
+        "location": "Toruńska 222, 16",
+        "station_id": "37318"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E10'18\"",
+        "latitude": "52N23'45\"",
+        "city": "Narty",
+        "location": "116/8",
+        "station_id": "34585"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E00'25\"",
+        "latitude": "52N41'00\"",
+        "city": "Włocławek",
+        "location": "Toruńska 156, Włocławek Toruńska 156",
+        "station_id": "32358"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E00'24\"",
+        "latitude": "52N41'01\"",
+        "city": "Włocławek",
+        "location": "Toruńska 156",
+        "station_id": "32358"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E15'20\"",
+        "latitude": "52N36'52\"",
+        "city": "Zuzałka",
+        "location": "39",
+        "station_id": "32328"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E06'19\"",
+        "latitude": "52N38'52\"",
+        "city": "Włocławek",
+        "location": "Myśliwska 53, Włocławek Myśliwska 53",
+        "station_id": "33378"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E06'19\"",
+        "latitude": "52N38'52\"",
+        "city": "Włocławek",
+        "location": "Myśliwska 53",
+        "station_id": "33378"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E12'20\"",
+        "latitude": "52N26'27\"",
+        "city": "Bileńska Kolonia",
+        "location": "162",
+        "station_id": "32992"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E08'35\"",
+        "latitude": "52N29'31\"",
+        "city": "Dąbrówka",
+        "location": "4",
+        "station_id": "33260"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E05'15\"",
+        "latitude": "52N31'41\"",
+        "city": "Wola Nakonowska",
+        "location": "194/1",
+        "station_id": "33263"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E11'24\"",
+        "latitude": "52N28'07\"",
+        "city": "Unisławice",
+        "location": "43",
+        "station_id": "33312"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E51'22\"",
+        "latitude": "52N43'51\"",
+        "city": "Kałęczynek",
+        "location": "139",
+        "station_id": "32993"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E59'52\"",
+        "latitude": "52N33'23\"",
+        "city": "Kruszynek",
+        "location": "90",
+        "station_id": "33259"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E42'29\"",
+        "latitude": "52N51'54\"",
+        "city": "Aleksandrów Kujawski",
+        "location": "Halinowo 3, Aleksandrów Kujawski Halinowo 3",
+        "station_id": "33522"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E57'01\"",
+        "latitude": "52N47'08\"",
+        "city": "Bobrowniki",
+        "location": "Wyzwolenia, 113",
+        "station_id": "34082"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E56'13\"",
+        "latitude": "52N39'09\"",
+        "city": "Wieniec",
+        "location": "Podgórna, 179/2",
+        "station_id": "34297"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E08'59\"",
+        "latitude": "52N32'08\"",
+        "city": "Kowal",
+        "location": "Dobrzyńska 4, 703",
+        "station_id": "37319"
+    }
+]
