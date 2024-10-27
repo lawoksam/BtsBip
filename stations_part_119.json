@@ -1,0 +1,4002 @@
+[
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E03'38\"",
+        "latitude": "50N16'16\"",
+        "city": "Katowice",
+        "location": "Roździeńskiego 95, Katowice Roździeńskiego 95",
+        "station_id": "KAT0192"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E01'39\"",
+        "latitude": "50N16'59\"",
+        "city": "Katowice",
+        "location": "Konduktorska 39A, Katowice Konduktorska 39A",
+        "station_id": "KAT0198"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E53'48\"",
+        "latitude": "50N01'15\"",
+        "city": "Kraków",
+        "location": "Bobrzyńskiego 12, Kraków Bobrzyńskiego 12",
+        "station_id": "KRA0300"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E01'10\"",
+        "latitude": "50N01'11\"",
+        "city": "Kraków",
+        "location": "Imielna 7, Kraków Imielna 7",
+        "station_id": "KRA0280"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E53'28\"",
+        "latitude": "50N01'17\"",
+        "city": "Kraków",
+        "location": "Czerwone Maki 87A, Kraków Czerwone Maki 87A",
+        "station_id": "KRA0301"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E59'30\"",
+        "latitude": "50N07'52\"",
+        "city": "Tychy",
+        "location": "Katowicka 14, Tychy Katowicka 14",
+        "station_id": "TYC0545"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E50'09\"",
+        "latitude": "49N58'25\"",
+        "city": "Skawina",
+        "location": "Kopernika 13, Skawina Kopernika 13",
+        "station_id": "KRA0252"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E44'42\"",
+        "latitude": "49N32'34\"",
+        "city": "Lubatowa",
+        "location": "dz. nr 5064",
+        "station_id": "KRO6001"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E19'58\"",
+        "latitude": "50N15'22\"",
+        "city": "Brzóza Królewska",
+        "location": "dz. nr 3085",
+        "station_id": "LEZ5004"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E20'50\"",
+        "latitude": "49N50'27\"",
+        "city": "Przedmieście Dubieckie",
+        "location": "dz. nr 75/2",
+        "station_id": "PRZ7008"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E55'35\"",
+        "latitude": "50N16'03\"",
+        "city": "Grądy",
+        "location": "dz. nr 217/2",
+        "station_id": "DBR7003"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E47'24\"",
+        "latitude": "50N02'36\"",
+        "city": "Nockowa",
+        "location": "dz. nr 338/1",
+        "station_id": "RZE5004"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E56'43\"",
+        "latitude": "50N40'43\"",
+        "city": "Radomyśl Nad Sanem",
+        "location": "dz. nr 1562/6",
+        "station_id": "STW7007"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E03'33\"",
+        "latitude": "50N34'36\"",
+        "city": "Stalowa Wola",
+        "location": "Aleja Jana Pawła II 25a",
+        "station_id": "STW3306"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E34'02\"",
+        "latitude": "51N15'19\"",
+        "city": "Bolesławiec",
+        "location": "Jeleniogórska 4",
+        "station_id": "BOL3013"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E28'00\"",
+        "latitude": "50N19'04\"",
+        "city": "Mielec",
+        "location": "Wojska Polskiego, dz. nr 114/22",
+        "station_id": "MIE3310"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E05'02\"",
+        "latitude": "52N18'21\"",
+        "city": "Warszawa",
+        "location": "Malborska 51, Warszawa Malborska 51",
+        "station_id": "WAR8067"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E47'21\"",
+        "latitude": "49N47'27\"",
+        "city": "Skoczów",
+        "location": "Ciężarowa 49, Skoczów Ciężarowa 49",
+        "station_id": "CIS2504"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E07'20\"",
+        "latitude": "50N49'57\"",
+        "city": "Częstochowa",
+        "location": "Brzeźnicka 59",
+        "station_id": "CZE0518"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E07'56\"",
+        "latitude": "50N47'26\"",
+        "city": "Częstochowa",
+        "location": "Niepodległości 25",
+        "station_id": "CZE0525"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E07'54\"",
+        "latitude": "50N16'37\"",
+        "city": "Sosnowiec",
+        "location": "Małachowskiego 24, Sosnowiec Małachowskiego 24",
+        "station_id": "SOS0135"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E24'47\"",
+        "latitude": "52N53'35\"",
+        "city": "Gniewkowo",
+        "location": "Ogrodowa, dz. nr 381/11",
+        "station_id": "INO0302"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E51'59\"",
+        "latitude": "53N33'57\"",
+        "city": "Dusocin",
+        "location": "dz. nr 146/20",
+        "station_id": "GRU0901"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E20'50\"",
+        "latitude": "52N41'31\"",
+        "city": "Mokowo",
+        "location": "dz. nr 172/1",
+        "station_id": "LPN1301"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E02'03\"",
+        "latitude": "50N17'06\"",
+        "city": "Siemianowice Śląskie",
+        "location": "Chemiczna 14, Siemianowice Śląskie Chemiczna 14",
+        "station_id": "SIE1017"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E48'19\"",
+        "latitude": "50N26'23\"",
+        "city": "Tarnowskie Góry",
+        "location": "Pyskowicka 47, Tarnowskie Góry Pyskowicka 47",
+        "station_id": "TRG2019"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E55'10\"",
+        "latitude": "50N20'51\"",
+        "city": "Bytom",
+        "location": "pl. Kościuszki 1, Bytom pl. Kościuszki 1",
+        "station_id": "GZB0170"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E19'42\"",
+        "latitude": "49N55'20\"",
+        "city": "Buczyna",
+        "location": "dz. nr 14",
+        "station_id": "BOC7003"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E12'05\"",
+        "latitude": "52N18'00\"",
+        "city": "Cicha Góra",
+        "location": "dz. nr 21",
+        "station_id": "NWY3011"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E19'18\"",
+        "latitude": "52N21'51\"",
+        "city": "Kuślin",
+        "location": "dz. nr 168/3",
+        "station_id": "NWY3102"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E47'50\"",
+        "latitude": "53N18'32\"",
+        "city": "Płytnica",
+        "location": "dz. nr 74/2",
+        "station_id": "ZLO3081"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E03'07\"",
+        "latitude": "52N11'16\"",
+        "city": "Tuchorza",
+        "location": "dz. nr 351",
+        "station_id": "WLT3024"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E34'49\"",
+        "latitude": "52N26'29\"",
+        "city": "Międzyrzecz",
+        "location": "Konstytucji 3-go Maja 18, dz. nr 328",
+        "station_id": "MIR3004"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E57'10\"",
+        "latitude": "52N24'17\"",
+        "city": "Poznań",
+        "location": "Jana Pawła II 14, Poznań Jana Pawła II 14",
+        "station_id": "POZ0197"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E14'36\"",
+        "latitude": "51N42'28\"",
+        "city": "Szlichtyngowa",
+        "location": "dz. nr 348/2",
+        "station_id": "WSC3021"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E15'57\"",
+        "latitude": "50N46'00\"",
+        "city": "Wałbrzych",
+        "location": "1-go Maja 64, Wałbrzych 1-go Maja 64",
+        "station_id": "WAL8300"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E36'32\"",
+        "latitude": "50N40'24\"",
+        "city": "Bielawa",
+        "location": "Ostroszowicka 11, dz. nr 1082/40",
+        "station_id": "DZR3027"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E32'13\"",
+        "latitude": "51N16'15\"",
+        "city": "Bolesławiec",
+        "location": "dz. nr 38/4",
+        "station_id": "BOL3012"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "23E19'46\"",
+        "latitude": "53N01'52\"",
+        "city": "Zabłudów",
+        "location": "dz. nr 105/8",
+        "station_id": "BIA4450"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E04'15\"",
+        "latitude": "51N06'54\"",
+        "city": "Wrocław",
+        "location": "Grunwaldzka 106, Wrocław Grunwaldzka 106",
+        "station_id": "WRO1188"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E05'59\"",
+        "latitude": "51N06'04\"",
+        "city": "Wrocław",
+        "location": "Pautscha 5//7",
+        "station_id": "WRO1236"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E59'32\"",
+        "latitude": "51N06'38\"",
+        "city": "Wrocław",
+        "location": "Fabryczna, dz. nr 1/13",
+        "station_id": "WRO1270"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E01'59\"",
+        "latitude": "51N06'13\"",
+        "city": "Wrocław",
+        "location": "Świdnicka 40, Renoma 2",
+        "station_id": "WRO1263"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E02'40\"",
+        "latitude": "51N05'08\"",
+        "city": "Wrocław",
+        "location": "Widna 3, Wrocław Widna 3",
+        "station_id": "WRO1237"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E00'43\"",
+        "latitude": "51N03'33\"",
+        "city": "Wrocław",
+        "location": "Zwycięska 45, Award Business Park",
+        "station_id": "WRO1207"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E46'56\"",
+        "latitude": "51N21'14\"",
+        "city": "Mąkoszyce",
+        "location": "dz. nr 229/8",
+        "station_id": "OSI3032"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E51'16\"",
+        "latitude": "51N37'30\"",
+        "city": "Sierakowo",
+        "location": "dz. nr 76/9",
+        "station_id": "RWC3005"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E23'36\"",
+        "latitude": "52N27'44\"",
+        "city": "Grodziec",
+        "location": "dz. nr 175",
+        "station_id": "PLN4402"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E02'30\"",
+        "latitude": "50N47'46\"",
+        "city": "Konieczno",
+        "location": "dz. nr 1123, obręb 0012",
+        "station_id": "WLS4409"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E16'43\"",
+        "latitude": "51N25'40\"",
+        "city": "Podwody",
+        "location": "dz. nr 673/1",
+        "station_id": "BEL3313"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E00'34\"",
+        "latitude": "52N24'00\"",
+        "city": "Węgrów",
+        "location": "Polna 3, dz. nr 5662",
+        "station_id": "WEG3302"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E00'50\"",
+        "latitude": "51N28'15\"",
+        "city": "Smardzewice",
+        "location": "dz. nr 1409/22",
+        "station_id": "TOM4403"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E09'56\"",
+        "latitude": "52N12'03\"",
+        "city": "Warszawa",
+        "location": "Rogatkowa 14, Warszawa Rogatkowa 14",
+        "station_id": "WAR2152"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E45'55\"",
+        "latitude": "50N41'54\"",
+        "city": "Sandomierz",
+        "location": "Mokoszyńska 1, Sandomierz Mokoszyńska 1",
+        "station_id": "SND3305"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E21'12\"",
+        "latitude": "51N36'25\"",
+        "city": "Brzóza",
+        "location": "dz. nr 212/2",
+        "station_id": "KOZ4460"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E52'16\"",
+        "latitude": "51N35'13\"",
+        "city": "Dębno Polskie",
+        "location": "dz. nr 237/20",
+        "station_id": "RWC3007"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E43'58\"",
+        "latitude": "50N54'06\"",
+        "city": "Jelenia Góra",
+        "location": "pl. Niepodległości 1, Jelenia Góra pl. Niepodległości 1",
+        "station_id": "JEL3019"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E26'57\"",
+        "latitude": "51N53'27\"",
+        "city": "Skarżyn",
+        "location": "130/2",
+        "station_id": "TUR3091"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E54'06\"",
+        "latitude": "51N07'04\"",
+        "city": "Złotoryja",
+        "location": "Jerzmanicka 1, Złotoryja Jerzmanicka 1",
+        "station_id": "ZLT3003"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E15'28\"",
+        "latitude": "52N10'28\"",
+        "city": "Siedlce",
+        "location": "Spokojna 37, dz. nr 59/1",
+        "station_id": "SDC3317"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E14'01\"",
+        "latitude": "52N06'15\"",
+        "city": "Otwock",
+        "location": "Kraszewskiego 69A, Otwock Kraszewskiego 69A",
+        "station_id": "OTW1004"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E13'36\"",
+        "latitude": "51N16'04\"",
+        "city": "Bogumiłów",
+        "location": "Marii Skłodowskiej Curie 12, dz. nr 286/3, 285/3, 284/3",
+        "station_id": "BEL4403"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E27'43\"",
+        "latitude": "51N04'36\"",
+        "city": "Rząsiny",
+        "location": "dz. nr 67",
+        "station_id": "LWO3206"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E50'05\"",
+        "latitude": "53N35'33\"",
+        "city": "Żółte",
+        "location": "dz. nr 121/1",
+        "station_id": "DRA2001"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E43'56\"",
+        "latitude": "53N35'18\"",
+        "city": "Zajezierze",
+        "location": "dz. nr 124/3",
+        "station_id": "LBZ1201"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E49'57\"",
+        "latitude": "50N35'34\"",
+        "city": "Ząbkowice Śląskie",
+        "location": "Jasna 44",
+        "station_id": "ZBK3003"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E30'38\"",
+        "latitude": "50N50'04\"",
+        "city": "Świdnica",
+        "location": "Składowa 3, dz. nr 1641",
+        "station_id": "SWI3007"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E00'45\"",
+        "latitude": "51N06'39\"",
+        "city": "Wrocław",
+        "location": "Braniborska 38-40",
+        "station_id": "WRO1249"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E04'31\"",
+        "latitude": "51N04'15\"",
+        "city": "Wrocław",
+        "location": "Wiaduktowa 19, dz. nr 6/41",
+        "station_id": "WRO1267"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E53'33\"",
+        "latitude": "53N09'44\"",
+        "city": "Sulki",
+        "location": "dz. nr 6/12",
+        "station_id": "LOM4440"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E44'41\"",
+        "latitude": "51N19'54\"",
+        "city": "Dymek",
+        "location": "dz. nr 253",
+        "station_id": "WIE4498"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E14'28\"",
+        "latitude": "52N20'20\"",
+        "city": "Wołomin",
+        "location": "1-go Maja 36, Wołomin 1-go Maja 36",
+        "station_id": "WLM1001"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "14E53'16\"",
+        "latitude": "52N27'17\"",
+        "city": "Ośno Lubuskie",
+        "location": "dz. nr 789/19",
+        "station_id": "SLP3031"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E00'51\"",
+        "latitude": "52N11'11\"",
+        "city": "Warszawa",
+        "location": "Ksawerów 23, Warszawa Ksawerów 23",
+        "station_id": "WAR1229"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E12'12\"",
+        "latitude": "51N48'41\"",
+        "city": "Janolin",
+        "location": "dz. nr 38",
+        "station_id": "RAW4440"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E49'30\"",
+        "latitude": "49N39'30\"",
+        "city": "Wisła",
+        "location": "Jawornik 52a, Wisła Jawornik 52a",
+        "station_id": "CIS7007"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E53'51\"",
+        "latitude": "50N05'23\"",
+        "city": "Kraków",
+        "location": "Josepha Conrada 66, IKEA",
+        "station_id": "KRA0294"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E04'29\"",
+        "latitude": "53N01'30\"",
+        "city": "Dziedzice",
+        "location": "dz. nr 5/5",
+        "station_id": "MSB0701"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E12'14\"",
+        "latitude": "49N45'49\"",
+        "city": "Janowice",
+        "location": "dz. nr 486/2",
+        "station_id": "LIM2006"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E51'01\"",
+        "latitude": "53N50'19\"",
+        "city": "Nielep",
+        "location": "dz. nr 138/5",
+        "station_id": "SWW1301"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E50'02\"",
+        "latitude": "49N31'30\"",
+        "city": "Bukowina-Osiedle",
+        "location": "dz. nr 5226/6",
+        "station_id": "NWT7007"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E41'38\"",
+        "latitude": "50N11'44\"",
+        "city": "Dobra",
+        "location": "dz. nr 493",
+        "station_id": "PRW7003"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E45'24\"",
+        "latitude": "50N16'47\"",
+        "city": "Majdan Sieniawski",
+        "location": "dz. nr 2259,2260,2261",
+        "station_id": "PRW7001"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E56'44\"",
+        "latitude": "50N04'11\"",
+        "city": "Kraków",
+        "location": "Pawia 7, High5",
+        "station_id": "KRA0302"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E56'47\"",
+        "latitude": "50N04'12\"",
+        "city": "Kraków",
+        "location": "Pawia 9, High5",
+        "station_id": "KRA0303"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E32'58\"",
+        "latitude": "50N05'38\"",
+        "city": "Rybnik",
+        "location": "Kościuszki 29a, Rybnik Kościuszki 29a",
+        "station_id": "RYB1038"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E31'04\"",
+        "latitude": "51N57'23\"",
+        "city": "Zielona Góra",
+        "location": "Ruczajowa 1, Zielona Góra Ruczajowa 1",
+        "station_id": "ZGO1006"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E46'51\"",
+        "latitude": "53N27'04\"",
+        "city": "Bagienica",
+        "location": "dz. nr 211",
+        "station_id": "TUC0401"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E50'01\"",
+        "latitude": "49N48'55\"",
+        "city": "Jasienica",
+        "location": "dz. nr 768",
+        "station_id": "MSL6005"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E56'44\"",
+        "latitude": "49N27'38\"",
+        "city": "Mochnaczka Wyżna",
+        "location": "dz. nr 30/1",
+        "station_id": "NWS7011"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E51'11\"",
+        "latitude": "49N34'03\"",
+        "city": "Kamionka Wielka",
+        "location": "dz. nr 2786",
+        "station_id": "NWS7010"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E35'28\"",
+        "latitude": "53N31'04\"",
+        "city": "Radomno",
+        "location": "94, dz. nr 206/5",
+        "station_id": "NWM1001"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E42'24\"",
+        "latitude": "49N37'26\"",
+        "city": "Nowy Sącz",
+        "location": "Lwowska 80, Nowy Sącz Lwowska 80",
+        "station_id": "NWS2038"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E31'32\"",
+        "latitude": "50N11'56\"",
+        "city": "Dębno",
+        "location": "dz. nr 999/6",
+        "station_id": "LEZ7006"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E14'04\"",
+        "latitude": "50N24'53\"",
+        "city": "Święcice",
+        "location": "dz. nr 82/1",
+        "station_id": "MIC7002"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E57'14\"",
+        "latitude": "49N24'03\"",
+        "city": "Krynica-Zdrój",
+        "location": "Kraszewskiego 142",
+        "station_id": "NWS5005"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E43'24\"",
+        "latitude": "54N32'50\"",
+        "city": "Lębork",
+        "location": "Pionierów 15, dz. nr 31/13",
+        "station_id": "LEB0006"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E14'32\"",
+        "latitude": "54N12'19\"",
+        "city": "Drogosze",
+        "location": "Drogosze 5, dz. nr 7",
+        "station_id": "KET1001"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E41'30\"",
+        "latitude": "53N39'16\"",
+        "city": "Silno",
+        "location": "dz. nr 452",
+        "station_id": "CHJ0601"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E06'50\"",
+        "latitude": "50N05'57\"",
+        "city": "Kraków",
+        "location": "Za ogrodem, dz. nr 19/1, obręb 16",
+        "station_id": "KRA7005"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E13'25\"",
+        "latitude": "51N54'42\"",
+        "city": "Borek Wielkopolski",
+        "location": "dz. nr 677/4",
+        "station_id": "GOS3031"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E15'12\"",
+        "latitude": "53N29'53\"",
+        "city": "Lipka",
+        "location": "IV Dywizji Piechoty, dz. nr 254/32",
+        "station_id": "ZLO3042"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E03'35\"",
+        "latitude": "51N36'40\"",
+        "city": "Pakosław",
+        "location": "Dubińska 1, dz. nr 46/3",
+        "station_id": "RWC3031"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E12'21\"",
+        "latitude": "51N23'38\"",
+        "city": "Lubin",
+        "location": "Sikorskiego 20, Lubin Sikorskiego 20",
+        "station_id": "LBN8301"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E54'52\"",
+        "latitude": "52N18'52\"",
+        "city": "Czapury",
+        "location": "Poznańska 101a, Czapury Poznańska 101a",
+        "station_id": "POZ0219"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E25'33\"",
+        "latitude": "52N29'58\"",
+        "city": "Fałkowo",
+        "location": "dz. nr 48",
+        "station_id": "GNI3061"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E00'02\"",
+        "latitude": "52N07'52\"",
+        "city": "Siedlec",
+        "location": "Siedlec, dz. nr 492",
+        "station_id": "WLT3022"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E50'26\"",
+        "latitude": "52N23'45\"",
+        "city": "Poznań",
+        "location": "Jeleniogórska, dz. nr 136",
+        "station_id": "POZ0275"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E28'06\"",
+        "latitude": "51N52'44\"",
+        "city": "Ochla",
+        "location": "Plac Bogusławy Błyskoszowej 6, Ochla Plac Bogusławy Błyskoszowej 6",
+        "station_id": "ZGO3016"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E32'34\"",
+        "latitude": "51N49'37\"",
+        "city": "Łódź",
+        "location": "Okólna 47, dz. nr 55/6",
+        "station_id": "LOD1228"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E04'01\"",
+        "latitude": "50N27'27\"",
+        "city": "Oleśnica",
+        "location": "dz. nr 275/3",
+        "station_id": "STA4410"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "14E45'59\"",
+        "latitude": "51N35'40\"",
+        "city": "Żarki Wielkie",
+        "location": "dz. nr 228/3",
+        "station_id": "ZAR3042"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "14E49'50\"",
+        "latitude": "51N34'02\"",
+        "city": "Włostowice",
+        "location": "dz. nr 66",
+        "station_id": "ZAR3043"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E47'08\"",
+        "latitude": "52N17'44\"",
+        "city": "Izabelin",
+        "location": "Truskaw, dz. nr 865/3",
+        "station_id": "WAR1533"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E35'56\"",
+        "latitude": "51N27'17\"",
+        "city": "Gałki",
+        "location": "43, dz. nr 212",
+        "station_id": "PZS4450"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E39'14\"",
+        "latitude": "52N06'35\"",
+        "city": "Grodzisk Mazowiecki",
+        "location": "Okrężna, dz. nr 12/4, obręb 0047",
+        "station_id": "GRO3303"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E37'19\"",
+        "latitude": "52N04'45\"",
+        "city": "Odrano-Wola",
+        "location": "Okopowa 5, dz. nr 392, obręb 0025",
+        "station_id": "GRO3307"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E54'49\"",
+        "latitude": "52N40'47\"",
+        "city": "Bielany",
+        "location": "25, dz. nr 121",
+        "station_id": "PLT4402"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E57'23\"",
+        "latitude": "51N51'29\"",
+        "city": "Słupia",
+        "location": "126, dz. nr 50",
+        "station_id": "SKI4430"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E36'59\"",
+        "latitude": "52N11'35\"",
+        "city": "Błonie",
+        "location": "Jana Pawła II 1b, Błonie Jana Pawła II 1b",
+        "station_id": "BLO3304"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E42'49\"",
+        "latitude": "53N43'58\"",
+        "city": "Rajgród",
+        "location": "dz. nr 701/2",
+        "station_id": "GRA4401"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E09'52\"",
+        "latitude": "51N22'12\"",
+        "city": "Radom",
+        "location": "Witkacego 6B, dz. nr 343/2",
+        "station_id": "RAD1046"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E48'49\"",
+        "latitude": "52N11'32\"",
+        "city": "Konotopa",
+        "location": "dz. nr 148/3 obręb 0007",
+        "station_id": "OZA3308"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E55'50\"",
+        "latitude": "53N38'54\"",
+        "city": "Jaziewo",
+        "location": "dz. nr 163/1",
+        "station_id": "AUG4403"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E51'00\"",
+        "latitude": "52N31'49\"",
+        "city": "Drgicz",
+        "location": "dz. nr 637",
+        "station_id": "WEG4420"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E56'53\"",
+        "latitude": "53N58'15\"",
+        "city": "Olszanka",
+        "location": "dz. nr 12/2",
+        "station_id": "AUG4475"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E15'09\"",
+        "latitude": "51N14'24\"",
+        "city": "Bujak",
+        "location": "dz. nr 323/1",
+        "station_id": "RAD4470"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E27'55\"",
+        "latitude": "51N29'04\"",
+        "city": "Pionki",
+        "location": "dz. nr 302/105, obręb: 0001",
+        "station_id": "RAD3324"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E05'05\"",
+        "latitude": "51N02'41\"",
+        "city": "Starachowice",
+        "location": "al. Armii Krajowej 10, Starachowice al. Armii Krajowej 10",
+        "station_id": "STC3308"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E34'31\"",
+        "latitude": "54N24'33\"",
+        "city": "Gdańsk",
+        "location": "Leona Droszyńskiego 8/11, Gdańsk Leona Droszyńskiego 8/11",
+        "station_id": "GDA1049"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E53'44\"",
+        "latitude": "52N08'03\"",
+        "city": "Janki",
+        "location": "Pl. Szwedzki 3, Janki Pl. Szwedzki 3",
+        "station_id": "WAR8068"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E59'50\"",
+        "latitude": "50N00'05\"",
+        "city": "Rzeszów",
+        "location": "Koło 4C",
+        "station_id": "RZE7012"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E18'05\"",
+        "latitude": "49N53'56\"",
+        "city": "Witkowice",
+        "location": "dz. nr 1305/5",
+        "station_id": "OSW7001"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E03'45\"",
+        "latitude": "51N37'51\"",
+        "city": "Sieniawa Żarska",
+        "location": "dz. nr 291",
+        "station_id": "ZAR3063"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E43'21\"",
+        "latitude": "54N12'26\"",
+        "city": "Sianożęty",
+        "location": "Lotnicza 17, Sianożęty Lotnicza 17",
+        "station_id": "KOL1002"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E39'28\"",
+        "latitude": "50N08'59\"",
+        "city": "Międzylesie",
+        "location": "Tysiąclecia Państwa Polskiego 2a, dz. nr 390/3",
+        "station_id": "KLO3191"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E44'27\"",
+        "latitude": "54N26'08\"",
+        "city": "Cewice",
+        "location": "Węgrzynowicza, dz. nr 269/2 o. 0002",
+        "station_id": "LEB0201"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E46'20\"",
+        "latitude": "53N46'02\"",
+        "city": "Rakowiec",
+        "location": "dz. nr 350/4 o. 0004",
+        "station_id": "TCZ0801"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E19'06\"",
+        "latitude": "51N36'02\"",
+        "city": "Żagań",
+        "location": "Tartakowa 1, Żagań Tartakowa 1",
+        "station_id": "ZAG3005"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E07'30\"",
+        "latitude": "53N04'58\"",
+        "city": "Człopa",
+        "location": "Kolejowa, dz. nr 158/1",
+        "station_id": "WCK0101"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E38'39\"",
+        "latitude": "54N03'10\"",
+        "city": "Gościno",
+        "location": "dz. nr 601/2",
+        "station_id": "KOL0303"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E27'17\"",
+        "latitude": "53N39'44\"",
+        "city": "Radowo Małe",
+        "location": "dz. nr 292/2",
+        "station_id": "LBZ1001"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E18'52\"",
+        "latitude": "53N51'50\"",
+        "city": "Wielanowo",
+        "location": "dz. nr 27/6",
+        "station_id": "SCZ1901"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E15'06\"",
+        "latitude": "54N45'14\"",
+        "city": "Starzyno",
+        "location": "dz. nr 218/7",
+        "station_id": "PUC2301"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "14E34'30\"",
+        "latitude": "53N21'10\"",
+        "city": "Szczecin",
+        "location": "Dmowskiego 69, Szczecin Dmowskiego 69",
+        "station_id": "SZC1172"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "14E26'13\"",
+        "latitude": "53N26'00\"",
+        "city": "Mierzyn",
+        "location": "Lubieszyńska 42, dz. nr 27/1",
+        "station_id": "SZC1176"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E16'42\"",
+        "latitude": "50N32'58\"",
+        "city": "Rozmierka",
+        "location": "dz. nr 745",
+        "station_id": "STR7006"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "14E33'53\"",
+        "latitude": "52N21'06\"",
+        "city": "Słubice",
+        "location": "Reja 2, dz. nr 621/23",
+        "station_id": "SLP3004"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "14E38'37\"",
+        "latitude": "52N35'51\"",
+        "city": "Kostrzyn nad Odrą",
+        "location": "Jana Pawła II 52",
+        "station_id": "GOR3007"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E51'32\"",
+        "latitude": "51N07'17\"",
+        "city": "Wrocław",
+        "location": "Jarnołtowska 15",
+        "station_id": "WRO1298"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E59'03\"",
+        "latitude": "53N26'55\"",
+        "city": "Radawnica",
+        "location": "Złotowska 1, dz. nr 117",
+        "station_id": "ZLO3061"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E03'26\"",
+        "latitude": "51N06'45\"",
+        "city": "Wrocław",
+        "location": "Curie-Skłodowskiej 12",
+        "station_id": "WRO1266"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E39'42\"",
+        "latitude": "52N12'06\"",
+        "city": "Koło",
+        "location": "Sienkiewicza 76, dz. nr 53/2",
+        "station_id": "KLS3004"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E13'14\"",
+        "latitude": "53N11'34\"",
+        "city": "Falmierowo",
+        "location": "dz. nr 118/1",
+        "station_id": "PIL3043"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E51'08\"",
+        "latitude": "53N20'34\"",
+        "city": "Tarnowka",
+        "location": "dz. nr 970",
+        "station_id": "ZLO3082"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E03'44\"",
+        "latitude": "51N49'03\"",
+        "city": "Piotrów",
+        "location": "dz. nr 11",
+        "station_id": "KAL3151"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E53'53\"",
+        "latitude": "52N23'48\"",
+        "city": "Poznań",
+        "location": "Limanowskiego 13, Poznań Limanowskiego 13",
+        "station_id": "POZ0282"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E57'50\"",
+        "latitude": "51N07'36\"",
+        "city": "Wrocław",
+        "location": "Bajana 26",
+        "station_id": "WRO1284"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E55'28\"",
+        "latitude": "52N24'48\"",
+        "city": "Poznań",
+        "location": "Solna 18, Poznań Solna 18",
+        "station_id": "POZ0267"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E00'32\"",
+        "latitude": "52N13'21\"",
+        "city": "Warszawa",
+        "location": "Noakowskiego 26, Warszawa Noakowskiego 26",
+        "station_id": "WAR1220"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E56'42\"",
+        "latitude": "52N17'05\"",
+        "city": "Warszawa",
+        "location": "Kasprowicza 64, Warszawa Kasprowicza 64",
+        "station_id": "WAR1550"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E42'04\"",
+        "latitude": "51N47'08\"",
+        "city": "Błędów",
+        "location": "Nowy Swiat 11, dz. nr 215/2",
+        "station_id": "GRJ4410"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E22'18\"",
+        "latitude": "52N02'30\"",
+        "city": "Grzymiszew",
+        "location": "dz. nr 695",
+        "station_id": "KON3161"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E11'26\"",
+        "latitude": "50N33'40\"",
+        "city": "Staszów",
+        "location": "11-go Listopada 78, Staszów 11-go Listopada 78",
+        "station_id": "STA3303"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E17'35\"",
+        "latitude": "52N07'48\"",
+        "city": "Otwock",
+        "location": "Grunwaldzka 105, Otwock Grunwaldzka 105",
+        "station_id": "OTW3316"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E00'34\"",
+        "latitude": "52N14'42\"",
+        "city": "Warszawa",
+        "location": "Senatorska 16, CitiBank",
+        "station_id": "WAR1273"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E40'37\"",
+        "latitude": "50N40'51\"",
+        "city": "Frampol",
+        "location": "dz. nr 526, obr. 0008",
+        "station_id": "BIL4411"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E31'52\"",
+        "latitude": "52N12'44\"",
+        "city": "Mordy",
+        "location": "11-go Listopada, dz. nr 2305/2",
+        "station_id": "SDC4441"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E25'44\"",
+        "latitude": "51N43'38\"",
+        "city": "Łódź",
+        "location": "Św. Franciszka z Asyżu 53, Łódź Św. Franciszka z Asyżu 53",
+        "station_id": "LOD1224"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E57'53\"",
+        "latitude": "52N12'35\"",
+        "city": "Warszawa",
+        "location": "Opaczewska 31, Warszawa Opaczewska 31",
+        "station_id": "WAR1151"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E58'00\"",
+        "latitude": "52N13'09\"",
+        "city": "Warszawa",
+        "location": "Aleje Jerozolimskie 142, West Station I",
+        "station_id": "WAR8041"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E34'17\"",
+        "latitude": "51N15'31\"",
+        "city": "Lublin",
+        "location": "Obywatelska 4, dz. nr 28/2",
+        "station_id": "LUB1105"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E58'05\"",
+        "latitude": "52N13'10\"",
+        "city": "Warszawa",
+        "location": "Aleje Jerozolimskie 142B, West Station II",
+        "station_id": "WAR8057"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E58'35\"",
+        "latitude": "51N23'38\"",
+        "city": "Ludwin",
+        "location": "dz. nr 44/30",
+        "station_id": "LEC4440"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "23E03'36\"",
+        "latitude": "51N14'48\"",
+        "city": "Puchaczów",
+        "location": "dz. nr 584/4",
+        "station_id": "LEC4460"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "23E29'39\"",
+        "latitude": "50N57'02\"",
+        "city": "Wojsławice",
+        "location": "dz. nr 748",
+        "station_id": "CHE4440"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E02'15\"",
+        "latitude": "52N09'29\"",
+        "city": "Warszawa",
+        "location": "Romockiego 9, Warszawa Romockiego 9",
+        "station_id": "WAR1175"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E28'16\"",
+        "latitude": "51N46'14\"",
+        "city": "Łódź",
+        "location": "Składowa 35, Łódź Składowa 35",
+        "station_id": "LOD8808"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E57'37\"",
+        "latitude": "52N14'31\"",
+        "city": "Warszawa",
+        "location": "Syreny 37, Warszawa Syreny 37",
+        "station_id": "WAR1327"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E00'34\"",
+        "latitude": "52N14'05\"",
+        "city": "Warszawa",
+        "location": "Marszałkowska 134/136, Nowy Sezam",
+        "station_id": "WAR8063"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E27'48\"",
+        "latitude": "51N44'59\"",
+        "city": "Łódź",
+        "location": "Sienkiewicza 175, Łódź Sienkiewicza 175",
+        "station_id": "LOD8811"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E27'22\"",
+        "latitude": "51N45'14\"",
+        "city": "Łódź",
+        "location": "Wólczyńska 180, Łódź Wólczyńska 180",
+        "station_id": "LOD8810"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "23E30'49\"",
+        "latitude": "53N08'35\"",
+        "city": "Sofipol",
+        "location": "dz. nr 109/2",
+        "station_id": "BIA5510"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E58'54\"",
+        "latitude": "52N13'49\"",
+        "city": "Warszawa",
+        "location": "Prosta 68, Warszawa Prosta 68",
+        "station_id": "WAR8054"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E04'06\"",
+        "latitude": "52N17'27\"",
+        "city": "Warszawa",
+        "location": "Codzienna 44, Warszawa Codzienna 44",
+        "station_id": "WAR2378"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E58'36\"",
+        "latitude": "52N13'19\"",
+        "city": "Warszawa",
+        "location": "Aleje Jerozolimskie 100, Equator IV",
+        "station_id": "WAR8514"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E17'03\"",
+        "latitude": "52N09'27\"",
+        "city": "Siedlce",
+        "location": "Floriańska 80, Siedlce Floriańska 80",
+        "station_id": "SDC3312"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E01'55\"",
+        "latitude": "53N06'41\"",
+        "city": "Konarzyce",
+        "location": "dz. nr 775/2",
+        "station_id": "LOM4461"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E05'34\"",
+        "latitude": "49N15'27\"",
+        "city": "Nowy Łupków",
+        "location": "dz. nr 343/15",
+        "station_id": "SAN7003"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E13'12\"",
+        "latitude": "50N19'09\"",
+        "city": "Łętownia",
+        "location": "dz. nr 3707",
+        "station_id": "LEZ7004"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E04'12\"",
+        "latitude": "49N59'05\"",
+        "city": "Wieliczka",
+        "location": "Sienkiewicza, dz. nr 541/23",
+        "station_id": "WLC7011"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E12'56\"",
+        "latitude": "49N52'15\"",
+        "city": "Harta",
+        "location": "dz. nr 1826",
+        "station_id": "RZE7008"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E19'32\"",
+        "latitude": "49N46'33\"",
+        "city": "Targanice",
+        "location": "dz. nr 1670",
+        "station_id": "WAD5008"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E13'57\"",
+        "latitude": "50N32'59\"",
+        "city": "Pińczyce",
+        "location": "Ogrodowa 50A, dz. nr 79",
+        "station_id": "MSK7003"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E09'31\"",
+        "latitude": "50N10'34\"",
+        "city": "Mysłowice",
+        "location": "Jurija Gagarina, dz. nr 426/23",
+        "station_id": "MYS0014"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E13'35\"",
+        "latitude": "54N04'57\"",
+        "city": "Liniewo",
+        "location": "dz. nr 504 o. 0005",
+        "station_id": "KSC1101"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E46'18\"",
+        "latitude": "54N06'03\"",
+        "city": "Lipusz",
+        "location": "Wyzwolenia 11, dz. nr 110/2",
+        "station_id": "KSC0501"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E37'33\"",
+        "latitude": "54N43'58\"",
+        "city": "Szczenurze",
+        "location": "dz. nr 150/6 o. 0011",
+        "station_id": "LEB0701"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E28'01\"",
+        "latitude": "52N59'38\"",
+        "city": "Cierpice",
+        "location": "Bydgoska, dz. nr 34/4, gm. Wielka Niszawka",
+        "station_id": "TOR2101"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E24'41\"",
+        "latitude": "54N25'10\"",
+        "city": "Łupawa",
+        "location": "dz. nr 157 o. 0010",
+        "station_id": "SLU3801"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E26'33\"",
+        "latitude": "53N30'20\"",
+        "city": "Lipowo Kurkowskie",
+        "location": "dz. nr 16/3",
+        "station_id": "OLS2501"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E27'46\"",
+        "latitude": "53N23'46\"",
+        "city": "Tomaszewo",
+        "location": "dz. nr 121/2",
+        "station_id": "NWM0801"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E26'43\"",
+        "latitude": "54N16'11\"",
+        "city": "Łęcze",
+        "location": "dz. nr 287",
+        "station_id": "ELB1701"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E05'13\"",
+        "latitude": "51N40'37\"",
+        "city": "Drożków",
+        "location": "dz. nr 457/1. 295",
+        "station_id": "ZAR3062"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E25'01\"",
+        "latitude": "54N11'09\"",
+        "city": "Mierzeszyn",
+        "location": "dz. nr 397/7",
+        "station_id": "GDA0123"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E05'33\"",
+        "latitude": "51N30'29\"",
+        "city": "Wymiarki",
+        "location": "dz. nr 570/6",
+        "station_id": "ZAG3072"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E31'19\"",
+        "latitude": "50N45'19\"",
+        "city": "Lutomia Górna",
+        "location": "dz. nr 413",
+        "station_id": "SWI3108"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E28'27\"",
+        "latitude": "50N31'48\"",
+        "city": "Huta Stara",
+        "location": "dz. nr 2681/2",
+        "station_id": "NIZ7002"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E14'35\"",
+        "latitude": "49N45'35\"",
+        "city": "Wilkowisko",
+        "location": "dz. nr 523/2",
+        "station_id": "LIM2006"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E52'55\"",
+        "latitude": "53N13'49\"",
+        "city": "Skórka",
+        "location": "dz. nr 189/2",
+        "station_id": "ZLO3052"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E14'33\"",
+        "latitude": "52N19'52\"",
+        "city": "Wołomin",
+        "location": "Legionów 115, dz. nr 16/4",
+        "station_id": "WAR2195"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E06'17\"",
+        "latitude": "52N05'18\"",
+        "city": "Konstancin Jeziorna",
+        "location": "Piaseczyńska 52, Konstancin Jeziorna Piaseczyńska 52",
+        "station_id": "WAR1719"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E32'29\"",
+        "latitude": "50N14'35\"",
+        "city": "Stradlice",
+        "location": "dz. nr 604/1, 25/1 (obręb 0035), dz. nr 3/1 (obręb 0031)",
+        "station_id": "KAZ4440"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E04'18\"",
+        "latitude": "50N04'49\"",
+        "city": "Kraków-Nowa Huta",
+        "location": "Ujastek 1, obiekt 164",
+        "station_id": "KRA0260"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E28'07\"",
+        "latitude": "54N24'58\"",
+        "city": "Gdańsk",
+        "location": "Koziorożca, dz. nr 91/6",
+        "station_id": "GDA1011"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E10'27\"",
+        "latitude": "52N30'08\"",
+        "city": "Skibniew-Kurcze",
+        "location": "dz. nr 72",
+        "station_id": "SOK4470"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E27'57\"",
+        "latitude": "54N22'56\"",
+        "city": "Gdańsk",
+        "location": "Słowackiego 200, Gdańsk Słowackiego 200",
+        "station_id": "GDA9004"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E21'43\"",
+        "latitude": "53N23'07\"",
+        "city": "Wielki Konopat",
+        "location": "dz. nr 73/4",
+        "station_id": "SWE0006"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E40'00\"",
+        "latitude": "52N05'48\"",
+        "city": "Kady",
+        "location": "Kucharskiego, dz. nr 109/2",
+        "station_id": "GRO3309"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E53'45\"",
+        "latitude": "52N24'39\"",
+        "city": "Poznań",
+        "location": "Polna 27, Poznań Polna 27",
+        "station_id": "POZ0244"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "23E44'13\"",
+        "latitude": "52N49'54\"",
+        "city": "Świnoroje",
+        "location": "dz. nr 97",
+        "station_id": "HAJ4440"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E54'39\"",
+        "latitude": "52N14'31\"",
+        "city": "Warszawa",
+        "location": "Powstańców Śląskich 83, Warszawa Powstańców Śląskich 83",
+        "station_id": "WAR1502"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E33'17\"",
+        "latitude": "53N24'14\"",
+        "city": "Wejdo",
+        "location": "dz. nr 106/4",
+        "station_id": "OST4471"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E11'21\"",
+        "latitude": "52N09'06\"",
+        "city": "Warszawa",
+        "location": "Wał Miedzeszyński 24, Warszawa Wał Miedzeszyński 24",
+        "station_id": "WAR2198"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E32'29\"",
+        "latitude": "51N43'48\"",
+        "city": "Łódź",
+        "location": "Olechowska 23, dz. nr 62/10",
+        "station_id": "LOD1109"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E52'35\"",
+        "latitude": "51N04'45\"",
+        "city": "Żegotów",
+        "location": "dz. nr 278/1",
+        "station_id": "SWD4440"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E52'23\"",
+        "latitude": "52N15'21\"",
+        "city": "Natolin Kiernoski",
+        "location": "47, dz. nr 183",
+        "station_id": "LOW4470"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E29'42\"",
+        "latitude": "51N45'07\"",
+        "city": "Łódź",
+        "location": "Częstochowska 38/52",
+        "station_id": "LOD1195"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E09'59\"",
+        "latitude": "51N04'15\"",
+        "city": "Stara Brzeźnica",
+        "location": "dz. nr 6544",
+        "station_id": "PAJ4410"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E59'09\"",
+        "latitude": "52N14'03\"",
+        "city": "Warszawa",
+        "location": "Grzybowska 58, Browary przy Bramie",
+        "station_id": "WAR1218"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E47'19\"",
+        "latitude": "50N33'38\"",
+        "city": "Wólka Ołudzka",
+        "location": "dz. nr 39",
+        "station_id": "ZAW7005"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E40'50\"",
+        "latitude": "49N43'30\"",
+        "city": "Puńców",
+        "location": "Wielodroga, dz. nr 2200/1",
+        "station_id": "CIS7003"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E51'05\"",
+        "latitude": "49N47'04\"",
+        "city": "Górki Wielkie",
+        "location": "Do Raju 29, dz. nr 276/7",
+        "station_id": "CIS7004"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E43'16\"",
+        "latitude": "54N08'21\"",
+        "city": "Miłobądz",
+        "location": "Pamięci Narodowej 14, dz. nr 28/33",
+        "station_id": "TCZ0702"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E38'34\"",
+        "latitude": "54N20'58\"",
+        "city": "Gdańsk",
+        "location": "Targ Sienny 7, Gdańsk Targ Sienny 7",
+        "station_id": "GDA9008"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E38'11\"",
+        "latitude": "52N59'29\"",
+        "city": "Toruń",
+        "location": "Bociana 3, dz. nr 612",
+        "station_id": "TOR1071"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E27'29\"",
+        "latitude": "50N32'19\"",
+        "city": "Ścinawka Górna",
+        "location": "332",
+        "station_id": "KLO3088"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E28'40\"",
+        "latitude": "53N44'10\"",
+        "city": "Olsztyn",
+        "location": "Ks. J. Popiełuszki 20, dz. nr 34/17",
+        "station_id": "OLS1048"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E29'20\"",
+        "latitude": "53N55'38\"",
+        "city": "Chmielno",
+        "location": "dz. nr 61/1",
+        "station_id": "KOS3001"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E25'38\"",
+        "latitude": "53N11'17\"",
+        "city": "Gostomia",
+        "location": "21, dz. nr 175/2",
+        "station_id": "WCK1301"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E11'55\"",
+        "latitude": "53N25'57\"",
+        "city": "Sośnica",
+        "location": "dz. nr 42/3",
+        "station_id": "DRA0401"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E33'25\"",
+        "latitude": "54N23'55\"",
+        "city": "Stary Jarosław",
+        "location": "dz. nr 349",
+        "station_id": "SLA1201"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E08'36\"",
+        "latitude": "53N49'59\"",
+        "city": "Wytok",
+        "location": "dz. nr 234/17",
+        "station_id": "GRF2101"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E33'39\"",
+        "latitude": "53N35'15\"",
+        "city": "Kąkolewice",
+        "location": "dz. nr 62/3",
+        "station_id": "LBZ0601"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E04'43\"",
+        "latitude": "50N02'37\"",
+        "city": "Bojszowy Nowe",
+        "location": "Kowola 11, dz. nr 951/24",
+        "station_id": "BRL2010"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E23'22\"",
+        "latitude": "50N02'57\"",
+        "city": "Dębica",
+        "location": "Fabryczna 7",
+        "station_id": "DEB3801"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E51'03\"",
+        "latitude": "50N15'30\"",
+        "city": "Ruda Śląska",
+        "location": "dz. nr 1018/58",
+        "station_id": "GZB0201"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E21'59\"",
+        "latitude": "53N44'25\"",
+        "city": "Kasparus",
+        "location": "236, Kasparus  236",
+        "station_id": "STG2302"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E27'44\"",
+        "latitude": "52N09'02\"",
+        "city": "Skąpe",
+        "location": "dz. nr 242",
+        "station_id": "SWB3081"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E21'49\"",
+        "latitude": "54N11'59\"",
+        "city": "Węgorzewo Koszalińskie",
+        "location": "dz. nr 32",
+        "station_id": "KOS3101"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E03'21\"",
+        "latitude": "52N03'19\"",
+        "city": "Żabieniec",
+        "location": "Asfaltowa 1E, dz. nr 203",
+        "station_id": "WAR1709"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E36'12\"",
+        "latitude": "54N20'10\"",
+        "city": "Gdańsk",
+        "location": "Milskiego, dz. nr 214/50",
+        "station_id": "GDA1042"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E00'37\"",
+        "latitude": "53N57'34\"",
+        "city": "Roje",
+        "location": "dz. nr 28/2",
+        "station_id": "OSR1601"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E35'26\"",
+        "latitude": "54N40'49\"",
+        "city": "Charbrowo",
+        "location": "52, dz. nr 123/55 obr. 0004",
+        "station_id": "LEB0501"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E23'47\"",
+        "latitude": "53N59'44\"",
+        "city": "Kleszczewo Kościerskie",
+        "location": "dz. nr 134 o. 0007",
+        "station_id": "STG1401"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E54'15\"",
+        "latitude": "50N11'07\"",
+        "city": "Mikołów",
+        "location": "Dzieńdziela 40, dz. nr 2097/95",
+        "station_id": "MIK0516"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E55'57\"",
+        "latitude": "52N14'30\"",
+        "city": "Warszawa",
+        "location": "Górczewska 124, Wola Park",
+        "station_id": "WAR1146"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E37'55\"",
+        "latitude": "51N14'30\"",
+        "city": "Małyszyn",
+        "location": "dz. nr 27",
+        "station_id": "WIE3313"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "23E00'51\"",
+        "latitude": "52N08'03\"",
+        "city": "Leśna Podlaska",
+        "location": "Łąkowa 9, dz. nr 312/1,312/4",
+        "station_id": "BLS5520"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E19'27\"",
+        "latitude": "51N31'42\"",
+        "city": "Michów",
+        "location": "Zasadnicza 109, dz. nr 904/5",
+        "station_id": "LBR4440"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E13'41\"",
+        "latitude": "51N24'39\"",
+        "city": "Rajec Szlachecki",
+        "location": "dz. nr 332/1, 332/2",
+        "station_id": "RAD1056"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E45'58\"",
+        "latitude": "52N00'24\"",
+        "city": "Międzyrzec Podlaski",
+        "location": "Zaścianki, dz. nr 160,161",
+        "station_id": "BLS3310"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E23'26\"",
+        "latitude": "51N45'47\"",
+        "city": "Wojcieszków",
+        "location": "Marianów, dz. nr 419",
+        "station_id": "LUK4480"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E34'48\"",
+        "latitude": "49N53'03\"",
+        "city": "Tuligłowy",
+        "location": "dz. nr 1509",
+        "station_id": "JRS7001"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E54'46\"",
+        "latitude": "50N37'17\"",
+        "city": "Strzebiń",
+        "location": "dz. nr 901",
+        "station_id": "LBL7001"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E07'24\"",
+        "latitude": "50N01'45\"",
+        "city": "Krzanowice",
+        "location": "Samborowicka 1, Krzanowice Samborowicka 1",
+        "station_id": "RAC7003"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E54'31\"",
+        "latitude": "49N57'59\"",
+        "city": "Gaj",
+        "location": "Akacjowa, dz. nr 207/2",
+        "station_id": "KRA0593"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E22'36\"",
+        "latitude": "51N54'22\"",
+        "city": "Rusko",
+        "location": "Koźmińska 11, dz. nr 135",
+        "station_id": "JAR3022"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "14E47'38\"",
+        "latitude": "52N55'49\"",
+        "city": "Sarbinowo",
+        "location": "dz. nr 243/21",
+        "station_id": "MSB1401"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E00'42\"",
+        "latitude": "52N30'16\"",
+        "city": "Ludwinowo Zegrzyńskie",
+        "location": "dz. nr 233, obręb 0016",
+        "station_id": "LGI3325"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E01'23\"",
+        "latitude": "52N13'45\"",
+        "city": "Warszawa",
+        "location": "Plac Trzech Krzyży 10/14, Ethos",
+        "station_id": "WAR8064"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E58'55\"",
+        "latitude": "49N25'23\"",
+        "city": "Maruszyna",
+        "location": "dz. nr 6015/4",
+        "station_id": "NWT7010"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E54'07\"",
+        "latitude": "52N35'10\"",
+        "city": "Radzanowo",
+        "location": "Woźniki, dz. nr 348",
+        "station_id": "PLO4460"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E27'37\"",
+        "latitude": "51N35'50\"",
+        "city": "Wrząca",
+        "location": "dz. nr 118",
+        "station_id": "SIR4421"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E43'11\"",
+        "latitude": "51N43'03\"",
+        "city": "Raszków",
+        "location": "Orpiszewska, dz. nr 483/5",
+        "station_id": "OSO3071"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "23E32'06\"",
+        "latitude": "51N46'39\"",
+        "city": "Sławatycze",
+        "location": "Sławatycze-Kolonia 3, dz. nr 382/2",
+        "station_id": "BLS4460"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E12'49\"",
+        "latitude": "51N41'19\"",
+        "city": "Dąbrówka",
+        "location": "dz. nr 160",
+        "station_id": "LUK4411"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "23E33'03\"",
+        "latitude": "50N28'37\"",
+        "city": "Tomaszów Lubelski",
+        "location": "Nowa Wieś, dz. nr 196",
+        "station_id": "TML5520"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E01'47\"",
+        "latitude": "51N30'38\"",
+        "city": "Sędziejowice",
+        "location": "Dolna 25, dz. nr 66",
+        "station_id": "LAS4401"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E27'37\"",
+        "latitude": "52N17'41\"",
+        "city": "Podawce",
+        "location": "31, dz. nr 138/9",
+        "station_id": "SDC4470"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E03'21\"",
+        "latitude": "52N18'04\"",
+        "city": "Dąbrowice",
+        "location": "dz. nr 881",
+        "station_id": "KUT4460"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E37'20\"",
+        "latitude": "49N45'08\"",
+        "city": "Cieszyn",
+        "location": "Rzeźnicza 5, Cieszyn Rzeźnicza 5",
+        "station_id": "CIS2502"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E43'43\"",
+        "latitude": "53N01'54\"",
+        "city": "Nowa Wieś Ujska",
+        "location": "dz. nr 42",
+        "station_id": "PIL3022"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E22'38\"",
+        "latitude": "49N48'45\"",
+        "city": "Rzyki",
+        "location": "dz. nr 1901",
+        "station_id": "WAD7003"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E11'55\"",
+        "latitude": "50N58'43\"",
+        "city": "Kluczbork",
+        "location": "Kołłątaja 5",
+        "station_id": "KLU2502"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E27'07\"",
+        "latitude": "51N54'58\"",
+        "city": "Krzycko Wielkie",
+        "location": "dz. nr 527",
+        "station_id": "LES3111"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E58'36\"",
+        "latitude": "51N34'38\"",
+        "city": "Strzyżew",
+        "location": "Kolonia 67, dz. nr 286",
+        "station_id": "OSO3112"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E10'35\"",
+        "latitude": "50N02'24\"",
+        "city": "Niepołomice",
+        "location": "Grabska, dz. nr 1047/3",
+        "station_id": "WLC7004"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E27'07\"",
+        "latitude": "50N10'53\"",
+        "city": "Trzebinia",
+        "location": "Kopalniana, dz. nr 400/76",
+        "station_id": "CHR2502"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E49'08\"",
+        "latitude": "49N19'59\"",
+        "city": "Witów",
+        "location": "dz. nr 49177/3",
+        "station_id": "TAT2504"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E23'37\"",
+        "latitude": "51N21'23\"",
+        "city": "Bełchatów",
+        "location": "Budryka 16, dz. nr 396",
+        "station_id": "BEL1016"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E18'40\"",
+        "latitude": "51N17'48\"",
+        "city": "Białaczów",
+        "location": "dz. nr 269/2",
+        "station_id": "OPC4420"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E16'00\"",
+        "latitude": "51N45'12\"",
+        "city": "Adamów",
+        "location": "dz. nr 301/3",
+        "station_id": "LUK4420"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E45'43\"",
+        "latitude": "52N56'28\"",
+        "city": "Czerwin",
+        "location": "Przemysłowa 4, dz. nr 372",
+        "station_id": "OST4460"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E53'39\"",
+        "latitude": "51N46'54\"",
+        "city": "Zaborów",
+        "location": "dz. nr 137/2",
+        "station_id": "GRJ4481"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E20'21\"",
+        "latitude": "51N57'00\"",
+        "city": "Ujazdowo",
+        "location": "dz. nr 388/2",
+        "station_id": "LES3052"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "14E35'50\"",
+        "latitude": "52N43'56\"",
+        "city": "Boleszkowice",
+        "location": "dz. nr 944",
+        "station_id": "MSB0601"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E53'11\"",
+        "latitude": "52N24'55\"",
+        "city": "Chotomów",
+        "location": "Partyzantów 33",
+        "station_id": "LGI1001"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E02'27\"",
+        "latitude": "52N13'38\"",
+        "city": "Warszawa",
+        "location": "Idźkowskiego 3",
+        "station_id": "WAR1272"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E52'22\"",
+        "latitude": "54N04'02\"",
+        "city": "Daszewo",
+        "location": "dz. nr 297/7",
+        "station_id": "BLG1301"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E30'08\"",
+        "latitude": "52N50'10\"",
+        "city": "Żyrosławice",
+        "location": "dz. nr 80",
+        "station_id": "INO0701"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "14E46'18\"",
+        "latitude": "51N53'37\"",
+        "city": "Stargard Gubiński",
+        "location": "dz. nr 79",
+        "station_id": "KRS3045"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E11'52\"",
+        "latitude": "54N34'17\"",
+        "city": "Gowino",
+        "location": "dz. nr 264/3 o. 0010",
+        "station_id": "WEJ2701"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E37'32\"",
+        "latitude": "54N10'49\"",
+        "city": "Sokolnik",
+        "location": "dz. nr 26/10",
+        "station_id": "ELB1401"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E15'14\"",
+        "latitude": "53N40'39\"",
+        "city": "Babięta",
+        "location": "dz. nr 71",
+        "station_id": "MRA0601"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E01'33\"",
+        "latitude": "53N53'42\"",
+        "city": "Bredynki",
+        "location": "Bredynki, dz. nr 49",
+        "station_id": "OLS5102"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E17'27\"",
+        "latitude": "54N07'59\"",
+        "city": "Garbno",
+        "location": "dz. nr 26/39",
+        "station_id": "KET1601"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E26'58\"",
+        "latitude": "53N02'19\"",
+        "city": "Trzcianka",
+        "location": "Wieleńska 1, dz. nr 2441",
+        "station_id": "CZA3003"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E58'17\"",
+        "latitude": "51N34'57\"",
+        "city": "Rawicz",
+        "location": "33, dz. nr 40",
+        "station_id": "RWC3121"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E11'15\"",
+        "latitude": "52N33'07\"",
+        "city": "Szasty",
+        "location": "33, dz. nr 65/2",
+        "station_id": "PLO4425"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E47'45\"",
+        "latitude": "52N37'23\"",
+        "city": "Ciachcin",
+        "location": "9, dz. nr 21",
+        "station_id": "PLO4465"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "23E14'52\"",
+        "latitude": "53N34'06\"",
+        "city": "Kopciówka",
+        "location": "dz. nr 52/2",
+        "station_id": "SKL4402"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E44'13\"",
+        "latitude": "52N54'51\"",
+        "city": "Brzozowo-Korabie",
+        "location": "dz. nr 55/1",
+        "station_id": "BIA5560"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "23E06'55\"",
+        "latitude": "51N51'04\"",
+        "city": "Rossosz",
+        "location": "Kożanówka, dz. nr 953/16",
+        "station_id": "BLS5550"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "23E25'41\"",
+        "latitude": "53N31'35\"",
+        "city": "Makowlany",
+        "location": "dz. nr 59",
+        "station_id": "SKL4450"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E52'43\"",
+        "latitude": "52N29'46\"",
+        "city": "Wiercień Duży",
+        "location": "dz. nr 63",
+        "station_id": "SMT4480"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E56'32\"",
+        "latitude": "53N26'24\"",
+        "city": "Bagno",
+        "location": "dz. nr 119/6",
+        "station_id": "MON4450"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E49'16\"",
+        "latitude": "51N48'13\"",
+        "city": "Strzemboszewice",
+        "location": "4, dz. nr 144/2",
+        "station_id": "BRE3315"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E27'09\"",
+        "latitude": "53N19'41\"",
+        "city": "Biodry",
+        "location": "dz. nr 105",
+        "station_id": "LOM4421"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E12'26\"",
+        "latitude": "52N04'40\"",
+        "city": "Radnica",
+        "location": "dz. nr 562/13",
+        "station_id": "KRS3011"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E39'16\"",
+        "latitude": "50N01'22\"",
+        "city": "Zagorzyce",
+        "location": "dz. nr 3211/1",
+        "station_id": "ROP7001"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E36'20\"",
+        "latitude": "51N06'02\"",
+        "city": "Kulin",
+        "location": "dz. nr 151/2",
+        "station_id": "SRE3024"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E17'49\"",
+        "latitude": "54N26'27\"",
+        "city": "Leśno",
+        "location": "Słoneczna 8, dz. nr 114/6 o. 0013",
+        "station_id": "WEJ3001"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E32'16\"",
+        "latitude": "53N56'55\"",
+        "city": "Starogard Gdański",
+        "location": "Bolesława Prusa 41, dz. nr 34/5 o. 0027",
+        "station_id": "STG0010"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E58'37\"",
+        "latitude": "54N23'24\"",
+        "city": "Sierakowo Słupskie",
+        "location": "dz. nr 108/3 o. 0019",
+        "station_id": "SLU1001"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E23'27\"",
+        "latitude": "54N08'51\"",
+        "city": "Elbląg",
+        "location": "dz. nr 576 o. 0014",
+        "station_id": "ELB0018"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E51'15\"",
+        "latitude": "53N51'39\"",
+        "city": "Rudziny",
+        "location": "dz. nr 533/1",
+        "station_id": "CHJ1101"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E13'22\"",
+        "latitude": "52N10'15\"",
+        "city": "Warszawa",
+        "location": "Barcewicza 15, dz. nr 56/1, 56/2",
+        "station_id": "WAR2147"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "14E39'18\"",
+        "latitude": "53N15'09\"",
+        "city": "Drzenin",
+        "location": "dz. nr 22/22",
+        "station_id": "GRY1301"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "14E35'22\"",
+        "latitude": "53N18'26\"",
+        "city": "Chlebowo",
+        "location": "15, dz. nr 124",
+        "station_id": "GRY1401"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E53'34\"",
+        "latitude": "53N29'18\"",
+        "city": "Czerlin",
+        "location": "dz. nr 59",
+        "station_id": "ILA1101"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E50'17\"",
+        "latitude": "54N19'53\"",
+        "city": "Łapkiejmy",
+        "location": "dz. nr 53",
+        "station_id": "BAR1001"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E35'26\"",
+        "latitude": "53N43'05\"",
+        "city": "Bełczna",
+        "location": "dz. nr 22",
+        "station_id": "LBZ0701"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E25'39\"",
+        "latitude": "53N13'14\"",
+        "city": "Stradzewo",
+        "location": "dz. nr 21/5",
+        "station_id": "CHS1101"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "14E12'15\"",
+        "latitude": "52N58'11\"",
+        "city": "Piasek",
+        "location": "92, dz. nr 305/2",
+        "station_id": "GRY2901"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E03'24\"",
+        "latitude": "51N04'20\"",
+        "city": "Krzywiczyny",
+        "location": "dz. nr 258",
+        "station_id": "KLU7002"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E41'36\"",
+        "latitude": "51N05'09\"",
+        "city": "Namysłów",
+        "location": "Oleśnicka 27, Namysłów Oleśnicka 27",
+        "station_id": "NAM7004"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E28'44\"",
+        "latitude": "51N31'03\"",
+        "city": "Augustów",
+        "location": "dz. nr 222",
+        "station_id": "RAD3315"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E40'14\"",
+        "latitude": "50N55'57\"",
+        "city": "Giełczew Druga",
+        "location": "dz. nr 3002, obręb 0007",
+        "station_id": "LUB5510"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E23'39\"",
+        "latitude": "52N37'44\"",
+        "city": "Trzebiszewo",
+        "location": "Podlaska, dz. nr 71",
+        "station_id": "MIR3014"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E28'25\"",
+        "latitude": "52N16'20\"",
+        "city": "Stanisławów",
+        "location": "Goździówka 34A, dz. nr 6/2",
+        "station_id": "MIN4445"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E41'43\"",
+        "latitude": "51N44'41\"",
+        "city": "Kaczkowo",
+        "location": "dz. nr 61/2",
+        "station_id": "LES3013"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E28'37\"",
+        "latitude": "51N40'52\"",
+        "city": "Rzgów",
+        "location": "Łódzka 69A, Rzgów Łódzka 69A",
+        "station_id": "LDW3314"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E37'12\"",
+        "latitude": "54N21'57\"",
+        "city": "Gdańsk",
+        "location": "Smoluchowskiego 17, Gdańsk Smoluchowskiego 17",
+        "station_id": "GDA1045"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E37'27\"",
+        "latitude": "54N21'56\"",
+        "city": "Gdańsk",
+        "location": "Smoluchowskiego 17, Budynek CMN",
+        "station_id": "GDA1046"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E29'35\"",
+        "latitude": "53N42'30\"",
+        "city": "Bartążek",
+        "location": "66, dz. nr 30/193, 30/196",
+        "station_id": "OLS3601"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E07'44\"",
+        "latitude": "51N57'52\"",
+        "city": "Sobików",
+        "location": "Długa, dz. nr 20/1",
+        "station_id": "PIA4440"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E42'44\"",
+        "latitude": "52N51'46\"",
+        "city": "Żnin",
+        "location": "dz. nr 13/4",
+        "station_id": "ZNI0004"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E44'16\"",
+        "latitude": "52N50'44\"",
+        "city": "Żnin",
+        "location": "Gnieźnieńska 20, dz. nr 1155/4",
+        "station_id": "ZNI0003"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E31'32\"",
+        "latitude": "53N25'53\"",
+        "city": "Wiąg",
+        "location": "dz. nr 20/2",
+        "station_id": "SWE1501"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E23'25\"",
+        "latitude": "53N04'18\"",
+        "city": "Rypin",
+        "location": "dz. nr 86/2",
+        "station_id": "RYP0003"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E55'46\"",
+        "latitude": "54N26'52\"",
+        "city": "Linia",
+        "location": "dz. nr 727",
+        "station_id": "WEJ0702"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E12'43\"",
+        "latitude": "54N07'59\"",
+        "city": "Nowa Karczma",
+        "location": "Horniki Nowe 2, dz. nr 160/10",
+        "station_id": "KSC0302"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E28'50\"",
+        "latitude": "49N49'37\"",
+        "city": "Rajbrot",
+        "location": "dz. nr 1821/2",
+        "station_id": "BOC7001"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "14E43'41\"",
+        "latitude": "53N30'47\"",
+        "city": "Kępy Lubczyńskie",
+        "location": "dz. nr 251/2",
+        "station_id": "GOL1901"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "14E29'47\"",
+        "latitude": "53N39'11\"",
+        "city": "Trzebież",
+        "location": "dz. nr 614",
+        "station_id": "SZC0601"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E12'44\"",
+        "latitude": "49N55'36\"",
+        "city": "Wola Lubecka",
+        "location": "dz. nr 235",
+        "station_id": "TAR7514"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E50'12\"",
+        "latitude": "49N48'30\"",
+        "city": "Jastrzębia",
+        "location": "dz. nr 46",
+        "station_id": "TAR7012"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E34'30\"",
+        "latitude": "52N33'37\"",
+        "city": "Gniezno",
+        "location": "Powstańców Wielkopolskich 45B, dz. nr 10/6",
+        "station_id": "GNI3014"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E04'30\"",
+        "latitude": "53N51'19\"",
+        "city": "Bolkowo",
+        "location": "31A, dz. nr 10/2",
+        "station_id": "SWW1001"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E32'20\"",
+        "latitude": "53N48'28\"",
+        "city": "Olsztyn",
+        "location": "Wiosenna, dz. nr 37/5",
+        "station_id": "OLS1064"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E20'18\"",
+        "latitude": "54N07'18\"",
+        "city": "Żydy",
+        "location": "7",
+        "station_id": "OLC1601"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E45'01\"",
+        "latitude": "54N12'55\"",
+        "city": "Węgorzewo",
+        "location": "Sienkiewicza 24, Węgorzewo Sienkiewicza 24",
+        "station_id": "WGR0003"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E23'03\"",
+        "latitude": "50N25'37\"",
+        "city": "Łazy",
+        "location": "Fabryczna 1, Łazy Fabryczna 1",
+        "station_id": "ZAW2505"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E45'25\"",
+        "latitude": "50N24'48\"",
+        "city": "Nowa Dęba",
+        "location": "Zacisze 1, dz. nr 292/2",
+        "station_id": "TRB3812"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E27'26\"",
+        "latitude": "54N26'20\"",
+        "city": "Gdańsk",
+        "location": "Kieleńska 163, dz. nr 76",
+        "station_id": "GDA1022"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E38'35\"",
+        "latitude": "51N04'28\"",
+        "city": "Helenów",
+        "location": "dz. nr 15/3 obr. 0009",
+        "station_id": "LIP4421"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E37'37\"",
+        "latitude": "53N40'00\"",
+        "city": "Tynwałd",
+        "location": "26, Tynwałd  26",
+        "station_id": "ILA1901"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E03'07\"",
+        "latitude": "53N52'22\"",
+        "city": "Pańska Wola",
+        "location": "5, dz. nr 76/1",
+        "station_id": "GIZ1201"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E07'23\"",
+        "latitude": "51N47'10\"",
+        "city": "Krzepielów",
+        "location": "Krzepielów, dz. nr 619/4",
+        "station_id": "WSC3031"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E44'02\"",
+        "latitude": "52N05'45\"",
+        "city": "Okunin",
+        "location": "dz. nr 6/5",
+        "station_id": "ZGO3064"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E03'58\"",
+        "latitude": "52N39'00\"",
+        "city": "Włocławek",
+        "location": "Starodębska 21b, Włocławek Starodębska 21b",
+        "station_id": "WLO0019"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "14E19'22\"",
+        "latitude": "52N46'02\"",
+        "city": "Gozdowice",
+        "location": "dz. nr 185",
+        "station_id": "GRY1701"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E37'10\"",
+        "latitude": "53N38'24\"",
+        "city": "Przyjezierze",
+        "location": "dz. nr 69",
+        "station_id": "SCZ0601"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E27'26\"",
+        "latitude": "53N16'40\"",
+        "city": "Wapnica",
+        "location": "dz. nr 37/2",
+        "station_id": "STS1502"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E40'19\"",
+        "latitude": "53N28'15\"",
+        "city": "Rakowice",
+        "location": "dz. nr 187/2",
+        "station_id": "ILA1701"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E14'57\"",
+        "latitude": "51N50'04\"",
+        "city": "Nowy Adamów",
+        "location": "dz. nr 52/8",
+        "station_id": "ZGI3332"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E37'34\"",
+        "latitude": "51N09'51\"",
+        "city": "Komorniki",
+        "location": "dz. nr 288/16",
+        "station_id": "SRE3002"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E36'39\"",
+        "latitude": "51N20'22\"",
+        "city": "Ostrówek",
+        "location": "dz. nr 576/2",
+        "station_id": "WIE4497"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E02'20\"",
+        "latitude": "53N08'52\"",
+        "city": "Jednorożec",
+        "location": "dz. nr 250",
+        "station_id": "PRS4401"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E46'55\"",
+        "latitude": "53N09'32\"",
+        "city": "Krzynowłoga Mała",
+        "location": "dz. nr 58/1",
+        "station_id": "PRS4423"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E18'38\"",
+        "latitude": "52N38'04\"",
+        "city": "Wielądki-Folwark",
+        "location": "26, dz. nr 147",
+        "station_id": "WYS4470"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E45'21\"",
+        "latitude": "51N44'07\"",
+        "city": "Gałków Duży",
+        "location": "dz. nr 203/1",
+        "station_id": "LDW4401"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E38'58\"",
+        "latitude": "52N01'20\"",
+        "city": "Nowa Bukówka",
+        "location": "Warszawska 13, dz. nr 76/4",
+        "station_id": "GRO4414"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E04'26\"",
+        "latitude": "52N15'02\"",
+        "city": "Pniewo",
+        "location": "40, dz. nr 147/1",
+        "station_id": "KLS3121"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E02'54\"",
+        "latitude": "53N37'40\"",
+        "city": "Szyldak",
+        "location": "dz. nr 68/4",
+        "station_id": "OSR1501"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E12'35\"",
+        "latitude": "50N02'19\"",
+        "city": "Oświęcim",
+        "location": "Kilińskiego 4, Oświęcim Kilińskiego 4",
+        "station_id": "OSW2015"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E58'30\"",
+        "latitude": "53N48'09\"",
+        "city": "Czersk",
+        "location": "Towarowa 6, Czersk Towarowa 6",
+        "station_id": "CHJ0102"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E33'09\"",
+        "latitude": "53N36'10\"",
+        "city": "Ogorzeliny",
+        "location": "dz. nr 196",
+        "station_id": "CHJ0801"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E30'40\"",
+        "latitude": "53N41'22\"",
+        "city": "Topole",
+        "location": "dz. nr 173/119",
+        "station_id": "CHJ1701"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E16'26\"",
+        "latitude": "53N05'59\"",
+        "city": "Wołowe Lasy",
+        "location": "dz. nr 18/4",
+        "station_id": "WCK2001"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E10'10\"",
+        "latitude": "50N59'00\"",
+        "city": "Ligota Dolna",
+        "location": "Przemysłowa 11, Ligota Dolna Przemysłowa 11",
+        "station_id": "KLU7005"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E11'46\"",
+        "latitude": "50N48'43\"",
+        "city": "Częstochowa",
+        "location": "Mirowska, dz. nr 16",
+        "station_id": "CZE7006"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E41'03\"",
+        "latitude": "53N07'19\"",
+        "city": "Potulice",
+        "location": "Bydgoska, dz. nr 29/66",
+        "station_id": "NAK1401"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E56'38\"",
+        "latitude": "51N23'22\"",
+        "city": "Rogaszyce",
+        "location": "157, dz. nr 69/3",
+        "station_id": "OSI3101"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E21'23\"",
+        "latitude": "51N50'44\"",
+        "city": "Borzęciczki",
+        "location": "38, dz. nr 19/5",
+        "station_id": "KRT3101"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E41'33\"",
+        "latitude": "50N14'53\"",
+        "city": "Adamówka",
+        "location": "dz. nr 683/9",
+        "station_id": "PRW6005"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E02'52\"",
+        "latitude": "51N21'34\"",
+        "city": "Zabierzów",
+        "location": "dz. nr 34",
+        "station_id": "RAD3322"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E24'16\"",
+        "latitude": "52N19'13\"",
+        "city": "Zagaje",
+        "location": "dz. nr 97/2",
+        "station_id": "SWB3072"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E15'27\"",
+        "latitude": "52N06'37\"",
+        "city": "Otwock",
+        "location": "Hugona Kołłątaja 4, Otwock Hugona Kołłątaja 4",
+        "station_id": "OTW1002"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "23E35'56\"",
+        "latitude": "50N25'38\"",
+        "city": "Jarczów",
+        "location": "dz. nr 59/5",
+        "station_id": "TML4471"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E30'17\"",
+        "latitude": "50N46'58\"",
+        "city": "Godziszów",
+        "location": "Godziszów Drugi, dz. nr 131",
+        "station_id": "JAN4460"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E49'47\"",
+        "latitude": "52N44'19\"",
+        "city": "Gołocin",
+        "location": "dz. nr 32/2",
+        "station_id": "SRP4450"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E29'06\"",
+        "latitude": "51N52'09\"",
+        "city": "Garwolin",
+        "location": "Stoczek, dz. nr 44",
+        "station_id": "GAR5511"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E15'08\"",
+        "latitude": "50N28'53\"",
+        "city": "Goświnowice",
+        "location": "Kolejowa, dz. nr 265/1",
+        "station_id": "NYS7009"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E45'57\"",
+        "latitude": "51N14'35\"",
+        "city": "Chotcza",
+        "location": "dz. nr 413,410",
+        "station_id": "LIP4460"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E36'27\"",
+        "latitude": "51N32'12\"",
+        "city": "Srock",
+        "location": "dz. nr 316",
+        "station_id": "PIO4453"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E45'30\"",
+        "latitude": "53N08'23\"",
+        "city": "Drogoszewo",
+        "location": "dz. nr 776",
+        "station_id": "LOM4430"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E50'32\"",
+        "latitude": "50N36'22\"",
+        "city": "Gnojno",
+        "location": "dz. nr 161, obręb 0005",
+        "station_id": "BUS4410"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E33'46\"",
+        "latitude": "51N41'18\"",
+        "city": "Maciejowice",
+        "location": "dz. nr 951",
+        "station_id": "GAR4401"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E19'36\"",
+        "latitude": "52N10'02\"",
+        "city": "Siedlce",
+        "location": "Żabia, dz. nr 12",
+        "station_id": "SDC3318"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E18'20\"",
+        "latitude": "54N02'30\"",
+        "city": "Rogiedle",
+        "location": "dz. nr 34",
+        "station_id": "LID1701"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E54'51\"",
+        "latitude": "53N59'55\"",
+        "city": "Siedliska",
+        "location": "Siedliska, dz. nr 231/4",
+        "station_id": "GIZ1301"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E23'35\"",
+        "latitude": "53N38'44\"",
+        "city": "Zgon",
+        "location": "dz. nr 198/11",
+        "station_id": "MRA1401"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E03'37\"",
+        "latitude": "50N52'11\"",
+        "city": "Borek Strzeliński",
+        "location": "dz. nr 407/5",
+        "station_id": "STL3041"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E25'41\"",
+        "latitude": "52N19'39\"",
+        "city": "Poświętne",
+        "location": "Jana Pawła II 1, dz. nr 237",
+        "station_id": "WLM4430"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E13'12\"",
+        "latitude": "51N30'53\"",
+        "city": "Kraszewice",
+        "location": "Ciasna 11, dz. nr 137",
+        "station_id": "OSI3061"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E02'39\"",
+        "latitude": "52N33'13\"",
+        "city": "Nowy Podleck",
+        "location": "42A, dz. nr 141/6",
+        "station_id": "PLO4435"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E19'35\"",
+        "latitude": "52N52'16\"",
+        "city": "Rosko",
+        "location": "dz. nr 642/3",
+        "station_id": "CZA3052"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "14E35'26\"",
+        "latitude": "52N20'19\"",
+        "city": "Słubice",
+        "location": "Transportowa 8, dz. nr 70/5",
+        "station_id": "SLP3003"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E54'57\"",
+        "latitude": "53N23'43\"",
+        "city": "Górzna",
+        "location": "dz. nr 134/4",
+        "station_id": "ZLO3062"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E19'05\"",
+        "latitude": "52N24'18\"",
+        "city": "Czerwińsk nad Wisłą",
+        "location": "Warszawska 2a, Czerwińsk nad Wisłą Warszawska 2a",
+        "station_id": "PLN4401"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E50'10\"",
+        "latitude": "52N47'21\"",
+        "city": "Rąpin",
+        "location": "dz. nr 141/9",
+        "station_id": "STD3071"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E33'59\"",
+        "latitude": "51N50'23\"",
+        "city": "Pachy",
+        "location": "34, dz. nr 103/1",
+        "station_id": "RAW4412"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E59'11\"",
+        "latitude": "53N02'47\"",
+        "city": "Śniadowo",
+        "location": "dz. nr 83",
+        "station_id": "LOM4460"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E03'03\"",
+        "latitude": "54N40'06\"",
+        "city": "Rowy",
+        "location": "dz. nr 31/6",
+        "station_id": "SLU0801"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E05'07\"",
+        "latitude": "52N24'37\"",
+        "city": "Wólka Radzymińska",
+        "location": "dz. nr 245/5, obręb 0016",
+        "station_id": "LGI4406"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E06'35\"",
+        "latitude": "52N24'21\"",
+        "city": "Jasin",
+        "location": "Poznańska, dz. nr 213/2",
+        "station_id": "POZ0254"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E32'46\"",
+        "latitude": "52N24'51\"",
+        "city": "Wasilew Szlachecki",
+        "location": "dz. nr 173/1",
+        "station_id": "SOK4403"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E23'42\"",
+        "latitude": "50N28'39\"",
+        "city": "Kotulin",
+        "location": "67/4, Kotulin  67/4",
+        "station_id": "GLI7003"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E22'30\"",
+        "latitude": "50N09'51\"",
+        "city": "Nagoszyn",
+        "location": "181, dz. nr 35/1",
+        "station_id": "DEB6005"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E16'08\"",
+        "latitude": "52N30'44\"",
+        "city": "Pniewy",
+        "location": "Konińska, dz. nr 412/8",
+        "station_id": "SZA3042"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E05'31\"",
+        "latitude": "53N21'32\"",
+        "city": "Serock",
+        "location": "dz. nr 244",
+        "station_id": "SWE2701"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E34'15\"",
+        "latitude": "51N32'53\"",
+        "city": "Szprotawa",
+        "location": "dz. nr 41/4",
+        "station_id": "ZAG3023"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E46'43\"",
+        "latitude": "51N37'35\"",
+        "city": "Ostrów Wielkopolski",
+        "location": "Odolanowska 59, dz. nr 508",
+        "station_id": "OSO3009"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E34'01\"",
+        "latitude": "53N39'02\"",
+        "city": "Ruciane-Nida",
+        "location": "Mazurska, dz. nr 104/10",
+        "station_id": "PIS0304"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E40'22\"",
+        "latitude": "53N38'20\"",
+        "city": "Szeroki Bór Piski",
+        "location": "dz. nr 13/4",
+        "station_id": "PIS0501"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E15'19\"",
+        "latitude": "54N16'30\"",
+        "city": "Skandawa",
+        "location": "Skandawa, dz. nr 350",
+        "station_id": "KET0801"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E08'42\"",
+        "latitude": "51N12'27\"",
+        "city": "Legnica",
+        "location": "Chojnowska 109, dz. nr 401/3",
+        "station_id": "LEG1035"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E10'45\"",
+        "latitude": "50N51'07\"",
+        "city": "Rzeczyca Ziemiańska-Kolonia",
+        "location": "dz. nr 2092/2",
+        "station_id": "KSK4450"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E46'23\"",
+        "latitude": "52N16'00\"",
+        "city": "Garczyn Duży",
+        "location": "dz. nr 236",
+        "station_id": "MIN5510"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E39'23\"",
+        "latitude": "50N50'13\"",
+        "city": "Kielce",
+        "location": "dz. nr 41/17, obręb 0031",
+        "station_id": "KIE1056"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E12'04\"",
+        "latitude": "50N50'25\"",
+        "city": "Cieśle",
+        "location": "dz. nr 363, obręb 0004",
+        "station_id": "WLS4410"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E22'39\"",
+        "latitude": "50N51'21\"",
+        "city": "Sadowie",
+        "location": "dz. nr 199/1, obręb 0015",
+        "station_id": "OPA4440"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E15'21\"",
+        "latitude": "51N20'36\"",
+        "city": "Podwódka",
+        "location": "dz. nr 988/4",
+        "station_id": "BEL4402"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E30'51\"",
+        "latitude": "51N55'49\"",
+        "city": "Łuków",
+        "location": "Strzyżew, dz. nr 1259",
+        "station_id": "LUK4435"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E46'28\"",
+        "latitude": "51N09'54\"",
+        "city": "Piaski",
+        "location": "Janówek, dz. nr 376/1",
+        "station_id": "SWD4411"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "23E07'20\"",
+        "latitude": "53N57'29\"",
+        "city": "Kopanica",
+        "location": "dz. nr 13/4",
+        "station_id": "AUG4420"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E58'55\"",
+        "latitude": "52N41'50\"",
+        "city": "Sumiężne",
+        "location": "dz. nr 600/1",
+        "station_id": "OSK4460"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E34'32\"",
+        "latitude": "51N40'45\"",
+        "city": "Władysławów",
+        "location": "dz. nr 12",
+        "station_id": "RAW4431"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E02'17\"",
+        "latitude": "52N15'29\"",
+        "city": "Warszawa",
+        "location": "Zaokopowa 4//6, Warszawa Zaokopowa 4//6",
+        "station_id": "WAR2374"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E05'03\"",
+        "latitude": "52N05'15\"",
+        "city": "Siemszyce",
+        "location": "dz. nr 92",
+        "station_id": "LCZ3310"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E58'48\"",
+        "latitude": "54N15'58\"",
+        "city": "Jałowo",
+        "location": "dz. nr 218, 219",
+        "station_id": "WMB0047"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E14'29\"",
+        "latitude": "53N50'33\"",
+        "city": "Barkowo",
+        "location": "dz. nr 8/31",
+        "station_id": "GRF1401"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E22'58\"",
+        "latitude": "54N03'53\"",
+        "city": "Gołańcz Pomorska",
+        "location": "dz. nr 165/2",
+        "station_id": "GRF1601"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E32'54\"",
+        "latitude": "51N01'41\"",
+        "city": "Pławna Górna",
+        "location": "dz. nr 1112/4",
+        "station_id": "LWO3105"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E02'15\"",
+        "latitude": "50N02'41\"",
+        "city": "Rzeszów",
+        "location": "Polna 17, dz. nr 647/5, 646/1",
+        "station_id": "RZE7015"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "14E32'47\"",
+        "latitude": "53N52'14\"",
+        "city": "Dargobądz",
+        "location": "dz. nr 144",
+        "station_id": "KAM1201"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E14'05\"",
+        "latitude": "53N58'48\"",
+        "city": "Górzyca",
+        "location": "dz. nr 65",
+        "station_id": "GRF1701"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E44'58\"",
+        "latitude": "52N24'49\"",
+        "city": "Dąbrowa",
+        "location": "Rolna, dz. nr 31/10",
+        "station_id": "POZ3216"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E17'33\"",
+        "latitude": "52N29'03\"",
+        "city": "Pobiedziska",
+        "location": "dz. nr 32",
+        "station_id": "POZ3025"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E00'36\"",
+        "latitude": "51N01'40\"",
+        "city": "Góry Mokre",
+        "location": "62, dz. nr 618/1",
+        "station_id": "RDM4406"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E51'05\"",
+        "latitude": "50N32'36\"",
+        "city": "Balice",
+        "location": "dz. nr 164, obręb 0001",
+        "station_id": "BUS4480"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E52'47\"",
+        "latitude": "53N09'54\"",
+        "city": "Plewnik",
+        "location": "dz. nr 250",
+        "station_id": "PRS4420"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E37'07\"",
+        "latitude": "51N14'05\"",
+        "city": "Lublin",
+        "location": "Grenadierów 13",
+        "station_id": "LUB1102"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E28'35\"",
+        "latitude": "52N29'13\"",
+        "city": "Lucień",
+        "location": "47, dz. nr 109/2",
+        "station_id": "GST4402"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E02'31\"",
+        "latitude": "52N15'44\"",
+        "city": "Warszawa",
+        "location": "Strzelecka 21/25, Warszawa Strzelecka 21/25",
+        "station_id": "WAR2375"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E01'26\"",
+        "latitude": "51N42'26\"",
+        "city": "Żelechlin",
+        "location": "772, dz. nr 189/9",
+        "station_id": "WMB0045"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E40'57\"",
+        "latitude": "50N11'34\"",
+        "city": "Racławice",
+        "location": "dz. nr 1800",
+        "station_id": "KRA7014"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E39'37\"",
+        "latitude": "49N33'55\"",
+        "city": "Zubrzyca Górna",
+        "location": "dz. nr 4060",
+        "station_id": "NWT7009"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E02'36\"",
+        "latitude": "49N18'44\"",
+        "city": "Murzasichle",
+        "location": "Sądelska 55, dz. nr 725",
+        "station_id": "TAT2003"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E56'48\"",
+        "latitude": "50N14'53\"",
+        "city": "Grudynia Mała",
+        "location": "dz. nr 21",
+        "station_id": "KED7001"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E04'48\"",
+        "latitude": "50N09'10\"",
+        "city": "Stobierna",
+        "location": "dz. nr 2788/1",
+        "station_id": "RZE7003"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E39'05\"",
+        "latitude": "52N50'57\"",
+        "city": "Ciechanów",
+        "location": "Habrowa 10, dz. nr 93/4",
+        "station_id": "CIE3313"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E57'58\"",
+        "latitude": "52N17'00\"",
+        "city": "Warszawa",
+        "location": "Lektykarska 56, Warszawa Lektykarska 56",
+        "station_id": "WAR1538"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E55'03\"",
+        "latitude": "50N40'18\"",
+        "city": "Ciepłowody",
+        "location": "Kolejowa 5, dz. nr 1081/5",
+        "station_id": "ZBK3302"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "16E10'31\"",
+        "latitude": "51N57'35\"",
+        "city": "Kaszczor",
+        "location": "dz. nr 933/5",
+        "station_id": "WLT3012"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E19'54\"",
+        "latitude": "52N10'53\"",
+        "city": "Wiązowna",
+        "location": "dz. nr 83",
+        "station_id": "OTW3315"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E05'37\"",
+        "latitude": "51N36'07\"",
+        "city": "Wielowieś",
+        "location": "Polna 14, dz. nr 681",
+        "station_id": "OSO3091"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E08'22\"",
+        "latitude": "52N37'52\"",
+        "city": "Sławica",
+        "location": "Torfowa 1, Sławica Torfowa 1",
+        "station_id": "WAG3081"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E17'06\"",
+        "latitude": "50N38'46\"",
+        "city": "Janów Lubelski",
+        "location": "Łążek Ordynacki 12, dz. nr 2799, 2798, 2797",
+        "station_id": "JAN4420"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E55'29\"",
+        "latitude": "51N00'04\"",
+        "city": "Jeżowiec",
+        "location": "dz. nr 211, obręb 0009",
+        "station_id": "WLS4405"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E55'50\"",
+        "latitude": "53N24'36\"",
+        "city": "Kolno",
+        "location": "Konpnickiej 2, Kolno Konpnickiej 2",
+        "station_id": "KLN4404"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E30'43\"",
+        "latitude": "52N13'51\"",
+        "city": "Ochle",
+        "location": "73, dz. nr 5/4",
+        "station_id": "KLS3151"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E49'45\"",
+        "latitude": "53N16'42\"",
+        "city": "Długołęka",
+        "location": "dz. nr 571/1",
+        "station_id": "MON4470"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E28'38\"",
+        "latitude": "54N20'52\"",
+        "city": "Gdańsk",
+        "location": "Smęgorzyńska 10, dz. nr 16/44",
+        "station_id": "GDA1025"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E16'24\"",
+        "latitude": "52N40'50\"",
+        "city": "Ołtarze-Gołacze",
+        "location": "12, dz. nr 516/1",
+        "station_id": "OSK4420"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "21E49'43\"",
+        "latitude": "49N39'59\"",
+        "city": "Krościenko Wyżne",
+        "location": "dz. nr 3872",
+        "station_id": "KRO6003"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "22E07'53\"",
+        "latitude": "50N09'29\"",
+        "city": "Pogwizdów",
+        "location": "dz. nr 399/1",
+        "station_id": "LAN7002"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "18E14'00\"",
+        "latitude": "50N54'40\"",
+        "city": "Jasienie",
+        "location": "dz. nr 614/256",
+        "station_id": "KLU7004"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E50'27\"",
+        "latitude": "50N46'06\"",
+        "city": "Dobrzeń Wielki",
+        "location": "dz. nr 1666/543",
+        "station_id": "OPO2504"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E55'03\"",
+        "latitude": "52N09'56\"",
+        "city": "Chobienice",
+        "location": "Chobienice, dz. nr 632/8",
+        "station_id": "WLT3021"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E25'59\"",
+        "latitude": "49N58'53\"",
+        "city": "Bochnia",
+        "location": "20-go Stycznia, dz. nr 2247/5",
+        "station_id": "BOC2510"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E07'27\"",
+        "latitude": "49N38'50\"",
+        "city": "Łętowe",
+        "location": "dz. nr 5/3",
+        "station_id": "LIM7503"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "17E22'03\"",
+        "latitude": "54N29'29\"",
+        "city": "Strzyżyno",
+        "location": "dz. nr 75 o. 0014",
+        "station_id": "SLU4001"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E16'09\"",
+        "latitude": "54N14'37\"",
+        "city": "Wężowiec",
+        "location": "dz. nr 21/43 o. 0004",
+        "station_id": "NDG0901"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "19E23'11\"",
+        "latitude": "54N10'38\"",
+        "city": "Elbląg",
+        "location": "Portowa 4, Elbląg Portowa 4",
+        "station_id": "ELB0028"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E00'24\"",
+        "latitude": "50N02'14\"",
+        "city": "Kraków",
+        "location": "Obrońców Modlina 4",
+        "station_id": "KRA0632"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "20E30'21\"",
+        "latitude": "49N53'28\"",
+        "city": "Borówna",
+        "location": "dz. nr 16/4",
+        "station_id": "BOC7006"
+    },
+    {
+        "operator": "P4 Sp. z o.o.",
+        "longitude": "15E07'31\"",
+        "latitude": "52N57'30\"",
+        "city": "Rychnów",
+        "location": "dz. nr 213/5 o. 0014",
+        "station_id": "MSB1601"
+    }
+]
