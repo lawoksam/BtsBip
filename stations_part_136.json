@@ -1,0 +1,4002 @@
+[
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E38'47\"",
+        "latitude": "54N15'32\"",
+        "city": "Pruszcz Gdański",
+        "location": NaN,
+        "station_id": 2047
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E37'58\"",
+        "latitude": "54N18'40\"",
+        "city": "Gdańsk",
+        "location": NaN,
+        "station_id": 2048
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E38'35\"",
+        "latitude": "54N20'24\"",
+        "city": "Gdańsk",
+        "location": NaN,
+        "station_id": 2049
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E38'18\"",
+        "latitude": "54N21'57\"",
+        "city": "Gdańsk",
+        "location": NaN,
+        "station_id": 2051
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E34'20\"",
+        "latitude": "54N24'23\"",
+        "city": "Gdańsk",
+        "location": NaN,
+        "station_id": 2052
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E33'18\"",
+        "latitude": "54N27'13\"",
+        "city": "Sopot",
+        "location": NaN,
+        "station_id": 2053
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E33'11\"",
+        "latitude": "54N28'16\"",
+        "city": "Gdynia",
+        "location": NaN,
+        "station_id": 2054
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E31'20\"",
+        "latitude": "54N31'25\"",
+        "city": "Gdynia",
+        "location": NaN,
+        "station_id": 2055
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E46'50\"",
+        "latitude": "51N40'07\"",
+        "city": "Rokiciny-Kolonia",
+        "location": NaN,
+        "station_id": 532
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E45'18\"",
+        "latitude": "51N37'56\"",
+        "city": "Michałów",
+        "location": NaN,
+        "station_id": 533
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E43'22\"",
+        "latitude": "51N35'33\"",
+        "city": "Remiszewice",
+        "location": NaN,
+        "station_id": 534
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E08'06\"",
+        "latitude": "51N15'21\"",
+        "city": "Zielonka",
+        "location": NaN,
+        "station_id": 10986
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E47'38\"",
+        "latitude": "51N41'45\"",
+        "city": "Pogorzałe Ługi",
+        "location": NaN,
+        "station_id": 10031
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E43'02\"",
+        "latitude": "51N32'14\"",
+        "city": "Baby",
+        "location": NaN,
+        "station_id": 10022
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E41'59\"",
+        "latitude": "51N30'10\"",
+        "city": "Gajkowice",
+        "location": NaN,
+        "station_id": 10023
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E41'34\"",
+        "latitude": "51N27'41\"",
+        "city": "Jarosty",
+        "location": NaN,
+        "station_id": 10024
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E41'03\"",
+        "latitude": "51N24'13\"",
+        "city": "Bujny",
+        "location": NaN,
+        "station_id": 10026
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E40'25\"",
+        "latitude": "51N20'44\"",
+        "city": "Piaski",
+        "location": NaN,
+        "station_id": 11194
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E39'35\"",
+        "latitude": "51N18'01\"",
+        "city": "Rozprza",
+        "location": NaN,
+        "station_id": 10034
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E37'51\"",
+        "latitude": "51N15'10\"",
+        "city": "Gościnna",
+        "location": NaN,
+        "station_id": 10014
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E36'14\"",
+        "latitude": "51N13'06\"",
+        "city": "Gorzkowice",
+        "location": NaN,
+        "station_id": 10015
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E32'46\"",
+        "latitude": "51N11'52\"",
+        "city": "Chruścin",
+        "location": NaN,
+        "station_id": 10016
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E29'15\"",
+        "latitude": "51N09'54\"",
+        "city": "Gomunice",
+        "location": NaN,
+        "station_id": 10013
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E26'39\"",
+        "latitude": "51N07'28\"",
+        "city": "Malutkie",
+        "location": NaN,
+        "station_id": 10012
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E26'11\"",
+        "latitude": "51N04'46\"",
+        "city": "Józefów",
+        "location": NaN,
+        "station_id": 10028
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E24'13\"",
+        "latitude": "51N01'40\"",
+        "city": "Klekotowe",
+        "location": NaN,
+        "station_id": 10029
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E22'05\"",
+        "latitude": "50N58'56\"",
+        "city": "Teklinów",
+        "location": NaN,
+        "station_id": 10018
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E21'18\"",
+        "latitude": "50N57'56\"",
+        "city": "Jacków",
+        "location": NaN,
+        "station_id": 10019
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E19'50\"",
+        "latitude": "50N53'53\"",
+        "city": "Witkowice",
+        "location": NaN,
+        "station_id": 10017
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E12'57\"",
+        "latitude": "50N52'32\"",
+        "city": "Marianka Rędzińska",
+        "location": NaN,
+        "station_id": 10030
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E10'09\"",
+        "latitude": "50N51'30\"",
+        "city": "Rędziny",
+        "location": NaN,
+        "station_id": 10004
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E09'26\"",
+        "latitude": "50N50'23\"",
+        "city": "Wierzchowisko",
+        "location": NaN,
+        "station_id": 10005
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E20'44\"",
+        "latitude": "51N28'15\"",
+        "city": "Brzuza",
+        "location": NaN,
+        "station_id": 10041
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E06'13\"",
+        "latitude": "51N21'00\"",
+        "city": "Trablice",
+        "location": NaN,
+        "station_id": 10134
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E08'58\"",
+        "latitude": "51N29'11\"",
+        "city": "Dąbrowa",
+        "location": NaN,
+        "station_id": 10214
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E15'43\"",
+        "latitude": "51N28'57\"",
+        "city": "Dęba",
+        "location": NaN,
+        "station_id": 10216
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E27'55\"",
+        "latitude": "51N26'16\"",
+        "city": "Augustów",
+        "location": NaN,
+        "station_id": 10213
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E39'33\"",
+        "latitude": "51N22'39\"",
+        "city": "Skrzyńsko",
+        "location": NaN,
+        "station_id": 10217
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E55'47\"",
+        "latitude": "51N21'29\"",
+        "city": "Sabat",
+        "location": NaN,
+        "station_id": 10215
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E51'41\"",
+        "latitude": "51N42'25\"",
+        "city": "Nowy Redzeń",
+        "location": NaN,
+        "station_id": 11268
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E54'17\"",
+        "latitude": "51N39'40\"",
+        "city": "Wykno",
+        "location": NaN,
+        "station_id": 10218
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E57'57\"",
+        "latitude": "51N36'10\"",
+        "city": "Przesiadłów",
+        "location": NaN,
+        "station_id": 10219
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E02'21\"",
+        "latitude": "51N32'25\"",
+        "city": "Luboszewy",
+        "location": NaN,
+        "station_id": 10220
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E00'13\"",
+        "latitude": "51N08'23\"",
+        "city": "Zgorzelec",
+        "location": NaN,
+        "station_id": 4986
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E12'55\"",
+        "latitude": "51N17'28\"",
+        "city": "Węgliniec",
+        "location": NaN,
+        "station_id": 11201
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E02'51\"",
+        "latitude": "51N14'45\"",
+        "city": "Pieńsk",
+        "location": NaN,
+        "station_id": 4985
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E27'08\"",
+        "latitude": "51N55'19\"",
+        "city": "Huta Zawadzka",
+        "location": NaN,
+        "station_id": 10045
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E27'03\"",
+        "latitude": "51N52'27\"",
+        "city": "Michałowice",
+        "location": NaN,
+        "station_id": 10046
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E29'46\"",
+        "latitude": "52N01'20\"",
+        "city": "Korytów",
+        "location": NaN,
+        "station_id": 10058
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E10'29\"",
+        "latitude": "52N28'03\"",
+        "city": "Biskupice",
+        "location": NaN,
+        "station_id": 11062
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E37'01\"",
+        "latitude": "52N31'53\"",
+        "city": "Gniezno",
+        "location": NaN,
+        "station_id": 312
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E28'48\"",
+        "latitude": "52N30'19\"",
+        "city": "Pierzyska",
+        "location": NaN,
+        "station_id": 11074
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E49'13\"",
+        "latitude": "52N34'15\"",
+        "city": "Trzemeszno",
+        "location": NaN,
+        "station_id": 11081
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E28'07\"",
+        "latitude": "50N45'14\"",
+        "city": "Wolica",
+        "location": NaN,
+        "station_id": 10136
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E19'14\"",
+        "latitude": "50N39'50\"",
+        "city": "Podchojny",
+        "location": NaN,
+        "station_id": 10137
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E11'53\"",
+        "latitude": "50N37'04\"",
+        "city": "Zagórze",
+        "location": NaN,
+        "station_id": 10142
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E32'19\"",
+        "latitude": "50N49'58\"",
+        "city": "Słowik",
+        "location": NaN,
+        "station_id": 10144
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E22'06\"",
+        "latitude": "50N43'10\"",
+        "city": "Miąsowa",
+        "location": NaN,
+        "station_id": 10147
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E36'12\"",
+        "latitude": "50N53'12\"",
+        "city": "Kielce",
+        "location": NaN,
+        "station_id": 10330
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E46'52\"",
+        "latitude": "50N04'05\"",
+        "city": "Będziemyśl",
+        "location": NaN,
+        "station_id": 10386
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E24'23\"",
+        "latitude": "50N03'20\"",
+        "city": "Dębica",
+        "location": NaN,
+        "station_id": 10391
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E31'27\"",
+        "latitude": "50N04'19\"",
+        "city": "Lubzina",
+        "location": NaN,
+        "station_id": 10401
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E35'00\"",
+        "latitude": "50N04'45\"",
+        "city": "Ropczyce",
+        "location": NaN,
+        "station_id": 10412
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E56'28\"",
+        "latitude": "50N04'53\"",
+        "city": "Rudna Wielka",
+        "location": NaN,
+        "station_id": 10413
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E59'46\"",
+        "latitude": "50N02'42\"",
+        "city": "Rzeszów",
+        "location": NaN,
+        "station_id": 10414
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E42'04\"",
+        "latitude": "50N04'29\"",
+        "city": "Sędziszów Małopolski",
+        "location": NaN,
+        "station_id": 10415
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E50'18\"",
+        "latitude": "50N04'42\"",
+        "city": "Trzciana",
+        "location": NaN,
+        "station_id": 10423
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E57'45\"",
+        "latitude": "49N50'08\"",
+        "city": "Gromnik",
+        "location": NaN,
+        "station_id": 10446
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E02'08\"",
+        "latitude": "49N51'52\"",
+        "city": "Dąbrówka Tuchowska",
+        "location": NaN,
+        "station_id": 10450
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E03'31\"",
+        "latitude": "49N53'30\"",
+        "city": "Tuchów",
+        "location": NaN,
+        "station_id": 10452
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E57'27\"",
+        "latitude": "49N57'13\"",
+        "city": "Świebodzin",
+        "location": NaN,
+        "station_id": 10448
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E58'40\"",
+        "latitude": "50N00'16\"",
+        "city": "Tarnów",
+        "location": NaN,
+        "station_id": 10421
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E04'03\"",
+        "latitude": "50N02'05\"",
+        "city": "Wola Rzędzińska",
+        "location": NaN,
+        "station_id": 10424
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E00'34\"",
+        "latitude": "51N38'56\"",
+        "city": "Lipinki Łużyckie",
+        "location": NaN,
+        "station_id": 2562
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E12'12\"",
+        "latitude": "51N37'20\"",
+        "city": "Żary",
+        "location": NaN,
+        "station_id": 2564
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "14E49'58\"",
+        "latitude": "51N40'23\"",
+        "city": "Tuplice",
+        "location": NaN,
+        "station_id": 2561
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E18'27\"",
+        "latitude": "51N36'23\"",
+        "city": "Żagań",
+        "location": NaN,
+        "station_id": 2565
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "14E40'12\"",
+        "latitude": "51N44'08\"",
+        "city": "Zasieki",
+        "location": NaN,
+        "station_id": 2560
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "14E31'43\"",
+        "latitude": "53N18'17\"",
+        "city": "Daleszewo",
+        "location": NaN,
+        "station_id": 1100
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "14E27'26\"",
+        "latitude": "52N54'31\"",
+        "city": "Godków",
+        "location": NaN,
+        "station_id": 1106
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "14E28'51\"",
+        "latitude": "53N12'38\"",
+        "city": "Pniewo",
+        "location": NaN,
+        "station_id": 1101
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "14E27'19\"",
+        "latitude": "53N02'24\"",
+        "city": "Lisie Pole",
+        "location": NaN,
+        "station_id": 1104
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "14E26'47\"",
+        "latitude": "53N07'27\"",
+        "city": "Widuchowa",
+        "location": NaN,
+        "station_id": 1102
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E31'08\"",
+        "latitude": "50N59'36\"",
+        "city": "Biskupice Oławskie",
+        "location": NaN,
+        "station_id": 4935
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E20'57\"",
+        "latitude": "51N02'10\"",
+        "city": "Jelcz-Laskowice",
+        "location": NaN,
+        "station_id": 4934
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E45'47\"",
+        "latitude": "50N49'44\"",
+        "city": "Popielów",
+        "location": NaN,
+        "station_id": 4337
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E37'55\"",
+        "latitude": "50N56'20\"",
+        "city": "Mąkoszyce",
+        "location": NaN,
+        "station_id": 4336
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E57'16\"",
+        "latitude": "50N39'28\"",
+        "city": "Opole",
+        "location": NaN,
+        "station_id": 4339
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E57'55\"",
+        "latitude": "50N37'48\"",
+        "city": "Opole",
+        "location": NaN,
+        "station_id": 4340
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E12'38\"",
+        "latitude": "51N02'07\"",
+        "city": "Kotowice",
+        "location": NaN,
+        "station_id": 4933
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "14E40'18\"",
+        "latitude": "53N23'28\"",
+        "city": "Szczecin",
+        "location": NaN,
+        "station_id": 1112
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "14E50'25\"",
+        "latitude": "53N36'53\"",
+        "city": "Białuń",
+        "location": NaN,
+        "station_id": 1183
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "14E50'26\"",
+        "latitude": "53N33'38\"",
+        "city": "Goleniów",
+        "location": NaN,
+        "station_id": 1182
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "14E52'00\"",
+        "latitude": "53N41'25\"",
+        "city": "Łoźnica",
+        "location": NaN,
+        "station_id": 1184
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "14E51'21\"",
+        "latitude": "53N45'53\"",
+        "city": "Czarnogłowy",
+        "location": NaN,
+        "station_id": 1185
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "14E47'45\"",
+        "latitude": "53N29'38\"",
+        "city": "Rurzyca",
+        "location": NaN,
+        "station_id": 1181
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "14E44'34\"",
+        "latitude": "53N25'44\"",
+        "city": "Szczecin",
+        "location": NaN,
+        "station_id": 1180
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E07'07\"",
+        "latitude": "51N38'17\"",
+        "city": "Żary",
+        "location": NaN,
+        "station_id": 2563
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "14E26'37\"",
+        "latitude": "52N57'53\"",
+        "city": "Chojna",
+        "location": NaN,
+        "station_id": 1105
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E21'36\"",
+        "latitude": "50N33'55\"",
+        "city": "Myszków",
+        "location": NaN,
+        "station_id": 5361
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E07'11\"",
+        "latitude": "50N48'11\"",
+        "city": "Częstochowa",
+        "location": NaN,
+        "station_id": 5356
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E25'31\"",
+        "latitude": "50N28'08\"",
+        "city": "Zawiercie",
+        "location": NaN,
+        "station_id": 5363
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E24'04\"",
+        "latitude": "50N30'34\"",
+        "city": "Zawiercie",
+        "location": NaN,
+        "station_id": 5362
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E26'28\"",
+        "latitude": "51N48'47\"",
+        "city": "Żurawka",
+        "location": NaN,
+        "station_id": 4503
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E04'37\"",
+        "latitude": "51N08'02\"",
+        "city": "Skórnice",
+        "location": NaN,
+        "station_id": 4517
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E04'07\"",
+        "latitude": "51N04'19\"",
+        "city": "Budy",
+        "location": NaN,
+        "station_id": 5718
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E43'13\"",
+        "latitude": "50N36'33\"",
+        "city": "Zawada Pilicka",
+        "location": NaN,
+        "station_id": 5729
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E01'31\"",
+        "latitude": "50N56'21\"",
+        "city": "Kozia Wieś",
+        "location": NaN,
+        "station_id": 5720
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E38'23\"",
+        "latitude": "50N35'30\"",
+        "city": "Biała Błotna",
+        "location": NaN,
+        "station_id": 5730
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E35'11\"",
+        "latitude": "50N35'46\"",
+        "city": "Dzibice",
+        "location": NaN,
+        "station_id": 5731
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E32'37\"",
+        "latitude": "50N35'27\"",
+        "city": "Kroczyce",
+        "location": NaN,
+        "station_id": 5732
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E44'02\"",
+        "latitude": "50N39'09\"",
+        "city": "Nakło",
+        "location": NaN,
+        "station_id": 5728
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E22'37\"",
+        "latitude": "50N32'45\"",
+        "city": "Myszków",
+        "location": NaN,
+        "station_id": 5736
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E24'30\"",
+        "latitude": "51N39'10\"",
+        "city": "Strzałki",
+        "location": NaN,
+        "station_id": 4506
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E18'08\"",
+        "latitude": "51N26'38\"",
+        "city": "Kruszewiec",
+        "location": NaN,
+        "station_id": 4511
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E15'02\"",
+        "latitude": "51N22'45\"",
+        "city": "Opoczno",
+        "location": NaN,
+        "station_id": 4512
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E10'47\"",
+        "latitude": "51N18'07\"",
+        "city": "Stawowice",
+        "location": NaN,
+        "station_id": 4514
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E23'37\"",
+        "latitude": "51N32'02\"",
+        "city": "Brudzewice",
+        "location": NaN,
+        "station_id": 4508
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E25'20\"",
+        "latitude": "51N44'39\"",
+        "city": "Rylsk Duży",
+        "location": NaN,
+        "station_id": 4505
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E23'59\"",
+        "latitude": "51N36'39\"",
+        "city": "Roszkowa Wola",
+        "location": NaN,
+        "station_id": 4507
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E46'48\"",
+        "latitude": "50N43'12\"",
+        "city": "Brzostek",
+        "location": NaN,
+        "station_id": 5726
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E51'38\"",
+        "latitude": "50N45'28\"",
+        "city": "Secemin",
+        "location": NaN,
+        "station_id": 5725
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E12'35\"",
+        "latitude": "51N20'18\"",
+        "city": "Zachorzów-Kolonia",
+        "location": NaN,
+        "station_id": 4513
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E03'28\"",
+        "latitude": "50N59'31\"",
+        "city": "Zaostrów",
+        "location": NaN,
+        "station_id": 5719
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E44'39\"",
+        "latitude": "50N42'10\"",
+        "city": "Przyłęk",
+        "location": NaN,
+        "station_id": 5727
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E30'11\"",
+        "latitude": "50N34'52\"",
+        "city": "Hucisko",
+        "location": NaN,
+        "station_id": 5733
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E23'23\"",
+        "latitude": "50N34'21\"",
+        "city": "Włodowice",
+        "location": NaN,
+        "station_id": 5735
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E59'03\"",
+        "latitude": "50N54'17\"",
+        "city": "Motyczno",
+        "location": NaN,
+        "station_id": 5721
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E56'48\"",
+        "latitude": "50N51'33\"",
+        "city": "Włoszczowa",
+        "location": NaN,
+        "station_id": 5722
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E28'11\"",
+        "latitude": "50N35'02\"",
+        "city": "Kotowice",
+        "location": NaN,
+        "station_id": 5734
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E06'44\"",
+        "latitude": "51N14'09\"",
+        "city": "Myślibórz",
+        "location": NaN,
+        "station_id": 4515
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E06'27\"",
+        "latitude": "51N11'49\"",
+        "city": "Siedlów",
+        "location": NaN,
+        "station_id": 4516
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E04'30\"",
+        "latitude": "50N09'45\"",
+        "city": "Łuczyce",
+        "location": NaN,
+        "station_id": 4757
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E00'58\"",
+        "latitude": "50N28'56\"",
+        "city": "Kozłów",
+        "location": NaN,
+        "station_id": 5752
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E02'49\"",
+        "latitude": "50N33'47\"",
+        "city": "Sędziszów",
+        "location": NaN,
+        "station_id": 5751
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E51'24\"",
+        "latitude": "50N48'13\"",
+        "city": "Żelisławice",
+        "location": NaN,
+        "station_id": 5717
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E45'33\"",
+        "latitude": "50N00'15\"",
+        "city": "Biadoliny Radłowskie",
+        "location": NaN,
+        "station_id": 4713
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E25'48\"",
+        "latitude": "49N58'40\"",
+        "city": "Bochnia",
+        "location": NaN,
+        "station_id": 4709
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E52'07\"",
+        "latitude": "50N00'27\"",
+        "city": "Bogumiłowice",
+        "location": NaN,
+        "station_id": 4715
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E36'49\"",
+        "latitude": "49N59'11\"",
+        "city": "Brzesko",
+        "location": NaN,
+        "station_id": 4711
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E19'58\"",
+        "latitude": "50N02'46\"",
+        "city": "Grabiny",
+        "location": NaN,
+        "station_id": 4721
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E33'26\"",
+        "latitude": "49N59'12\"",
+        "city": "Jasień",
+        "location": NaN,
+        "station_id": 4710
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E04'18\"",
+        "latitude": "50N01'05\"",
+        "city": "Kokotów",
+        "location": NaN,
+        "station_id": 4703
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E10'11\"",
+        "latitude": "50N01'04\"",
+        "city": "Podłęże",
+        "location": NaN,
+        "station_id": 4704
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E21'05\"",
+        "latitude": "49N59'33\"",
+        "city": "Stanisławice",
+        "location": NaN,
+        "station_id": 4708
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E41'22\"",
+        "latitude": "49N59'50\"",
+        "city": "Sterkowiec",
+        "location": NaN,
+        "station_id": 4712
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E16'07\"",
+        "latitude": "50N00'26\"",
+        "city": "Kłaj",
+        "location": NaN,
+        "station_id": 4706
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E54'45\"",
+        "latitude": "52N22'21\"",
+        "city": "Poznań",
+        "location": NaN,
+        "station_id": 439
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E11'34\"",
+        "latitude": "53N43'12\"",
+        "city": "Biesal",
+        "location": NaN,
+        "station_id": 3628
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E22'40\"",
+        "latitude": "53N44'45\"",
+        "city": "Naterki",
+        "location": NaN,
+        "station_id": 3629
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E23'08\"",
+        "latitude": "51N30'17\"",
+        "city": "Brudzewice",
+        "location": NaN,
+        "station_id": 4509
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E53'10\"",
+        "latitude": "50N46'51\"",
+        "city": "Ropocice",
+        "location": NaN,
+        "station_id": 5724
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E13'23\"",
+        "latitude": "50N03'56\"",
+        "city": "Czarna",
+        "location": NaN,
+        "station_id": 4720
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E59'41\"",
+        "latitude": "50N26'15\"",
+        "city": "Uniejów-Rędziny",
+        "location": NaN,
+        "station_id": 4753
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E08'58\"",
+        "latitude": "50N47'30\"",
+        "city": "Częstochowa",
+        "location": NaN,
+        "station_id": 5358
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E14'51\"",
+        "latitude": "50N21'12\"",
+        "city": "Dąbrowa Górnicza",
+        "location": NaN,
+        "station_id": 5345
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E15'11\"",
+        "latitude": "50N39'03\"",
+        "city": "Choroń",
+        "location": NaN,
+        "station_id": 5366
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E16'19\"",
+        "latitude": "50N37'29\"",
+        "city": "Żarki-Letnisko",
+        "location": NaN,
+        "station_id": 5367
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E50'31\"",
+        "latitude": "51N12'45\"",
+        "city": "Dominów",
+        "location": NaN,
+        "station_id": 1757
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "23E13'45\"",
+        "latitude": "51N07'07\"",
+        "city": "Rejowiec Fabryczny",
+        "location": NaN,
+        "station_id": 1755
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E59'50\"",
+        "latitude": "51N08'02\"",
+        "city": "Trawniki",
+        "location": NaN,
+        "station_id": 1756
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E18'49\"",
+        "latitude": "51N16'04\"",
+        "city": "Miłocin",
+        "location": NaN,
+        "station_id": 1763
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E25'05\"",
+        "latitude": "51N13'22\"",
+        "city": "Radawiec Duży",
+        "location": NaN,
+        "station_id": 1762
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E06'54\"",
+        "latitude": "51N21'38\"",
+        "city": "Klementowice",
+        "location": NaN,
+        "station_id": 1766
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E28'33\"",
+        "latitude": "51N12'49\"",
+        "city": "Lublin",
+        "location": NaN,
+        "station_id": 1761
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E33'10\"",
+        "latitude": "51N13'28\"",
+        "city": "Lublin",
+        "location": NaN,
+        "station_id": 1760
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E12'33\"",
+        "latitude": "51N19'07\"",
+        "city": "Drzewce",
+        "location": NaN,
+        "station_id": 1765
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E15'39\"",
+        "latitude": "51N18'33\"",
+        "city": "Czesławice",
+        "location": NaN,
+        "station_id": 1764
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E57'03\"",
+        "latitude": "51N28'22\"",
+        "city": "Puławy",
+        "location": NaN,
+        "station_id": 1769
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E58'08\"",
+        "latitude": "51N26'45\"",
+        "city": "Puławy",
+        "location": NaN,
+        "station_id": 1768
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E00'39\"",
+        "latitude": "51N24'41\"",
+        "city": "Puławy",
+        "location": NaN,
+        "station_id": 1767
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E54'37\"",
+        "latitude": "51N30'18\"",
+        "city": "Gołąb",
+        "location": NaN,
+        "station_id": 1770
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E59'21\"",
+        "latitude": "50N25'41\"",
+        "city": "Uniejów-Rędziny",
+        "location": NaN,
+        "station_id": 4754
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E05'49\"",
+        "latitude": "51N44'08\"",
+        "city": "Głogówko",
+        "location": NaN,
+        "station_id": 4900
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E29'10\"",
+        "latitude": "51N48'57\"",
+        "city": "Lasocice",
+        "location": NaN,
+        "station_id": 5502
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E12'15\"",
+        "latitude": "51N46'46\"",
+        "city": "Stare Drzewce",
+        "location": NaN,
+        "station_id": 5501
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E03'16\"",
+        "latitude": "51N40'12\"",
+        "city": "Głogów",
+        "location": NaN,
+        "station_id": 4924
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "23E26'54\"",
+        "latitude": "50N22'38\"",
+        "city": "Bełżec",
+        "location": NaN,
+        "station_id": 1793
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "23E07'20\"",
+        "latitude": "50N51'17\"",
+        "city": "Tarzymiechy Trzecie",
+        "location": NaN,
+        "station_id": 1783
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "23E13'36\"",
+        "latitude": "50N24'58\"",
+        "city": "Rybnica",
+        "location": NaN,
+        "station_id": 1790
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E58'23\"",
+        "latitude": "50N40'17\"",
+        "city": "Brody Małe",
+        "location": NaN,
+        "station_id": 1785
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E27'19\"",
+        "latitude": "50N04'47\"",
+        "city": "Grzęska",
+        "location": NaN,
+        "station_id": 5135
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E40'50\"",
+        "latitude": "50N00'35\"",
+        "city": "Jarosław",
+        "location": NaN,
+        "station_id": 5138
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E04'04\"",
+        "latitude": "50N03'30\"",
+        "city": "Rzeszów",
+        "location": NaN,
+        "station_id": 5131
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E19'25\"",
+        "latitude": "50N05'00\"",
+        "city": "Kosina",
+        "location": NaN,
+        "station_id": 5134
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E30'46\"",
+        "latitude": "50N04'00\"",
+        "city": "Przeworsk",
+        "location": NaN,
+        "station_id": 5136
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E15'44\"",
+        "latitude": "53N30'04\"",
+        "city": "Lipka",
+        "location": NaN,
+        "station_id": 1226
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E00'13\"",
+        "latitude": "52N40'21\"",
+        "city": "Nowiny Wielkie",
+        "location": NaN,
+        "station_id": 2630
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E08'19\"",
+        "latitude": "53N50'42\"",
+        "city": "Gamerki Wielkie",
+        "location": NaN,
+        "station_id": 3603
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E44'45\"",
+        "latitude": "52N08'01\"",
+        "city": "Czempiń",
+        "location": NaN,
+        "station_id": 354
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E48'02\"",
+        "latitude": "52N11'07\"",
+        "city": "Pecna",
+        "location": NaN,
+        "station_id": 353
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E40'48\"",
+        "latitude": "51N44'35\"",
+        "city": "Kaczkowo",
+        "location": NaN,
+        "station_id": 5561
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E52'24\"",
+        "latitude": "51N32'38\"",
+        "city": "Korzeńsko",
+        "location": NaN,
+        "station_id": 5064
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E38'20\"",
+        "latitude": "52N04'36\"",
+        "city": "Kościan",
+        "location": NaN,
+        "station_id": 5556
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E34'12\"",
+        "latitude": "51N55'09\"",
+        "city": "Lipno",
+        "location": NaN,
+        "station_id": 5558
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E54'25\"",
+        "latitude": "51N17'58\"",
+        "city": "Oborniki Śląskie",
+        "location": NaN,
+        "station_id": 5068
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E51'53\"",
+        "latitude": "51N20'20\"",
+        "city": "Osola",
+        "location": NaN,
+        "station_id": 5067
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E45'21\"",
+        "latitude": "51N41'30\"",
+        "city": "Gołaszyn",
+        "location": NaN,
+        "station_id": 5562
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E55'37\"",
+        "latitude": "51N14'52\"",
+        "city": "Pęgów",
+        "location": NaN,
+        "station_id": 5069
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E50'17\"",
+        "latitude": "51N36'37\"",
+        "city": "Rawicz",
+        "location": NaN,
+        "station_id": 5563
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E42'20\"",
+        "latitude": "52N06'46\"",
+        "city": "Stare Oborzyska",
+        "location": NaN,
+        "station_id": 5555
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E57'47\"",
+        "latitude": "51N12'23\"",
+        "city": "Wrocław",
+        "location": NaN,
+        "station_id": 5070
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E47'31\"",
+        "latitude": "51N44'33\"",
+        "city": "Biniew",
+        "location": NaN,
+        "station_id": 5546
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E25'27\"",
+        "latitude": "52N00'54\"",
+        "city": "Czerwieńsk",
+        "location": NaN,
+        "station_id": 2517
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "14E45'32\"",
+        "latitude": "52N23'53\"",
+        "city": "Kowalów",
+        "location": NaN,
+        "station_id": 2511
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E15'50\"",
+        "latitude": "52N05'31\"",
+        "city": "Szklarka Radnicka",
+        "location": NaN,
+        "station_id": 2516
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E57'25\"",
+        "latitude": "51N41'10\"",
+        "city": "Głogów",
+        "location": NaN,
+        "station_id": 4923
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E02'59\"",
+        "latitude": "50N58'59\"",
+        "city": "Żórawina",
+        "location": NaN,
+        "station_id": 4371
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E00'14\"",
+        "latitude": "52N22'52\"",
+        "city": "Poznań",
+        "location": NaN,
+        "station_id": 306
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E08'00\"",
+        "latitude": "51N38'44\"",
+        "city": "Głogów",
+        "location": NaN,
+        "station_id": 4925
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E02'22\"",
+        "latitude": "52N15'19\"",
+        "city": "Warszawa",
+        "location": "ul. Białostocka 5a",
+        "station_id": 11990
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E02'28\"",
+        "latitude": "52N01'37\"",
+        "city": "Zalesie Górne",
+        "location": NaN,
+        "station_id": 123
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E16'05\"",
+        "latitude": "52N06'18\"",
+        "city": "Otwock",
+        "location": NaN,
+        "station_id": 186
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E12'50\"",
+        "latitude": "52N09'34\"",
+        "city": "Warszawa",
+        "location": NaN,
+        "station_id": 187
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E42'44\"",
+        "latitude": "52N16'59\"",
+        "city": "Stęszew",
+        "location": NaN,
+        "station_id": 303
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E23'31\"",
+        "latitude": "52N42'17\"",
+        "city": "Wronki",
+        "location": NaN,
+        "station_id": 336
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E29'20\"",
+        "latitude": "52N39'53\"",
+        "city": "Pęckowo",
+        "location": NaN,
+        "station_id": 337
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E35'15\"",
+        "latitude": "52N36'08\"",
+        "city": "Szamotuły",
+        "location": NaN,
+        "station_id": 338
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E37'44\"",
+        "latitude": "52N34'55\"",
+        "city": "Baborówko",
+        "location": NaN,
+        "station_id": 339
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E44'39\"",
+        "latitude": "52N31'00\"",
+        "city": "Rokietnica",
+        "location": NaN,
+        "station_id": 340
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E52'57\"",
+        "latitude": "52N18'51\"",
+        "city": "Wiry",
+        "location": NaN,
+        "station_id": 350
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E51'38\"",
+        "latitude": "52N15'40\"",
+        "city": "Puszczykowo",
+        "location": NaN,
+        "station_id": 351
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E51'10\"",
+        "latitude": "52N14'29\"",
+        "city": "Mosina",
+        "location": NaN,
+        "station_id": 352
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E02'39\"",
+        "latitude": "52N18'08\"",
+        "city": "Gądki",
+        "location": NaN,
+        "station_id": 440
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E18'39\"",
+        "latitude": "51N53'13\"",
+        "city": "Grotniki",
+        "location": NaN,
+        "station_id": 513
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E24'23\"",
+        "latitude": "51N48'27\"",
+        "city": "Łódź",
+        "location": NaN,
+        "station_id": 552
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E25'16\"",
+        "latitude": "51N50'39\"",
+        "city": "Zgierz",
+        "location": NaN,
+        "station_id": 553
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E54'07\"",
+        "latitude": "52N02'55\"",
+        "city": "Stare Grudze",
+        "location": NaN,
+        "station_id": 557
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E05'59\"",
+        "latitude": "51N36'16\"",
+        "city": "Orchów",
+        "location": NaN,
+        "station_id": 615
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E32'01\"",
+        "latitude": "52N06'51\"",
+        "city": "Grzebowilk",
+        "location": NaN,
+        "station_id": 752
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E30'51\"",
+        "latitude": "51N59'13\"",
+        "city": "Augustówka",
+        "location": NaN,
+        "station_id": 781
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E28'36\"",
+        "latitude": "52N00'36\"",
+        "city": "Zabieżki",
+        "location": NaN,
+        "station_id": 782
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E26'08\"",
+        "latitude": "52N02'25\"",
+        "city": "Karpiska",
+        "location": NaN,
+        "station_id": 783
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E23'54\"",
+        "latitude": "52N03'20\"",
+        "city": "Celestynów",
+        "location": NaN,
+        "station_id": 784
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E20'11\"",
+        "latitude": "52N05'47\"",
+        "city": "Pogorzel",
+        "location": NaN,
+        "station_id": 785
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E02'10\"",
+        "latitude": "53N19'56\"",
+        "city": "Stargard",
+        "location": NaN,
+        "station_id": 1116
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E04'33\"",
+        "latitude": "53N17'10\"",
+        "city": "Witkowo Drugie",
+        "location": NaN,
+        "station_id": 1117
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E07'27\"",
+        "latitude": "53N14'42\"",
+        "city": "Kolin",
+        "location": NaN,
+        "station_id": 1118
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E27'18\"",
+        "latitude": "53N07'54\"",
+        "city": "Stary Klukom",
+        "location": NaN,
+        "station_id": 1122
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E03'16\"",
+        "latitude": "53N21'36\"",
+        "city": "Złotów",
+        "location": NaN,
+        "station_id": 1228
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E51'58\"",
+        "latitude": "53N13'02\"",
+        "city": "Skórka",
+        "location": NaN,
+        "station_id": 1230
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E45'07\"",
+        "latitude": "53N08'30\"",
+        "city": "Piła",
+        "location": NaN,
+        "station_id": 1234
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E12'38\"",
+        "latitude": "52N47'20\"",
+        "city": "Inowrocław",
+        "location": NaN,
+        "station_id": 1615
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E31'14\"",
+        "latitude": "52N55'49\"",
+        "city": "Cierpice",
+        "location": NaN,
+        "station_id": 1617
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E37'20\"",
+        "latitude": "53N00'08\"",
+        "city": "Toruń",
+        "location": NaN,
+        "station_id": 1618
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E44'58\"",
+        "latitude": "53N06'39\"",
+        "city": "Turzno",
+        "location": NaN,
+        "station_id": 1619
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E58'58\"",
+        "latitude": "53N16'00\"",
+        "city": "Wąbrzeźno",
+        "location": NaN,
+        "station_id": 1620
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E09'54\"",
+        "latitude": "53N23'37\"",
+        "city": "Jabłonowo Pomorskie",
+        "location": NaN,
+        "station_id": 1621
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E19'37\"",
+        "latitude": "51N51'41\"",
+        "city": "Szczygły Górne",
+        "location": NaN,
+        "station_id": 1750
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "23E47'08\"",
+        "latitude": "51N10'21\"",
+        "city": "Dorohusk-Osada",
+        "location": NaN,
+        "station_id": 1751
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "23E37'06\"",
+        "latitude": "51N09'25\"",
+        "city": "Brzeźno",
+        "location": NaN,
+        "station_id": 1752
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "23E29'19\"",
+        "latitude": "51N08'27\"",
+        "city": "Chełm",
+        "location": NaN,
+        "station_id": 1753
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "23E21'22\"",
+        "latitude": "51N07'27\"",
+        "city": "Zawadówka",
+        "location": NaN,
+        "station_id": 1754
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E45'48\"",
+        "latitude": "51N13'05\"",
+        "city": "Minkowice",
+        "location": NaN,
+        "station_id": 1758
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E38'02\"",
+        "latitude": "51N14'17\"",
+        "city": "Lublin",
+        "location": NaN,
+        "station_id": 1759
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E50'38\"",
+        "latitude": "51N33'05\"",
+        "city": "Dęblin",
+        "location": NaN,
+        "station_id": 1771
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E50'24\"",
+        "latitude": "51N34'31\"",
+        "city": "Dęblin",
+        "location": NaN,
+        "station_id": 1772
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E48'00\"",
+        "latitude": "51N36'42\"",
+        "city": "Stara Rokitnia",
+        "location": NaN,
+        "station_id": 1773
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E45'41\"",
+        "latitude": "51N38'44\"",
+        "city": "Podebłocie",
+        "location": NaN,
+        "station_id": 1774
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E43'51\"",
+        "latitude": "51N41'21\"",
+        "city": "Prandocin",
+        "location": NaN,
+        "station_id": 1775
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E40'08\"",
+        "latitude": "51N44'36\"",
+        "city": "Sobolew",
+        "location": NaN,
+        "station_id": 1776
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E37'55\"",
+        "latitude": "51N46'05\"",
+        "city": "Leokadia",
+        "location": NaN,
+        "station_id": 1777
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E36'32\"",
+        "latitude": "51N47'50\"",
+        "city": "Nowy Pilczyn",
+        "location": NaN,
+        "station_id": 1778
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E34'58\"",
+        "latitude": "51N51'33\"",
+        "city": "Górki",
+        "location": NaN,
+        "station_id": 1779
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E33'11\"",
+        "latitude": "51N54'11\"",
+        "city": "Wola Rębkowska",
+        "location": NaN,
+        "station_id": 1780
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "23E10'59\"",
+        "latitude": "50N59'09\"",
+        "city": "Krasnystaw",
+        "location": NaN,
+        "station_id": 1781
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "23E07'26\"",
+        "latitude": "50N42'55\"",
+        "city": "Zawada",
+        "location": NaN,
+        "station_id": 1784
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "23E02'25\"",
+        "latitude": "50N31'12\"",
+        "city": "Majdan Kasztelański",
+        "location": NaN,
+        "station_id": 1788
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "23E18'52\"",
+        "latitude": "50N24'19\"",
+        "city": "Maziły",
+        "location": NaN,
+        "station_id": 1791
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "23E34'42\"",
+        "latitude": "50N17'53\"",
+        "city": "Hrebenne",
+        "location": NaN,
+        "station_id": 1795
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E58'33\"",
+        "latitude": "49N47'47\"",
+        "city": "Ciężkowice",
+        "location": NaN,
+        "station_id": 2306
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E57'45\"",
+        "latitude": "49N39'59\"",
+        "city": "Stróże",
+        "location": NaN,
+        "station_id": 2311
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E01'17\"",
+        "latitude": "49N40'46\"",
+        "city": "Szalowa",
+        "location": NaN,
+        "station_id": 2461
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "14E35'56\"",
+        "latitude": "52N38'57\"",
+        "city": "Namyślin",
+        "location": NaN,
+        "station_id": 2508
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "14E39'02\"",
+        "latitude": "52N35'35\"",
+        "city": "Kostrzyn nad Odrą",
+        "location": NaN,
+        "station_id": 2509
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "14E40'54\"",
+        "latitude": "52N29'27\"",
+        "city": "Górzyca",
+        "location": NaN,
+        "station_id": 2510
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "14E52'25\"",
+        "latitude": "52N18'04\"",
+        "city": "Gajec",
+        "location": NaN,
+        "station_id": 2513
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E00'58\"",
+        "latitude": "52N12'23\"",
+        "city": "Siedlisko",
+        "location": NaN,
+        "station_id": 2514
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E08'45\"",
+        "latitude": "52N07'57\"",
+        "city": "Struga",
+        "location": NaN,
+        "station_id": 2515
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E35'12\"",
+        "latitude": "51N56'17\"",
+        "city": "Zielona Góra",
+        "location": NaN,
+        "station_id": 2519
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E38'14\"",
+        "latitude": "51N54'22\"",
+        "city": "Zielona Góra",
+        "location": NaN,
+        "station_id": 2520
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E46'58\"",
+        "latitude": "51N44'04\"",
+        "city": "Tarnów Bycki",
+        "location": NaN,
+        "station_id": 2522
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E48'56\"",
+        "latitude": "52N10'10\"",
+        "city": "Babimost",
+        "location": NaN,
+        "station_id": 2530
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E31'26\"",
+        "latitude": "52N02'50\"",
+        "city": "Pomorsko",
+        "location": NaN,
+        "station_id": 2533
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E12'25\"",
+        "latitude": "52N02'25\"",
+        "city": "Szczawno",
+        "location": NaN,
+        "station_id": 2535
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "14E57'01\"",
+        "latitude": "52N00'46\"",
+        "city": "Wężyska",
+        "location": NaN,
+        "station_id": 2537
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "14E47'50\"",
+        "latitude": "51N59'04\"",
+        "city": "Wałowice",
+        "location": NaN,
+        "station_id": 2538
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E24'19\"",
+        "latitude": "52N37'31\"",
+        "city": "Trzebiszewo",
+        "location": NaN,
+        "station_id": 2541
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E21'38\"",
+        "latitude": "51N54'58\"",
+        "city": "Buchałów",
+        "location": NaN,
+        "station_id": 2550
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E19'07\"",
+        "latitude": "51N52'20\"",
+        "city": "Koźla",
+        "location": NaN,
+        "station_id": 2551
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E13'39\"",
+        "latitude": "51N47'52\"",
+        "city": "Nowogród Bobrzański",
+        "location": NaN,
+        "station_id": 2552
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E18'00\"",
+        "latitude": "51N59'33\"",
+        "city": "Błotnica",
+        "location": NaN,
+        "station_id": 2571
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E37'16\"",
+        "latitude": "53N06'27\"",
+        "city": "Stobno",
+        "location": NaN,
+        "station_id": 2632
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E28'05\"",
+        "latitude": "53N02'05\"",
+        "city": "Trzcianka",
+        "location": NaN,
+        "station_id": 2633
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E20'24\"",
+        "latitude": "52N57'22\"",
+        "city": "Przyłęki",
+        "location": NaN,
+        "station_id": 2634
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E10'32\"",
+        "latitude": "52N54'23\"",
+        "city": "Wieleń",
+        "location": NaN,
+        "station_id": 2636
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E01'45\"",
+        "latitude": "52N52'49\"",
+        "city": "Krzyż Wielkopolski",
+        "location": NaN,
+        "station_id": 2637
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E55'19\"",
+        "latitude": "52N51'13\"",
+        "city": "Stare Bielice",
+        "location": NaN,
+        "station_id": 2638
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E50'07\"",
+        "latitude": "52N51'13\"",
+        "city": "Drezdenko",
+        "location": NaN,
+        "station_id": 2639
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E13'54\"",
+        "latitude": "52N43'38\"",
+        "city": "Gorzów Wielkopolski",
+        "location": NaN,
+        "station_id": 2642
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E12'04\"",
+        "latitude": "51N03'18\"",
+        "city": "Jawor",
+        "location": NaN,
+        "station_id": 3215
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E21'39\"",
+        "latitude": "50N57'58\"",
+        "city": "Strzegom",
+        "location": NaN,
+        "station_id": 3216
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E06'15\"",
+        "latitude": "51N05'43\"",
+        "city": "Mikułowa",
+        "location": NaN,
+        "station_id": 3289
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E12'55\"",
+        "latitude": "51N05'52\"",
+        "city": "Zaręba",
+        "location": NaN,
+        "station_id": 3290
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E17'46\"",
+        "latitude": "51N06'25\"",
+        "city": "Lubań",
+        "location": NaN,
+        "station_id": 3291
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E25'41\"",
+        "latitude": "51N02'11\"",
+        "city": "Ubocze",
+        "location": NaN,
+        "station_id": 3293
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E27'21\"",
+        "latitude": "50N56'56\"",
+        "city": "Rębiszów",
+        "location": NaN,
+        "station_id": 3294
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E33'51\"",
+        "latitude": "50N54'52\"",
+        "city": "Stara Kamienica",
+        "location": NaN,
+        "station_id": 3295
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E45'49\"",
+        "latitude": "50N54'02\"",
+        "city": "Jelenia Góra",
+        "location": NaN,
+        "station_id": 3298
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E59'02\"",
+        "latitude": "50N51'54\"",
+        "city": "Ciechanowice",
+        "location": NaN,
+        "station_id": 3302
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E09'59\"",
+        "latitude": "50N45'45\"",
+        "city": "Boguszów-Gorce",
+        "location": NaN,
+        "station_id": 3305
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E13'18\"",
+        "latitude": "50N44'52\"",
+        "city": "Boguszów-Gorce",
+        "location": NaN,
+        "station_id": 3306
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E18'14\"",
+        "latitude": "50N49'06\"",
+        "city": "Wałbrzych",
+        "location": NaN,
+        "station_id": 3310
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E34'53\"",
+        "latitude": "50N57'49\"",
+        "city": "Imbramowice",
+        "location": NaN,
+        "station_id": 3314
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E45'01\"",
+        "latitude": "51N02'18\"",
+        "city": "Kąty Wrocławskie",
+        "location": NaN,
+        "station_id": 3315
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E23'48\"",
+        "latitude": "53N48'32\"",
+        "city": "Olsztyn",
+        "location": NaN,
+        "station_id": 3601
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E01'10\"",
+        "latitude": "53N52'31\"",
+        "city": "Żabi Róg",
+        "location": NaN,
+        "station_id": 3604
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E55'07\"",
+        "latitude": "53N55'11\"",
+        "city": "Morąg",
+        "location": NaN,
+        "station_id": 3605
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E39'25\"",
+        "latitude": "54N03'19\"",
+        "city": "Pasłęk",
+        "location": NaN,
+        "station_id": 3607
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E30'04\"",
+        "latitude": "53N31'43\"",
+        "city": "Jamielnik",
+        "location": NaN,
+        "station_id": 3623
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E40'10\"",
+        "latitude": "53N38'19\"",
+        "city": "Rudzienice",
+        "location": NaN,
+        "station_id": 3624
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E49'01\"",
+        "latitude": "53N40'19\"",
+        "city": "Samborowo",
+        "location": NaN,
+        "station_id": 3625
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E56'56\"",
+        "latitude": "53N41'57\"",
+        "city": "Ostróda",
+        "location": NaN,
+        "station_id": 3626
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E27'44\"",
+        "latitude": "53N46'38\"",
+        "city": "Olsztyn",
+        "location": NaN,
+        "station_id": 3630
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E25'00\"",
+        "latitude": "54N09'02\"",
+        "city": "Elbląg",
+        "location": NaN,
+        "station_id": 3737
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E08'36\"",
+        "latitude": "50N17'32\"",
+        "city": "Sosnowiec",
+        "location": NaN,
+        "station_id": 3848
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E06'15\"",
+        "latitude": "50N15'36\"",
+        "city": "Katowice",
+        "location": NaN,
+        "station_id": 3849
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E22'31\"",
+        "latitude": "50N35'37\"",
+        "city": "Skoroszyce",
+        "location": NaN,
+        "station_id": 4304
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E38'34\"",
+        "latitude": "50N43'19\"",
+        "city": "Dzierżoniów",
+        "location": NaN,
+        "station_id": 4319
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E48'49\"",
+        "latitude": "50N35'48\"",
+        "city": "Ząbkowice Śląskie",
+        "location": NaN,
+        "station_id": 4322
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E54'44\"",
+        "latitude": "50N32'13\"",
+        "city": "Kamieniec Ząbkowicki",
+        "location": NaN,
+        "station_id": 4323
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E00'31\"",
+        "latitude": "50N28'42\"",
+        "city": "Paczków",
+        "location": NaN,
+        "station_id": 4324
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E08'49\"",
+        "latitude": "50N28'28\"",
+        "city": "Otmuchów",
+        "location": NaN,
+        "station_id": 4325
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E20'44\"",
+        "latitude": "50N28'20\"",
+        "city": "Nysa",
+        "location": NaN,
+        "station_id": 4327
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E03'40\"",
+        "latitude": "50N47'25\"",
+        "city": "Strzelin",
+        "location": NaN,
+        "station_id": 4370
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E48'15\"",
+        "latitude": "51N05'49\"",
+        "city": "Skarżysko-Kamienna",
+        "location": NaN,
+        "station_id": 4530
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E11'53\"",
+        "latitude": "51N24'27\"",
+        "city": "Radom",
+        "location": NaN,
+        "station_id": 4541
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E20'07\"",
+        "latitude": "51N25'51\"",
+        "city": "Jedlnia-Letnisko",
+        "location": NaN,
+        "station_id": 4542
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E28'00\"",
+        "latitude": "51N28'50\"",
+        "city": "Pionki",
+        "location": NaN,
+        "station_id": 4543
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E06'01\"",
+        "latitude": "51N54'11\"",
+        "city": "Wola Chynowska",
+        "location": NaN,
+        "station_id": 4625
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E06'40\"",
+        "latitude": "51N52'16\"",
+        "city": "Krężel",
+        "location": NaN,
+        "station_id": 4626
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E10'18\"",
+        "latitude": "51N47'30\"",
+        "city": "Warka",
+        "location": NaN,
+        "station_id": 4627
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E10'58\"",
+        "latitude": "51N44'33\"",
+        "city": "Kępa Niemojewska",
+        "location": NaN,
+        "station_id": 4628
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E10'36\"",
+        "latitude": "51N37'52\"",
+        "city": "Grabowy Las",
+        "location": NaN,
+        "station_id": 4630
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E10'42\"",
+        "latitude": "51N34'20\"",
+        "city": "Bierwce",
+        "location": NaN,
+        "station_id": 4631
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E10'40\"",
+        "latitude": "51N31'28\"",
+        "city": "Lisów",
+        "location": NaN,
+        "station_id": 4632
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E11'42\"",
+        "latitude": "51N28'40\"",
+        "city": "Kolonia Lesiów",
+        "location": NaN,
+        "station_id": 4633
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E01'34\"",
+        "latitude": "51N16'37\"",
+        "city": "Ruda Wielka",
+        "location": NaN,
+        "station_id": 4636
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E53'23\"",
+        "latitude": "51N07'12\"",
+        "city": "Skarżysko-Kamienna",
+        "location": NaN,
+        "station_id": 4638
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E01'24\"",
+        "latitude": "50N01'02\"",
+        "city": "Tarnów",
+        "location": NaN,
+        "station_id": 4717
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E08'42\"",
+        "latitude": "50N03'06\"",
+        "city": "Żdżary",
+        "location": NaN,
+        "station_id": 4719
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E04'56\"",
+        "latitude": "50N12'30\"",
+        "city": "Niedźwiedź",
+        "location": NaN,
+        "station_id": 4756
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E01'23\"",
+        "latitude": "50N06'30\"",
+        "city": "Batowice",
+        "location": NaN,
+        "station_id": 4758
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E11'22\"",
+        "latitude": "51N10'34\"",
+        "city": "Legnica",
+        "location": NaN,
+        "station_id": 4914
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E24'05\"",
+        "latitude": "51N20'46\"",
+        "city": "Grabowno Wielkie",
+        "location": NaN,
+        "station_id": 4979
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E34'57\"",
+        "latitude": "51N23'16\"",
+        "city": "Bukowina Sycowska",
+        "location": NaN,
+        "station_id": 5034
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E28'00\"",
+        "latitude": "51N21'38\"",
+        "city": "Twardogóra",
+        "location": NaN,
+        "station_id": 5035
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E54'03\"",
+        "latitude": "51N28'23\"",
+        "city": "Żmigród",
+        "location": NaN,
+        "station_id": 5065
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E50'58\"",
+        "latitude": "51N23'11\"",
+        "city": "Skokowa",
+        "location": NaN,
+        "station_id": 5066
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E59'52\"",
+        "latitude": "51N09'58\"",
+        "city": "Wrocław",
+        "location": NaN,
+        "station_id": 5071
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E06'55\"",
+        "latitude": "50N04'04\"",
+        "city": "Strażów",
+        "location": NaN,
+        "station_id": 5132
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E14'02\"",
+        "latitude": "50N04'55\"",
+        "city": "Łańcut",
+        "location": NaN,
+        "station_id": 5133
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E36'47\"",
+        "latitude": "50N02'48\"",
+        "city": "Pełkinie",
+        "location": NaN,
+        "station_id": 5137
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E47'01\"",
+        "latitude": "49N57'15\"",
+        "city": "Ostrów",
+        "location": NaN,
+        "station_id": 5140
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E51'42\"",
+        "latitude": "49N52'47\"",
+        "city": "Niziny",
+        "location": NaN,
+        "station_id": 5142
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E50'20\"",
+        "latitude": "49N49'59\"",
+        "city": "Bolestraszyce",
+        "location": NaN,
+        "station_id": 5143
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E50'39\"",
+        "latitude": "49N47'05\"",
+        "city": "Przemyśl",
+        "location": NaN,
+        "station_id": 5146
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E56'17\"",
+        "latitude": "49N48'07\"",
+        "city": "Medyka",
+        "location": NaN,
+        "station_id": 5147
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E41'53\"",
+        "latitude": "50N46'35\"",
+        "city": "Koniecpol",
+        "location": NaN,
+        "station_id": 5318
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E29'48\"",
+        "latitude": "50N46'00\"",
+        "city": "Zalesice",
+        "location": NaN,
+        "station_id": 5319
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E23'16\"",
+        "latitude": "50N45'39\"",
+        "city": "Lusławice",
+        "location": NaN,
+        "station_id": 5320
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E15'35\"",
+        "latitude": "50N46'40\"",
+        "city": "Kusięta",
+        "location": NaN,
+        "station_id": 5321
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E20'52\"",
+        "latitude": "50N24'53\"",
+        "city": "Wiesiółka",
+        "location": NaN,
+        "station_id": 5341
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E18'08\"",
+        "latitude": "50N23'22\"",
+        "city": "Dąbrowa Górnicza",
+        "location": NaN,
+        "station_id": 5343
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E15'55\"",
+        "latitude": "50N22'05\"",
+        "city": "Dąbrowa Górnicza",
+        "location": NaN,
+        "station_id": 5344
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E08'10\"",
+        "latitude": "50N19'18\"",
+        "city": "Będzin",
+        "location": NaN,
+        "station_id": 5347
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E17'30\"",
+        "latitude": "50N35'40\"",
+        "city": "Myszków",
+        "location": NaN,
+        "station_id": 5364
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E13'08\"",
+        "latitude": "50N40'36\"",
+        "city": "Poraj",
+        "location": NaN,
+        "station_id": 5365
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E34'02\"",
+        "latitude": "51N51'01\"",
+        "city": "Leszno",
+        "location": NaN,
+        "station_id": 5503
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E41'16\"",
+        "latitude": "51N51'29\"",
+        "city": "Kąkolewo",
+        "location": NaN,
+        "station_id": 5504
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E13'00\"",
+        "latitude": "51N43'12\"",
+        "city": "Kobylin",
+        "location": NaN,
+        "station_id": 5507
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E25'38\"",
+        "latitude": "51N42'14\"",
+        "city": "Krotoszyn",
+        "location": NaN,
+        "station_id": 5508
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E34'01\"",
+        "latitude": "51N40'37\"",
+        "city": "Biadki",
+        "location": NaN,
+        "station_id": 5509
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E39'57\"",
+        "latitude": "51N34'23\"",
+        "city": "Odolanów",
+        "location": NaN,
+        "station_id": 5531
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E38'22\"",
+        "latitude": "51N28'08\"",
+        "city": "Sośnie",
+        "location": NaN,
+        "station_id": 5532
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E21'06\"",
+        "latitude": "52N04'06\"",
+        "city": "Chocicza",
+        "location": NaN,
+        "station_id": 5543
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E29'37\"",
+        "latitude": "51N57'58\"",
+        "city": "Jarocin",
+        "location": NaN,
+        "station_id": 5544
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E43'53\"",
+        "latitude": "51N53'33\"",
+        "city": "Kowalew",
+        "location": NaN,
+        "station_id": 5545
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E48'17\"",
+        "latitude": "51N38'31\"",
+        "city": "Ostrów Wielkopolski",
+        "location": NaN,
+        "station_id": 5547
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E35'09\"",
+        "latitude": "51N59'54\"",
+        "city": "Stare Bojanowo",
+        "location": NaN,
+        "station_id": 5557
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E36'18\"",
+        "latitude": "51N48'24\"",
+        "city": "Dąbcze",
+        "location": NaN,
+        "station_id": 5559
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E38'51\"",
+        "latitude": "51N46'12\"",
+        "city": "Kłoda",
+        "location": NaN,
+        "station_id": 5560
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E29'35\"",
+        "latitude": "50N52'44\"",
+        "city": "Piekoszów",
+        "location": NaN,
+        "station_id": 5711
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E16'21\"",
+        "latitude": "50N51'02\"",
+        "city": "Zakrucze",
+        "location": NaN,
+        "station_id": 5713
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E06'59\"",
+        "latitude": "50N50'50\"",
+        "city": "Ludynia",
+        "location": NaN,
+        "station_id": 5715
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E00'37\"",
+        "latitude": "50N50'14\"",
+        "city": "Włoszczowa",
+        "location": NaN,
+        "station_id": 5716
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E36'07\"",
+        "latitude": "50N58'01\"",
+        "city": "Tumlin-Dąbrówka",
+        "location": NaN,
+        "station_id": 5743
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E37'02\"",
+        "latitude": "50N55'18\"",
+        "city": "Kostomłoty Pierwsze",
+        "location": NaN,
+        "station_id": 5744
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E50'13\"",
+        "latitude": "50N38'11\"",
+        "city": "Szczekociny",
+        "location": NaN,
+        "station_id": 5761
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E57'09\"",
+        "latitude": "50N31'53\"",
+        "city": "Mstyczów",
+        "location": NaN,
+        "station_id": 5763
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E14'59\"",
+        "latitude": "52N45'05\"",
+        "city": "Chojno-Wieś",
+        "location": NaN,
+        "station_id": 334
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E35'28\"",
+        "latitude": "53N03'14\"",
+        "city": "Rębusz",
+        "location": NaN,
+        "station_id": 1124
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E54'32\"",
+        "latitude": "52N55'35\"",
+        "city": "Sarbinowo",
+        "location": NaN,
+        "station_id": 1129
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E23'13\"",
+        "latitude": "54N18'14\"",
+        "city": "Dobiesław",
+        "location": NaN,
+        "station_id": 1147
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E14'13\"",
+        "latitude": "53N23'41\"",
+        "city": "Marianowo",
+        "location": NaN,
+        "station_id": 1178
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "14E32'14\"",
+        "latitude": "53N55'43\"",
+        "city": "Warnowo",
+        "location": NaN,
+        "station_id": 1188
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E40'49\"",
+        "latitude": "53N48'04\"",
+        "city": "Gąsiorki",
+        "location": NaN,
+        "station_id": 1306
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E41'06\"",
+        "latitude": "53N44'52\"",
+        "city": "Smętowo Graniczne",
+        "location": NaN,
+        "station_id": 1307
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E45'55\"",
+        "latitude": "54N32'21\"",
+        "city": "Lębork",
+        "location": NaN,
+        "station_id": 1351
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E27'27\"",
+        "latitude": "53N29'26\"",
+        "city": "Laskowice",
+        "location": NaN,
+        "station_id": 1513
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E12'08\"",
+        "latitude": "53N20'12\"",
+        "city": "Pruszcz",
+        "location": NaN,
+        "station_id": 1519
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E07'12\"",
+        "latitude": "53N17'02\"",
+        "city": "Kotomierz",
+        "location": NaN,
+        "station_id": 1520
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E01'09\"",
+        "latitude": "53N01'44\"",
+        "city": "Brzoza",
+        "location": NaN,
+        "station_id": 1527
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E22'08\"",
+        "latitude": "52N43'00\"",
+        "city": "Karczyn-Wieś",
+        "location": NaN,
+        "station_id": 1528
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E42'38\"",
+        "latitude": "52N19'23\"",
+        "city": "Kiejsze",
+        "location": NaN,
+        "station_id": 1531
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E53'08\"",
+        "latitude": "51N02'53\"",
+        "city": "Domaszowice",
+        "location": NaN,
+        "station_id": 4446
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E01'18\"",
+        "latitude": "51N10'33\"",
+        "city": "Biała",
+        "location": NaN,
+        "station_id": 5301
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E08'10\"",
+        "latitude": "51N06'39\"",
+        "city": "Dubidze",
+        "location": NaN,
+        "station_id": 5302
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E54'13\"",
+        "latitude": "51N49'42\"",
+        "city": "Pudłówek",
+        "location": NaN,
+        "station_id": 635
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E57'05\"",
+        "latitude": "51N43'17\"",
+        "city": "Szadek",
+        "location": NaN,
+        "station_id": 636
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E13'41\"",
+        "latitude": "52N45'38\"",
+        "city": "Szulborze Wielkie",
+        "location": NaN,
+        "station_id": 717
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E08'28\"",
+        "latitude": "52N43'51\"",
+        "city": "Uścianek Wielki",
+        "location": NaN,
+        "station_id": 718
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E51'47\"",
+        "latitude": "52N36'26\"",
+        "city": "Zieleniec",
+        "location": NaN,
+        "station_id": 721
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E09'15\"",
+        "latitude": "52N17'29\"",
+        "city": "Zielonka",
+        "location": NaN,
+        "station_id": 730
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E36'35\"",
+        "latitude": "53N03'14\"",
+        "city": "Ostrołęka",
+        "location": NaN,
+        "station_id": 765
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E45'12\"",
+        "latitude": "53N59'02\"",
+        "city": "Radostowo",
+        "location": NaN,
+        "station_id": 1302
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E42'43\"",
+        "latitude": "53N55'44\"",
+        "city": "Pelplin",
+        "location": NaN,
+        "station_id": 1303
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E12'02\"",
+        "latitude": "54N36'32\"",
+        "city": "Wejherowo",
+        "location": NaN,
+        "station_id": 1358
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E23'02\"",
+        "latitude": "53N25'54\"",
+        "city": "Sulnówko",
+        "location": NaN,
+        "station_id": 1515
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E16'07\"",
+        "latitude": "53N22'13\"",
+        "city": "Parlin",
+        "location": NaN,
+        "station_id": 1518
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E56'53\"",
+        "latitude": "53N05'06\"",
+        "city": "Trzciniec",
+        "location": NaN,
+        "station_id": 1524
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E13'42\"",
+        "latitude": "53N04'39\"",
+        "city": "Solec Kujawski",
+        "location": NaN,
+        "station_id": 1538
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E28'26\"",
+        "latitude": "52N59'19\"",
+        "city": "Cierpice",
+        "location": NaN,
+        "station_id": 1540
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E55'58\"",
+        "latitude": "52N42'40\"",
+        "city": "Mikanowo",
+        "location": NaN,
+        "station_id": 1544
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E53'21\"",
+        "latitude": "51N36'06\"",
+        "city": "Dęblin",
+        "location": NaN,
+        "station_id": 1745
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E57'26\"",
+        "latitude": "49N37'35\"",
+        "city": "Grybów",
+        "location": NaN,
+        "station_id": 2312
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E41'47\"",
+        "latitude": "49N36'16\"",
+        "city": "Nowy Sącz",
+        "location": NaN,
+        "station_id": 2319
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E39'40\"",
+        "latitude": "49N35'11\"",
+        "city": "Nowy Sącz",
+        "location": NaN,
+        "station_id": 2320
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E38'39\"",
+        "latitude": "49N33'14\"",
+        "city": "Stary Sącz",
+        "location": NaN,
+        "station_id": 2321
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E38'53\"",
+        "latitude": "49N31'39\"",
+        "city": "Barcice",
+        "location": NaN,
+        "station_id": 2322
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E40'50\"",
+        "latitude": "49N29'16\"",
+        "city": "Rytro",
+        "location": NaN,
+        "station_id": 2324
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E47'06\"",
+        "latitude": "49N21'43\"",
+        "city": "Żegiestów",
+        "location": NaN,
+        "station_id": 2332
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E41'42\"",
+        "latitude": "49N54'08\"",
+        "city": "Przytkowice",
+        "location": NaN,
+        "station_id": 2342
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E37'18\"",
+        "latitude": "49N49'32\"",
+        "city": "Stryszów",
+        "location": NaN,
+        "station_id": 2345
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E56'33\"",
+        "latitude": "49N22'09\"",
+        "city": "Powroźnik",
+        "location": NaN,
+        "station_id": 2381
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E37'07\"",
+        "latitude": "51N28'00\"",
+        "city": "Leszno Górne",
+        "location": NaN,
+        "station_id": 2567
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E41'54\"",
+        "latitude": "50N17'46\"",
+        "city": "Gliwice",
+        "location": NaN,
+        "station_id": 2715
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E37'24\"",
+        "latitude": "50N20'21\"",
+        "city": "Gliwice",
+        "location": NaN,
+        "station_id": 2717
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E58'11\"",
+        "latitude": "51N18'59\"",
+        "city": "Rusiec",
+        "location": NaN,
+        "station_id": 2739
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E56'35\"",
+        "latitude": "51N00'48\"",
+        "city": "Zawady",
+        "location": NaN,
+        "station_id": 2741
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E55'25\"",
+        "latitude": "50N54'19\"",
+        "city": "Kłobuck",
+        "location": NaN,
+        "station_id": 2742
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E53'26\"",
+        "latitude": "50N49'20\"",
+        "city": "Borowe",
+        "location": NaN,
+        "station_id": 2743
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E25'23\"",
+        "latitude": "52N49'42\"",
+        "city": "Dąbrowa-Kity",
+        "location": NaN,
+        "station_id": 3415
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E01'25\"",
+        "latitude": "54N04'05\"",
+        "city": "Sątopy",
+        "location": NaN,
+        "station_id": 3634
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E20'14\"",
+        "latitude": "50N12'48\"",
+        "city": "Jaworzno",
+        "location": NaN,
+        "station_id": 3770
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E55'25\"",
+        "latitude": "50N03'51\"",
+        "city": "Kobiór",
+        "location": NaN,
+        "station_id": 3858
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E57'14\"",
+        "latitude": "49N58'23\"",
+        "city": "Pszczyna",
+        "location": NaN,
+        "station_id": 3860
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E07'31\"",
+        "latitude": "49N44'08\"",
+        "city": "Łodygowice",
+        "location": NaN,
+        "station_id": 3865
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E06'41\"",
+        "latitude": "49N31'05\"",
+        "city": "Rajcza",
+        "location": NaN,
+        "station_id": 3869
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E01'36\"",
+        "latitude": "49N31'10\"",
+        "city": "Zwardoń",
+        "location": NaN,
+        "station_id": 3872
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E58'41\"",
+        "latitude": "51N05'40\"",
+        "city": "Marcinków Górny",
+        "location": NaN,
+        "station_id": 4531
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E32'54\"",
+        "latitude": "51N07'40\"",
+        "city": "Bierutów",
+        "location": NaN,
+        "station_id": 4944
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E45'08\"",
+        "latitude": "50N17'37\"",
+        "city": "Cmolas",
+        "location": NaN,
+        "station_id": 5113
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E49'39\"",
+        "latitude": "49N56'25\"",
+        "city": "Czudec",
+        "location": NaN,
+        "station_id": 5152
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E48'23\"",
+        "latitude": "49N52'09\"",
+        "city": "Strzyżów",
+        "location": NaN,
+        "station_id": 5153
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E37'13\"",
+        "latitude": "49N49'44\"",
+        "city": "Twierdza",
+        "location": NaN,
+        "station_id": 5154
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E39'32\"",
+        "latitude": "49N46'32\"",
+        "city": "Wojaszówka",
+        "location": NaN,
+        "station_id": 5155
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E33'50\"",
+        "latitude": "50N40'52\"",
+        "city": "Pawonków",
+        "location": NaN,
+        "station_id": 5326
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E16'54\"",
+        "latitude": "50N19'32\"",
+        "city": "Dąbrowa Górnicza",
+        "location": NaN,
+        "station_id": 5334
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E41'12\"",
+        "latitude": "50N37'06\"",
+        "city": "Lubliniec",
+        "location": NaN,
+        "station_id": 5371
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E13'34\"",
+        "latitude": "51N44'35\"",
+        "city": "Opatówek",
+        "location": NaN,
+        "station_id": 5512
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E44'22\"",
+        "latitude": "50N36'29\"",
+        "city": "Przededworze",
+        "location": NaN,
+        "station_id": 5702
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "23E05'00\"",
+        "latitude": "53N06'16\"",
+        "city": "Klepacze",
+        "location": NaN,
+        "station_id": 3408
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E08'48\"",
+        "latitude": "51N02'18\"",
+        "city": "Gojsc",
+        "location": NaN,
+        "station_id": 5303
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E55'35\"",
+        "latitude": "49N59'59\"",
+        "city": "Kraków",
+        "location": NaN,
+        "station_id": 4731
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E21'20\"",
+        "latitude": "53N24'39\"",
+        "city": "Terespol Pomorski",
+        "location": NaN,
+        "station_id": 1516
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E59'16\"",
+        "latitude": "52N10'11\"",
+        "city": "Warszawa",
+        "location": NaN,
+        "station_id": 120
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E05'35\"",
+        "latitude": "52N01'54\"",
+        "city": "Krosno Odrzańskie",
+        "location": NaN,
+        "station_id": 2536
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E44'39\"",
+        "latitude": "50N25'51\"",
+        "city": "Nowa Dęba",
+        "location": NaN,
+        "station_id": 1811
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E46'58\"",
+        "latitude": "49N34'41\"",
+        "city": "Kamionka Wielka",
+        "location": NaN,
+        "station_id": 2317
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E06'24\"",
+        "latitude": "50N53'44\"",
+        "city": "Bukowo",
+        "location": NaN,
+        "station_id": 4313
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E28'33\"",
+        "latitude": "49N59'42\"",
+        "city": "Spytkowice",
+        "location": NaN,
+        "station_id": 4734
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E11'00\"",
+        "latitude": "52N25'27\"",
+        "city": "Radzymin",
+        "location": NaN,
+        "station_id": 755
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E02'13\"",
+        "latitude": "50N43'47\"",
+        "city": "Kotórz Mały",
+        "location": NaN,
+        "station_id": 4311
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E29'22\"",
+        "latitude": "54N29'05\"",
+        "city": "Potęgowo",
+        "location": NaN,
+        "station_id": 1347
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "23E30'05\"",
+        "latitude": "53N27'52\"",
+        "city": "Gliniszcze Wielkie",
+        "location": NaN,
+        "station_id": 3421
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E22'20\"",
+        "latitude": "50N22'34\"",
+        "city": "Nowy Świętów",
+        "location": NaN,
+        "station_id": 4329
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E45'30\"",
+        "latitude": "51N23'50\"",
+        "city": "Wierzbowa",
+        "location": NaN,
+        "station_id": 4968
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E36'21\"",
+        "latitude": "52N53'35\"",
+        "city": "Szymbory-Andrzejowięta",
+        "location": NaN,
+        "station_id": 3413
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E00'40\"",
+        "latitude": "50N01'36\"",
+        "city": "Kraków",
+        "location": NaN,
+        "station_id": 4702
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E39'32\"",
+        "latitude": "50N26'04\"",
+        "city": "Kłodzko",
+        "location": NaN,
+        "station_id": 3266
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E37'11\"",
+        "latitude": "53N35'05\"",
+        "city": "Warlubie",
+        "location": NaN,
+        "station_id": 1510
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E59'05\"",
+        "latitude": "53N58'00\"",
+        "city": "Ateny",
+        "location": NaN,
+        "station_id": 3428
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E34'06\"",
+        "latitude": "50N32'19\"",
+        "city": "Łambinowice",
+        "location": NaN,
+        "station_id": 4303
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E22'36\"",
+        "latitude": "50N41'54\"",
+        "city": "Grodków",
+        "location": NaN,
+        "station_id": 4305
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E24'19\"",
+        "latitude": "54N33'34\"",
+        "city": "Rumia",
+        "location": NaN,
+        "station_id": 1361
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E25'29\"",
+        "latitude": "50N52'57\"",
+        "city": "Olesno",
+        "location": NaN,
+        "station_id": 4450
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E26'13\"",
+        "latitude": "53N28'35\"",
+        "city": "Osłowo",
+        "location": NaN,
+        "station_id": 1514
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E18'44\"",
+        "latitude": "50N57'25\"",
+        "city": "Bąków",
+        "location": NaN,
+        "station_id": 4449
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E01'07\"",
+        "latitude": "50N29'36\"",
+        "city": "Gogolin",
+        "location": NaN,
+        "station_id": 4387
+    }
+]
