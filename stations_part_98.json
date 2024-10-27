@@ -1,0 +1,4002 @@
+[
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E55'19\"",
+        "latitude": "53N50'26\"",
+        "city": "Brzezie",
+        "location": "158/3",
+        "station_id": "12077"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E01'05\"",
+        "latitude": "54N28'23\"",
+        "city": "Słupsk",
+        "location": "Księcia Józefa Poniatowskiego 27, Słupsk Księcia Józefa Poniatowskiego 27",
+        "station_id": "41111"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E24'29\"",
+        "latitude": "54N08'47\"",
+        "city": "Niezabyszewo",
+        "location": "2/1",
+        "station_id": "41120"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E58'48\"",
+        "latitude": "54N04'01\"",
+        "city": "Cisy",
+        "location": "93",
+        "station_id": "41122"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E31'32\"",
+        "latitude": "54N21'31\"",
+        "city": "Słowino",
+        "location": "494/4",
+        "station_id": "41125"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E01'01\"",
+        "latitude": "53N47'50\"",
+        "city": "Cierniki",
+        "location": "3168/2",
+        "station_id": "41128"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E55'27\"",
+        "latitude": "53N56'42\"",
+        "city": "Miłocice",
+        "location": "27",
+        "station_id": "41138"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E25'38\"",
+        "latitude": "54N03'13\"",
+        "city": "Wojsk",
+        "location": "210",
+        "station_id": "41190"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E21'32\"",
+        "latitude": "54N29'28\"",
+        "city": "Strzyżyno",
+        "location": "70",
+        "station_id": "41253"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E53'51\"",
+        "latitude": "54N29'37\"",
+        "city": "Wierzbięcin",
+        "location": "124",
+        "station_id": "41262"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E34'35\"",
+        "latitude": "54N29'52\"",
+        "city": "Darżewo",
+        "location": "230/1",
+        "station_id": "41266"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E20'44\"",
+        "latitude": "53N39'47\"",
+        "city": "Człuchów",
+        "location": "Aleja Wiosenna 27, 131/6",
+        "station_id": "41302"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E22'24\"",
+        "latitude": "53N40'46\"",
+        "city": "Człuchów",
+        "location": "963/7",
+        "station_id": "41325"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E24'43\"",
+        "latitude": "54N24'39\"",
+        "city": "Darłowo",
+        "location": "Aleje Wojska Polskiego 35a, 65/6",
+        "station_id": "41372"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E09'58\"",
+        "latitude": "54N22'28\"",
+        "city": "Dębnica Kaszubska",
+        "location": "424/1",
+        "station_id": "41386"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E30'39\"",
+        "latitude": "54N29'47\"",
+        "city": "Nowe Skórowo",
+        "location": "57/2",
+        "station_id": "41398"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E35'16\"",
+        "latitude": "54N20'52\"",
+        "city": "Rzyszczewo",
+        "location": "43/1",
+        "station_id": "0938"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E40'48\"",
+        "latitude": "54N21'45\"",
+        "city": "Sławno",
+        "location": "Artura Grottgera 1, 699",
+        "station_id": "3862"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E37'57\"",
+        "latitude": "54N29'53\"",
+        "city": "Pogorzelice",
+        "location": "156",
+        "station_id": "4957"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E29'54\"",
+        "latitude": "54N29'42\"",
+        "city": "Nowe Skórowo",
+        "location": "53/2",
+        "station_id": "0940"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E40'14\"",
+        "latitude": "54N15'48\"",
+        "city": "Ostrowiec",
+        "location": "334/4",
+        "station_id": "5809"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E55'25\"",
+        "latitude": "54N35'58\"",
+        "city": "Orzechowo",
+        "location": "25",
+        "station_id": "41414"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E40'10\"",
+        "latitude": "54N21'28\"",
+        "city": "Sławno",
+        "location": "Józefa Chełmońskiego 47, 38",
+        "station_id": "9494"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E44'02\"",
+        "latitude": "54N23'44\"",
+        "city": "Sławsko",
+        "location": "641",
+        "station_id": "9477"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E52'13\"",
+        "latitude": "54N25'16\"",
+        "city": "Sycewice",
+        "location": "9/19",
+        "station_id": "1077"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E16'55\"",
+        "latitude": "53N38'09\"",
+        "city": "Jaromierz",
+        "location": "14/1",
+        "station_id": "5856"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E02'03\"",
+        "latitude": "53N33'36\"",
+        "city": "Buszkowo",
+        "location": "209",
+        "station_id": "7520"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E07'30\"",
+        "latitude": "53N36'22\"",
+        "city": "Pokrzywy",
+        "location": "405/8",
+        "station_id": "0932"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E14'34\"",
+        "latitude": "53N54'22\"",
+        "city": "Żołna",
+        "location": "4313/7",
+        "station_id": "3737"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E10'03\"",
+        "latitude": "53N49'36\"",
+        "city": "Rudniki",
+        "location": "143/1",
+        "station_id": "3738"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E26'58\"",
+        "latitude": "53N44'37\"",
+        "city": "Czarnoszyce",
+        "location": "120/2",
+        "station_id": "3751"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E06'08\"",
+        "latitude": "53N45'23\"",
+        "city": "Rzeczenica",
+        "location": "Czarna 16, 40/8",
+        "station_id": "1029"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E03'03\"",
+        "latitude": "54N40'06\"",
+        "city": "Rowy",
+        "location": "31/6",
+        "station_id": "41717"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E04'28\"",
+        "latitude": "54N17'59\"",
+        "city": "Objezierze",
+        "location": "9/1",
+        "station_id": "0933"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E04'50\"",
+        "latitude": "54N11'20\"",
+        "city": "Trzebielino",
+        "location": "66, 219/13",
+        "station_id": "1091"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E12'35\"",
+        "latitude": "54N39'21\"",
+        "city": "Smołdzino",
+        "location": "113",
+        "station_id": "0943"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E33'43\"",
+        "latitude": "54N21'37\"",
+        "city": "Czarna Dąbrówka",
+        "location": "147/1",
+        "station_id": "2319"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E52'08\"",
+        "latitude": "54N17'45\"",
+        "city": "Korzybie",
+        "location": "41/4",
+        "station_id": "5304"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E16'17\"",
+        "latitude": "54N06'54\"",
+        "city": "Zagony",
+        "location": "124, 58",
+        "station_id": "3438"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E59'08\"",
+        "latitude": "54N05'54\"",
+        "city": "Dretyń",
+        "location": "78/3",
+        "station_id": "3439"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E13'39\"",
+        "latitude": "54N14'09\"",
+        "city": "Kołczygłowy",
+        "location": "Fabryczna 16, 180/8",
+        "station_id": "1030"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E23'23\"",
+        "latitude": "54N11'40\"",
+        "city": "Borzytuchom",
+        "location": "Leśna 10A, 298",
+        "station_id": "1031"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E43'20\"",
+        "latitude": "54N25'07\"",
+        "city": "Kamieniec",
+        "location": "7, 421/2",
+        "station_id": "4409"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E15'09\"",
+        "latitude": "54N00'52\"",
+        "city": "Brzeźno Szlacheckie",
+        "location": "497/3",
+        "station_id": "2801"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E14'34\"",
+        "latitude": "54N03'48\"",
+        "city": "Kramarzyny",
+        "location": "332/3",
+        "station_id": "10636"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E31'29\"",
+        "latitude": "54N00'07\"",
+        "city": "Stoltmany",
+        "location": "27/3",
+        "station_id": "5796"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E27'22\"",
+        "latitude": "53N56'44\"",
+        "city": "Mielno",
+        "location": "34",
+        "station_id": "3750"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E27'11\"",
+        "latitude": "54N17'28\"",
+        "city": "Unichowo",
+        "location": "65/3",
+        "station_id": "3660"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E52'59\"",
+        "latitude": "54N14'41\"",
+        "city": "Kępice",
+        "location": "41/32",
+        "station_id": "1092"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E57'33\"",
+        "latitude": "54N17'04\"",
+        "city": "Barcino",
+        "location": "318",
+        "station_id": "5398"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E24'30\"",
+        "latitude": "54N19'22\"",
+        "city": "Przystawy",
+        "location": "39",
+        "station_id": "10290"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E52'28\"",
+        "latitude": "54N10'24\"",
+        "city": "Ciecholub",
+        "location": "19/5",
+        "station_id": "3961"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E18'50\"",
+        "latitude": "54N19'44\"",
+        "city": "Niemczewo",
+        "location": "295/10",
+        "station_id": "4285"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E37'32\"",
+        "latitude": "54N02'19\"",
+        "city": "Sominy",
+        "location": "108/2",
+        "station_id": "5287"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E32'05\"",
+        "latitude": "54N32'28\"",
+        "city": "Jarosławiec",
+        "location": "Nadmorska 44, 253/5",
+        "station_id": "3957"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E59'16\"",
+        "latitude": "54N37'25\"",
+        "city": "Poddąbie",
+        "location": "126",
+        "station_id": "5146"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E53'16\"",
+        "latitude": "54N35'22\"",
+        "city": "Ustka",
+        "location": "Wczasowa 27, 1/3",
+        "station_id": "5418"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E51'45\"",
+        "latitude": "54N34'54\"",
+        "city": "Ustka",
+        "location": "Marynarki Polskiej, 1959/1",
+        "station_id": "0936"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E33'13\"",
+        "latitude": "54N45'42\"",
+        "city": "Łeba",
+        "location": "Morska 1, 328",
+        "station_id": "0990"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E33'51\"",
+        "latitude": "54N45'54\"",
+        "city": "Łeba",
+        "location": "Nadmorska, 132/1",
+        "station_id": "2045"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E24'35\"",
+        "latitude": "54N25'21\"",
+        "city": "Darłowo",
+        "location": "Franciszkańska 4, 360",
+        "station_id": "1500"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E22'42\"",
+        "latitude": "54N26'19\"",
+        "city": "Darłowo",
+        "location": "Gdyńska 3",
+        "station_id": "5197"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E32'45\"",
+        "latitude": "54N28'38\"",
+        "city": "Dzierżęcin",
+        "location": "19/1",
+        "station_id": "3767"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E42'59\"",
+        "latitude": "54N30'07\"",
+        "city": "Postomino",
+        "location": "20",
+        "station_id": "3563"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E32'47\"",
+        "latitude": "54N32'27\"",
+        "city": "Jarosławiec",
+        "location": "Bałtycka 12, 339/1",
+        "station_id": "10509"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E42'10\"",
+        "latitude": "54N34'17\"",
+        "city": "Czarnówko",
+        "location": "1019/4",
+        "station_id": "0941"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E44'17\"",
+        "latitude": "54N31'53\"",
+        "city": "Lębork",
+        "location": "Wojska Polskiego 24, 128/4",
+        "station_id": "4722"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E45'04\"",
+        "latitude": "54N32'17\"",
+        "city": "Lębork",
+        "location": "Zwycięstwa 12, 243",
+        "station_id": "1104"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E44'28\"",
+        "latitude": "54N28'07\"",
+        "city": "Maszewo Lęborskie",
+        "location": "Fabryczna 3",
+        "station_id": "9232"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E32'02\"",
+        "latitude": "54N35'50\"",
+        "city": "Wolinia",
+        "location": "25/7",
+        "station_id": "3768"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E09'03\"",
+        "latitude": "54N32'58\"",
+        "city": "Wiklino",
+        "location": "158/33",
+        "station_id": "3564"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E23'33\"",
+        "latitude": "54N35'44\"",
+        "city": "Warblino",
+        "location": "15/5",
+        "station_id": "3268"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E51'04\"",
+        "latitude": "54N32'34\"",
+        "city": "Duninowo",
+        "location": "39",
+        "station_id": "10070"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E01'26\"",
+        "latitude": "54N22'15\"",
+        "city": "Kwakowo",
+        "location": "114/20",
+        "station_id": "10286"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E15'22\"",
+        "latitude": "54N30'47\"",
+        "city": "Damnica",
+        "location": "268",
+        "station_id": "10459"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E51'13\"",
+        "latitude": "54N34'03\"",
+        "city": "Ustka",
+        "location": "Polna, 906/48",
+        "station_id": "2015"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E45'01\"",
+        "latitude": "54N32'57\"",
+        "city": "Lębork",
+        "location": "Łączna 2, 83/5",
+        "station_id": "6125"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E29'22\"",
+        "latitude": "54N10'09\"",
+        "city": "Bytów",
+        "location": "Jana Pawła II 22, 58",
+        "station_id": "5037"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E29'51\"",
+        "latitude": "54N10'58\"",
+        "city": "Bytów",
+        "location": "Przemysłowa 5, 22/2",
+        "station_id": "7488"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E29'37\"",
+        "latitude": "54N09'13\"",
+        "city": "Udorpie",
+        "location": "93, 36",
+        "station_id": "2079"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E22'45\"",
+        "latitude": "53N39'37\"",
+        "city": "Człuchów",
+        "location": "Słowackiego 19, 4/4",
+        "station_id": "0930"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E21'28\"",
+        "latitude": "53N39'57\"",
+        "city": "Człuchów",
+        "location": "Jakuba Wejhera 2, 17",
+        "station_id": "5414"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E14'13\"",
+        "latitude": "53N32'39\"",
+        "city": "Debrzno",
+        "location": "Młyńska, 113/25",
+        "station_id": "3259"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E58'41\"",
+        "latitude": "54N01'09\"",
+        "city": "Węgorzynko",
+        "location": "35/2",
+        "station_id": "0934"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E18'55\"",
+        "latitude": "54N22'50\"",
+        "city": "Dąbki",
+        "location": "Wydmowa 9, 42/2",
+        "station_id": "3848"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E03'45\"",
+        "latitude": "54N39'29\"",
+        "city": "Rowy",
+        "location": "Polna 20, 240/2",
+        "station_id": "3550"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E57'36\"",
+        "latitude": "53N40'42\"",
+        "city": "Czarne",
+        "location": "Człuchowska 5, 70/1",
+        "station_id": "2054"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E10'25\"",
+        "latitude": "54N11'44\"",
+        "city": "Koszalin",
+        "location": "Niepodległości 51A, 61",
+        "station_id": "0909"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E09'19\"",
+        "latitude": "54N11'11\"",
+        "city": "Koszalin",
+        "location": "Szczecińska 32, 141/36",
+        "station_id": "9446"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E09'26\"",
+        "latitude": "54N11'45\"",
+        "city": "Koszalin",
+        "location": "Mieszka I 20A, 25/3",
+        "station_id": "0913"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E11'31\"",
+        "latitude": "54N11'43\"",
+        "city": "Koszalin",
+        "location": "Aleja Monte Cassino 6, 139",
+        "station_id": "4443"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E10'22\"",
+        "latitude": "54N11'05\"",
+        "city": "Koszalin",
+        "location": "Łużycka 25a, 41/1",
+        "station_id": "4444"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E13'30\"",
+        "latitude": "54N11'19\"",
+        "city": "Koszalin",
+        "location": "Zwycięstwa 248, 71",
+        "station_id": "4574"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E11'08\"",
+        "latitude": "54N12'19\"",
+        "city": "Koszalin",
+        "location": "Jana Pawła II 20, 18/2",
+        "station_id": "9908"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E15'42\"",
+        "latitude": "54N08'49\"",
+        "city": "Bonin",
+        "location": "4/95",
+        "station_id": "5812"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E12'20\"",
+        "latitude": "54N11'43\"",
+        "city": "Koszalin",
+        "location": "Władysława Broniewskiego 2, 220/15",
+        "station_id": "0916"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E11'52\"",
+        "latitude": "54N11'27\"",
+        "city": "Koszalin",
+        "location": "Zwycięstwa, 301/6",
+        "station_id": "42073"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E05'15\"",
+        "latitude": "54N16'08\"",
+        "city": "Mielno",
+        "location": "Morska 20, 402/12",
+        "station_id": "3651"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E20'54\"",
+        "latitude": "54N14'43\"",
+        "city": "Karnieszewice",
+        "location": "484/29",
+        "station_id": "1053"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E13'34\"",
+        "latitude": "54N12'13\"",
+        "city": "Koszalin",
+        "location": "Słupska, 48/1",
+        "station_id": "0908"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E53'11\"",
+        "latitude": "54N02'51\"",
+        "city": "Karlino",
+        "location": "Kołobrzeska 6, 9",
+        "station_id": "4328"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E02'36\"",
+        "latitude": "54N07'56\"",
+        "city": "Biesiekierz",
+        "location": "2/133",
+        "station_id": "2236"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E31'42\"",
+        "latitude": "53N56'52\"",
+        "city": "Rymań",
+        "location": "Wiejska 7, 194",
+        "station_id": "2072"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E07'15\"",
+        "latitude": "53N59'31\"",
+        "city": "Dobrowo",
+        "location": "298",
+        "station_id": "42473"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E52'29\"",
+        "latitude": "53N22'01\"",
+        "city": "Poźrzadło Wielkie",
+        "location": "64/6",
+        "station_id": "12985"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E37'32\"",
+        "latitude": "53N18'51\"",
+        "city": "Głębokie",
+        "location": "974/3",
+        "station_id": "4026"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E41'58\"",
+        "latitude": "53N53'01\"",
+        "city": "Sławoborze",
+        "location": "Wybudowa 5, 376",
+        "station_id": "3231"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E34'26\"",
+        "latitude": "54N05'11\"",
+        "city": "Charzyno",
+        "location": "395",
+        "station_id": "11835"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E40'28\"",
+        "latitude": "53N49'03\"",
+        "city": "Lekowo",
+        "location": "141/30",
+        "station_id": "11935"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E10'08\"",
+        "latitude": "53N33'05\"",
+        "city": "Wrześnica",
+        "location": "342",
+        "station_id": "4775"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E04'51\"",
+        "latitude": "53N31'47\"",
+        "city": "Bobrowo",
+        "location": "3/3",
+        "station_id": "42629"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E12'30\"",
+        "latitude": "53N26'11\"",
+        "city": "Sośnica",
+        "location": "202",
+        "station_id": "3753"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E16'43\"",
+        "latitude": "53N29'56\"",
+        "city": "Byszkowo",
+        "location": "121/20",
+        "station_id": "3182"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E19'36\"",
+        "latitude": "53N47'59\"",
+        "city": "Sulikowo",
+        "location": "298/1",
+        "station_id": "42636"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E19'07\"",
+        "latitude": "53N52'06\"",
+        "city": "Wielanowo",
+        "location": "38/7",
+        "station_id": "10249"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E14'01\"",
+        "latitude": "53N55'39\"",
+        "city": "Tychowo",
+        "location": "75/2",
+        "station_id": "3621"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E17'41\"",
+        "latitude": "54N04'08\"",
+        "city": "Rosnowo",
+        "location": "209/3",
+        "station_id": "7489"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E01'38\"",
+        "latitude": "54N03'50\"",
+        "city": "Pustkowo",
+        "location": "13, 75/7",
+        "station_id": "11860"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E50'50\"",
+        "latitude": "53N50'25\"",
+        "city": "Nielep",
+        "location": "136/3",
+        "station_id": "11859"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E16'16\"",
+        "latitude": "53N31'09\"",
+        "city": "Broczyno",
+        "location": "466/7",
+        "station_id": "42650"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E38'39\"",
+        "latitude": "54N03'10\"",
+        "city": "Gościno",
+        "location": "Kolejowa, 601/2",
+        "station_id": "3230"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E11'47\"",
+        "latitude": "53N36'56\"",
+        "city": "Drahimek",
+        "location": "462/249",
+        "station_id": "4523"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E26'33\"",
+        "latitude": "54N02'42\"",
+        "city": "Grzybnica",
+        "location": "17, 10/29",
+        "station_id": "1022"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E36'57\"",
+        "latitude": "53N54'11\"",
+        "city": "Pietrzykowo",
+        "location": "9, 603/2",
+        "station_id": "42693"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E31'30\"",
+        "latitude": "53N59'59\"",
+        "city": "Przydargiń",
+        "location": "1, Przydargiń  1",
+        "station_id": "42698"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E40'01\"",
+        "latitude": "53N55'44\"",
+        "city": "Porost",
+        "location": "62, 219",
+        "station_id": "42699"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E51'05\"",
+        "latitude": "53N54'14\"",
+        "city": "Bagniewko",
+        "location": "250/5",
+        "station_id": "4185"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E36'08\"",
+        "latitude": "53N57'52\"",
+        "city": "Chociwle",
+        "location": "31, 19",
+        "station_id": "1023"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E26'40\"",
+        "latitude": "54N09'51\"",
+        "city": "Kościernica",
+        "location": "67/3",
+        "station_id": "3565"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E21'22\"",
+        "latitude": "53N44'35\"",
+        "city": "Barwice",
+        "location": "Plac Wolności 8, 267",
+        "station_id": "7452"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E40'33\"",
+        "latitude": "54N07'11\"",
+        "city": "Polanów",
+        "location": "Kolejowa, 105/7",
+        "station_id": "3225"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E49'30\"",
+        "latitude": "53N44'11\"",
+        "city": "Gwda Mała",
+        "location": "74/1",
+        "station_id": "1025"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E22'51\"",
+        "latitude": "53N35'22\"",
+        "city": "Łubowo",
+        "location": "Rakowska 4A, 203/27",
+        "station_id": "3584"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E09'40\"",
+        "latitude": "54N04'59\"",
+        "city": "Niedalino",
+        "location": "2, 418",
+        "station_id": "4565"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E58'35\"",
+        "latitude": "53N46'27\"",
+        "city": "Nowy Dwór-Parcela",
+        "location": "10",
+        "station_id": "4726"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E36'43\"",
+        "latitude": "53N38'19\"",
+        "city": "Przyjezierze",
+        "location": "42/4",
+        "station_id": "5079"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E47'59\"",
+        "latitude": "53N40'00\"",
+        "city": "Więcław",
+        "location": "126/2",
+        "station_id": "3735"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E31'39\"",
+        "latitude": "53N36'13\"",
+        "city": "Dąbrowica",
+        "location": "6",
+        "station_id": "10222"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E56'26\"",
+        "latitude": "53N52'07\"",
+        "city": "Rąbino",
+        "location": "254/18",
+        "station_id": "1067"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E58'20\"",
+        "latitude": "53N38'09\"",
+        "city": "Ostrowice",
+        "location": "246/1",
+        "station_id": "3736"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E23'29\"",
+        "latitude": "53N42'34\"",
+        "city": "Stary Grabiąż",
+        "location": "226",
+        "station_id": "3496"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E15'28\"",
+        "latitude": "53N40'34\"",
+        "city": "Chłopowo",
+        "location": "95/6",
+        "station_id": "3583"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E36'48\"",
+        "latitude": "53N51'11\"",
+        "city": "Wierzchowo",
+        "location": "29/22",
+        "station_id": "1024"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E38'43\"",
+        "latitude": "53N48'07\"",
+        "city": "Nowe Gonne",
+        "location": "90",
+        "station_id": "42747"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E48'25\"",
+        "latitude": "53N49'08\"",
+        "city": "Świerszczewo",
+        "location": "182/19",
+        "station_id": "42750"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E03'27\"",
+        "latitude": "54N15'39\"",
+        "city": "Mielno",
+        "location": "Cicha 1, 58",
+        "station_id": "3299"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E57'32\"",
+        "latitude": "54N14'57\"",
+        "city": "Sarbinowo",
+        "location": "Nadmorska 17, 374",
+        "station_id": "3967"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E45'58\"",
+        "latitude": "54N12'50\"",
+        "city": "Ustronie Morskie",
+        "location": "Górna 16",
+        "station_id": "2076"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E45'08\"",
+        "latitude": "54N12'52\"",
+        "city": "Ustronie Morskie",
+        "location": "Bolesława Chrobrego 10-12, 75",
+        "station_id": "9575"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E54'12\"",
+        "latitude": "54N12'46\"",
+        "city": "Śmiechów",
+        "location": "172/4",
+        "station_id": "1064"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E41'30\"",
+        "latitude": "54N08'31\"",
+        "city": "Czernin",
+        "location": "63A",
+        "station_id": "10310"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E43'21\"",
+        "latitude": "54N12'26\"",
+        "city": "Sianożęty",
+        "location": "Lotnicza 17",
+        "station_id": "42787"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E35'29\"",
+        "latitude": "54N10'24\"",
+        "city": "Kołobrzeg",
+        "location": "Wenedów, 269/7",
+        "station_id": "42792"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E49'11\"",
+        "latitude": "54N07'03\"",
+        "city": "Wrzosowo",
+        "location": "123/10",
+        "station_id": "3562"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E40'13\"",
+        "latitude": "54N11'33\"",
+        "city": "Kołobrzeg",
+        "location": "Lwowska 17, 4/352",
+        "station_id": "6344"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E34'17\"",
+        "latitude": "54N10'49\"",
+        "city": "Kołobrzeg",
+        "location": "Piastowska 5, 35",
+        "station_id": "5343"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E33'19\"",
+        "latitude": "54N10'27\"",
+        "city": "Kołobrzeg",
+        "location": "Jedności Narodowej 16, 54",
+        "station_id": "0997"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E36'12\"",
+        "latitude": "54N11'18\"",
+        "city": "Kołobrzeg",
+        "location": "Antoniego Sułkowskiego 9",
+        "station_id": "13709"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E05'04\"",
+        "latitude": "54N12'58\"",
+        "city": "Mścice",
+        "location": "267/47",
+        "station_id": "3766"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E23'35\"",
+        "latitude": "54N09'30\"",
+        "city": "Dźwirzyno",
+        "location": "Wyzwolenia 3, 5/2",
+        "station_id": "6400"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E24'56\"",
+        "latitude": "54N09'35\"",
+        "city": "Dźwirzyno",
+        "location": "Wyzwolenia 21, 33",
+        "station_id": "9257"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E58'28\"",
+        "latitude": "54N00'33\"",
+        "city": "Białogard",
+        "location": "J. Rogowskiego 2, 69",
+        "station_id": "2071"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E59'29\"",
+        "latitude": "54N00'18\"",
+        "city": "Białogard",
+        "location": "Kościelna 1, 224",
+        "station_id": "5773"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E48'52\"",
+        "latitude": "54N00'54\"",
+        "city": "Kozia Góra",
+        "location": "1/4",
+        "station_id": "0988"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E03'43\"",
+        "latitude": "53N56'53\"",
+        "city": "Byszyno",
+        "location": "53/4",
+        "station_id": "9530"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E04'33\"",
+        "latitude": "53N51'24\"",
+        "city": "Bolkowo",
+        "location": "300/3",
+        "station_id": "3721"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E46'13\"",
+        "latitude": "53N46'33\"",
+        "city": "Świdwin",
+        "location": "Słowiańska 9, 316/1",
+        "station_id": "5538"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E51'06\"",
+        "latitude": "53N46'30\"",
+        "city": "Smardzko",
+        "location": "44/4",
+        "station_id": "42845"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E03'53\"",
+        "latitude": "53N43'09\"",
+        "city": "Toporzyk",
+        "location": "49",
+        "station_id": "42850"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E03'52\"",
+        "latitude": "53N43'10\"",
+        "city": "Toporzyk",
+        "location": "49",
+        "station_id": "0987"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E06'24\"",
+        "latitude": "53N46'53\"",
+        "city": "Łężek",
+        "location": "1/40",
+        "station_id": "9628"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E42'34\"",
+        "latitude": "53N42'34\"",
+        "city": "Szczecinek",
+        "location": "Władysława Cieślaka 1",
+        "station_id": "10204"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E40'11\"",
+        "latitude": "53N43'21\"",
+        "city": "Szczecinek",
+        "location": "Armii Krajowej 81, 29",
+        "station_id": "3954"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E41'24\"",
+        "latitude": "53N42'37\"",
+        "city": "Szczecinek",
+        "location": "Boh. Warszawy 31-35, 981",
+        "station_id": "7432"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E42'34\"",
+        "latitude": "53N41'13\"",
+        "city": "Szczecinek",
+        "location": "Pilska 5, 52/2",
+        "station_id": "9122"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E48'51\"",
+        "latitude": "53N31'46\"",
+        "city": "Drawsko Pomorskie",
+        "location": "Józefa Piłsudskiego 21, 212",
+        "station_id": "5245"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E47'32\"",
+        "latitude": "53N31'35\"",
+        "city": "Drawsko Pomorskie",
+        "location": "Starogrodzka 34, 35/1",
+        "station_id": "42874"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E55'53\"",
+        "latitude": "53N28'41\"",
+        "city": "Linowno",
+        "location": "38",
+        "station_id": "0995"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E41'49\"",
+        "latitude": "53N27'12\"",
+        "city": "Ziemsko",
+        "location": "138/4",
+        "station_id": "4027"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E00'30\"",
+        "latitude": "53N32'04\"",
+        "city": "Złocieniec",
+        "location": "Kościelna 1, 58",
+        "station_id": "1502"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E13'30\"",
+        "latitude": "53N32'52\"",
+        "city": "Czaplinek",
+        "location": "Ceglana, 16/3",
+        "station_id": "1052"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "16E44'18\"",
+        "latitude": "54N00'14\"",
+        "city": "Gołogóra",
+        "location": "80",
+        "station_id": "0974"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E29'51\"",
+        "latitude": "54N09'32\"",
+        "city": "Grzybowo",
+        "location": "Myśliwska, 92/39",
+        "station_id": "42988"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E42'56\"",
+        "latitude": "54N12'28\"",
+        "city": "Sianożęty",
+        "location": "Lotnicza 42, Sianożęty Lotnicza 42",
+        "station_id": "42989"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "15E33'05\"",
+        "latitude": "54N10'42\"",
+        "city": "Kołobrzeg",
+        "location": "Bałtycka 1, Kołobrzeg Bałtycka 1",
+        "station_id": "42995"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E21'24\"",
+        "latitude": "53N49'47\"",
+        "city": "Ełk",
+        "location": "Gdańska 38A, 301/5",
+        "station_id": "1058"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E19'42\"",
+        "latitude": "53N52'34\"",
+        "city": "Oracze",
+        "location": "44/2",
+        "station_id": "0944"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E18'08\"",
+        "latitude": "53N45'52\"",
+        "city": "Nowa Wieś Ełcka",
+        "location": "Szosa Bajtkowska, 451/12",
+        "station_id": "7536"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E21'38\"",
+        "latitude": "53N48'14\"",
+        "city": "Ełk",
+        "location": "Jana Pawła II 16, 3376/12",
+        "station_id": "7539"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E20'22\"",
+        "latitude": "53N49'48\"",
+        "city": "Ełk",
+        "location": "11 Listopada 2, 125/1",
+        "station_id": "10446"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E31'50\"",
+        "latitude": "53N45'21\"",
+        "city": "Wiśniowo Ełckie",
+        "location": "37, 320/4",
+        "station_id": "43016"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E39'49\"",
+        "latitude": "53N52'13\"",
+        "city": "Kalinowo",
+        "location": "118",
+        "station_id": "1065"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E31'17\"",
+        "latitude": "53N51'35\"",
+        "city": "Golubka",
+        "location": "56, Golubka  56",
+        "station_id": "4740"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E36'11\"",
+        "latitude": "53N44'07\"",
+        "city": "Zawady-Tworki",
+        "location": "4/11",
+        "station_id": "5749"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E45'40\"",
+        "latitude": "53N57'58\"",
+        "city": "Rydzewo",
+        "location": "Mazurska 73, Rydzewo Mazurska 73",
+        "station_id": "43069"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E40'34\"",
+        "latitude": "53N38'20\"",
+        "city": "Snopki",
+        "location": "243/6",
+        "station_id": "43075"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E29'03\"",
+        "latitude": "53N39'16\"",
+        "city": "Wojnowo",
+        "location": "1, 160",
+        "station_id": "43077"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E48'06\"",
+        "latitude": "53N39'14\"",
+        "city": "Imionek",
+        "location": "193/27",
+        "station_id": "43080"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E56'19\"",
+        "latitude": "53N37'21\"",
+        "city": "Kocioł Duży",
+        "location": "62",
+        "station_id": "43082"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E47'57\"",
+        "latitude": "53N37'14\"",
+        "city": "Pisz",
+        "location": "Parkowa, 520",
+        "station_id": "43086"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E03'07\"",
+        "latitude": "53N52'22\"",
+        "city": "Pańska Wola",
+        "location": "76/1",
+        "station_id": "43090"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E47'10\"",
+        "latitude": "54N03'20\"",
+        "city": "Gajewo",
+        "location": "Leśna, 58/1",
+        "station_id": "0937"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E45'49\"",
+        "latitude": "54N02'13\"",
+        "city": "Giżycko",
+        "location": "Białostocka 35, 593/12",
+        "station_id": "4743"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E46'57\"",
+        "latitude": "54N02'13\"",
+        "city": "Giżycko",
+        "location": "Warszawska 41, 255/10",
+        "station_id": "9047"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E54'43\"",
+        "latitude": "54N04'45\"",
+        "city": "Kruklanki",
+        "location": "414",
+        "station_id": "3889"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E50'44\"",
+        "latitude": "53N56'17\"",
+        "city": "Miłki",
+        "location": "Jeziorna 2, 206/1",
+        "station_id": "0939"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E31'55\"",
+        "latitude": "53N56'21\"",
+        "city": "Ryn",
+        "location": "Partyzantów, 6/4",
+        "station_id": "1102"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E33'46\"",
+        "latitude": "54N00'54\"",
+        "city": "Sterławki Wielkie",
+        "location": "425/1",
+        "station_id": "4241"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E01'21\"",
+        "latitude": "53N58'27\"",
+        "city": "Wydminy",
+        "location": "Słowicza 6",
+        "station_id": "3332"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E59'28\"",
+        "latitude": "53N53'19\"",
+        "city": "Okrągłe",
+        "location": "10, 1",
+        "station_id": "11045"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E21'55\"",
+        "latitude": "53N50'35\"",
+        "city": "Ełk",
+        "location": "Kolonia 2, 1209/9",
+        "station_id": "43164"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E20'58\"",
+        "latitude": "53N49'29\"",
+        "city": "Ełk",
+        "location": "Adama Mickiewicza 15",
+        "station_id": "43167"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E41'57\"",
+        "latitude": "54N16'48\"",
+        "city": "Klimki",
+        "location": "3/12",
+        "station_id": "43173"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E32'34\"",
+        "latitude": "53N56'36\"",
+        "city": "Ryn",
+        "location": "164/5",
+        "station_id": "43174"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E28'38\"",
+        "latitude": "53N51'06\"",
+        "city": "Sędki",
+        "location": "4, 35",
+        "station_id": "43175"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E23'35\"",
+        "latitude": "53N38'44\"",
+        "city": "Zgon",
+        "location": "35, 198/11",
+        "station_id": "43176"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E19'21\"",
+        "latitude": "53N46'30\"",
+        "city": "Nowa Wieś Ełcka",
+        "location": "207/1",
+        "station_id": "43177"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E18'10\"",
+        "latitude": "54N15'07\"",
+        "city": "Suczki",
+        "location": "13, 33",
+        "station_id": "4261"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E18'14\"",
+        "latitude": "54N18'30\"",
+        "city": "Gołdap",
+        "location": "Królewiecka 1, 897/2",
+        "station_id": "6260"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E25'05\"",
+        "latitude": "54N15'11\"",
+        "city": "Górne",
+        "location": "5, 25",
+        "station_id": "7530"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E36'47\"",
+        "latitude": "54N16'54\"",
+        "city": "Przerośl Gołdapska",
+        "location": "26/32",
+        "station_id": "2870"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E27'17\"",
+        "latitude": "54N17'50\"",
+        "city": "Pluszkiejmy",
+        "location": "143/19",
+        "station_id": "5774"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E44'43\"",
+        "latitude": "54N20'17\"",
+        "city": "Łysogóra",
+        "location": "185/1",
+        "station_id": "5778"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E43'47\"",
+        "latitude": "53N57'27\"",
+        "city": "Kozin",
+        "location": "28/1",
+        "station_id": "43219"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E02'12\"",
+        "latitude": "54N19'02\"",
+        "city": "Żabin",
+        "location": "5, 41/1",
+        "station_id": "43231"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E17'21\"",
+        "latitude": "53N52'33\"",
+        "city": "Mrągowo",
+        "location": "Generała Leopolda Okulickiego 40, 33/22",
+        "station_id": "43269"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E17'09\"",
+        "latitude": "54N18'25\"",
+        "city": "Gołdap",
+        "location": "820/1",
+        "station_id": "43270"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E17'52\"",
+        "latitude": "53N52'00\"",
+        "city": "Mrągowo",
+        "location": "Spacerowa 2, 117/6",
+        "station_id": "0929"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E17'46\"",
+        "latitude": "53N58'33\"",
+        "city": "Rydwągi",
+        "location": "144/7",
+        "station_id": "3670"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E20'18\"",
+        "latitude": "53N53'17\"",
+        "city": "Młynowo",
+        "location": "6/12",
+        "station_id": "4361"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E18'02\"",
+        "latitude": "53N51'20\"",
+        "city": "Mrągowo",
+        "location": "Kolejowa 4B, 19/3",
+        "station_id": "4742"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E21'34\"",
+        "latitude": "53N49'13\"",
+        "city": "Probark",
+        "location": "30/6",
+        "station_id": "5783"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E18'16\"",
+        "latitude": "53N52'41\"",
+        "city": "Mrągowo",
+        "location": "Wolności 6, 72/1",
+        "station_id": "9095"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E27'54\"",
+        "latitude": "53N49'12\"",
+        "city": "Inulec",
+        "location": "28/1",
+        "station_id": "1069"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E33'29\"",
+        "latitude": "53N48'19\"",
+        "city": "Mikołajki",
+        "location": "Mrągowska 34, 50/2",
+        "station_id": "3433"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E33'33\"",
+        "latitude": "53N47'35\"",
+        "city": "Mikołajki",
+        "location": "Warszawska 32, 14/18",
+        "station_id": "7531"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E37'19\"",
+        "latitude": "53N50'37\"",
+        "city": "Woźnice",
+        "location": "649/294",
+        "station_id": "10435"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E21'11\"",
+        "latitude": "53N45'14\"",
+        "city": "Piecki",
+        "location": "pl. 1 Maja 6, 222/5",
+        "station_id": "2860"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E27'45\"",
+        "latitude": "53N46'07\"",
+        "city": "Lipowo",
+        "location": "3116/2",
+        "station_id": "3652"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E15'20\"",
+        "latitude": "53N40'24\"",
+        "city": "Babięta",
+        "location": "51, 51/2",
+        "station_id": "3663"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E25'39\"",
+        "latitude": "53N41'17\"",
+        "city": "Krutyń",
+        "location": "3084/2",
+        "station_id": "4225"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E07'45\"",
+        "latitude": "53N50'26\"",
+        "city": "Sorkwity",
+        "location": "74/60",
+        "station_id": "1079"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E08'29\"",
+        "latitude": "53N45'38\"",
+        "city": "Rybno",
+        "location": "Jeziorna, 124/1",
+        "station_id": "3667"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E30'17\"",
+        "latitude": "54N02'20\"",
+        "city": "Olecko",
+        "location": "Plac Wolności 18",
+        "station_id": "1014"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E27'06\"",
+        "latitude": "53N57'06\"",
+        "city": "Gąski",
+        "location": "76/1",
+        "station_id": "4754"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E29'57\"",
+        "latitude": "54N05'49\"",
+        "city": "Babki Oleckie",
+        "location": "37",
+        "station_id": "5756"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E20'25\"",
+        "latitude": "54N10'30\"",
+        "city": "Szeszki",
+        "location": "28/1",
+        "station_id": "0948"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E11'34\"",
+        "latitude": "54N07'34\"",
+        "city": "Czerwony Dwór",
+        "location": "3196/3",
+        "station_id": "3891"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E25'24\"",
+        "latitude": "54N09'35\"",
+        "city": "Kowale Oleckie",
+        "location": "504/2",
+        "station_id": "5819"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E23'55\"",
+        "latitude": "54N02'00\"",
+        "city": "Dobki",
+        "location": "239",
+        "station_id": "43419"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E17'52\"",
+        "latitude": "54N01'37\"",
+        "city": "Dunajek",
+        "location": "281305_2.0005.229/8",
+        "station_id": "3302"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E10'52\"",
+        "latitude": "54N00'59\"",
+        "city": "Pietrasze",
+        "location": "81/35",
+        "station_id": "9275"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E34'14\"",
+        "latitude": "53N58'59\"",
+        "city": "Wieliczki",
+        "location": "247",
+        "station_id": "6075"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E49'37\"",
+        "latitude": "53N36'42\"",
+        "city": "Pisz",
+        "location": "Tęczowa, 1149/30",
+        "station_id": "0950"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E53'16\"",
+        "latitude": "53N29'21\"",
+        "city": "Jeże",
+        "location": "248/4",
+        "station_id": "3654"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E49'09\"",
+        "latitude": "53N41'50\"",
+        "city": "Szczechy Wielkie",
+        "location": "20, 26/2",
+        "station_id": "3900"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E48'16\"",
+        "latitude": "53N37'54\"",
+        "city": "Pisz",
+        "location": "Gustawa Gizewiusza 3, 355/4",
+        "station_id": "4585"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E36'14\"",
+        "latitude": "53N30'51\"",
+        "city": "Turośl",
+        "location": "24, 86",
+        "station_id": "5464"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E50'47\"",
+        "latitude": "53N37'43\"",
+        "city": "Łupki",
+        "location": "607",
+        "station_id": "10453"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E45'19\"",
+        "latitude": "53N51'59\"",
+        "city": "Dąbrówka",
+        "location": "108",
+        "station_id": "1068"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E56'11\"",
+        "latitude": "53N49'05\"",
+        "city": "Grądy",
+        "location": "32, 338",
+        "station_id": "2010"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E48'32\"",
+        "latitude": "53N49'35\"",
+        "city": "Tuchlin",
+        "location": "430/3",
+        "station_id": "5135"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E01'36\"",
+        "latitude": "53N48'15\"",
+        "city": "Strzelniki",
+        "location": "126",
+        "station_id": "5228"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E31'31\"",
+        "latitude": "53N34'53\"",
+        "city": "Krzyże",
+        "location": "124/3",
+        "station_id": "3677"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E34'56\"",
+        "latitude": "53N41'10\"",
+        "city": "Piaski",
+        "location": "4/1",
+        "station_id": "3774"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E31'54\"",
+        "latitude": "53N38'05\"",
+        "city": "Ruciane-Nida",
+        "location": "244",
+        "station_id": "4586"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E33'04\"",
+        "latitude": "53N43'49\"",
+        "city": "Iznota",
+        "location": "2/8",
+        "station_id": "7564"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E07'45\"",
+        "latitude": "53N42'01\"",
+        "city": "Pogorzel Mała",
+        "location": "48",
+        "station_id": "4223"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "22E03'10\"",
+        "latitude": "53N44'13\"",
+        "city": "Bemowo Piskie",
+        "location": "20/88",
+        "station_id": "9759"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E36'31\"",
+        "latitude": "53N41'37\"",
+        "city": "Onufryjewo",
+        "location": "60/2",
+        "station_id": "43557"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E45'35\"",
+        "latitude": "54N12'11\"",
+        "city": "Węgorzewo",
+        "location": "Zacisze 3, 1020/4",
+        "station_id": "0935"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E37'42\"",
+        "latitude": "54N09'19\"",
+        "city": "Kamionek Wielki",
+        "location": "2",
+        "station_id": "4227"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E44'36\"",
+        "latitude": "54N12'48\"",
+        "city": "Węgorzewo",
+        "location": "Zamkowa 11, 647",
+        "station_id": "8970"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E50'40\"",
+        "latitude": "54N14'52\"",
+        "city": "Dowiaty",
+        "location": "436",
+        "station_id": "4747"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E51'24\"",
+        "latitude": "54N08'06\"",
+        "city": "Pozezdrze",
+        "location": "451",
+        "station_id": "4590"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E31'05\"",
+        "latitude": "53N45'12\"",
+        "city": "Olsztyn",
+        "location": "Masztowa 1, 4/2",
+        "station_id": "0830"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E28'10\"",
+        "latitude": "53N45'46\"",
+        "city": "Olsztyn",
+        "location": "Konstantego Ildefonsa Gałczyńskiego 21, 49/1",
+        "station_id": "0818"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E29'56\"",
+        "latitude": "53N45'12\"",
+        "city": "Olsztyn",
+        "location": "Franciszka Barcza 2, 163",
+        "station_id": "0817"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E29'32\"",
+        "latitude": "53N46'11\"",
+        "city": "Olsztyn",
+        "location": "Żołnierska 18, 67",
+        "station_id": "0815"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E28'36\"",
+        "latitude": "53N46'22\"",
+        "city": "Olsztyn",
+        "location": "Niepodległości 16, 49/2",
+        "station_id": "0820"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E27'34\"",
+        "latitude": "53N45'39\"",
+        "city": "Olsztyn",
+        "location": "Plac Cieszyński 1, 1/8",
+        "station_id": "9034"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E29'27\"",
+        "latitude": "53N44'29\"",
+        "city": "Olsztyn",
+        "location": "Kazimierza Jaroszyka 21, 132",
+        "station_id": "0823"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E27'05\"",
+        "latitude": "53N44'55\"",
+        "city": "Olsztyn",
+        "location": "Benedykta Dybowskiego 7",
+        "station_id": "3050"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E25'49\"",
+        "latitude": "53N45'58\"",
+        "city": "Olsztyn",
+        "location": "Żytnia 4, 105/6",
+        "station_id": "0821"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E29'26\"",
+        "latitude": "53N46'37\"",
+        "city": "Olsztyn",
+        "location": "Bartosza Głowackiego 17, 15",
+        "station_id": "4778"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E28'39\"",
+        "latitude": "53N46'33\"",
+        "city": "Olsztyn",
+        "location": "Stanisława Staszica 12, 84",
+        "station_id": "0832"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E32'00\"",
+        "latitude": "53N46'58\"",
+        "city": "Olsztyn",
+        "location": "Budowlana 2, 8/13",
+        "station_id": "0826"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E25'31\"",
+        "latitude": "53N42'56\"",
+        "city": "Tomaszkowo",
+        "location": "13/8",
+        "station_id": "0810"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E25'56\"",
+        "latitude": "53N47'54\"",
+        "city": "Olsztyn",
+        "location": "Kardynała Stanisława Hozjusza 4, 35/16",
+        "station_id": "0824"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E29'55\"",
+        "latitude": "53N43'56\"",
+        "city": "Olsztyn",
+        "location": "Bajkowa 111, 286201_1.0125.125",
+        "station_id": "4528"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E28'57\"",
+        "latitude": "53N46'38\"",
+        "city": "Olsztyn",
+        "location": "Aleja Marszałka Józefa Piłsudskiego 16, 10/1",
+        "station_id": "9006"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E29'08\"",
+        "latitude": "53N46'47\"",
+        "city": "Olsztyn",
+        "location": "Dąbrowszczaków 39",
+        "station_id": "0812"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E29'24\"",
+        "latitude": "53N47'24\"",
+        "city": "Olsztyn",
+        "location": "Jagiellońska 41, 8",
+        "station_id": "0822"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E30'15\"",
+        "latitude": "53N45'56\"",
+        "city": "Olsztyn",
+        "location": "Kardynała Stefana Wyszyńskiego 11, 131/1",
+        "station_id": "0816"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E30'00\"",
+        "latitude": "53N46'25\"",
+        "city": "Olsztyn",
+        "location": "Aleja Marszałka Józefa Piłsudskiego 63A, 18/2",
+        "station_id": "10114"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E28'37\"",
+        "latitude": "53N50'51\"",
+        "city": "Dywity",
+        "location": "185/12",
+        "station_id": "4913"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E22'33\"",
+        "latitude": "53N45'46\"",
+        "city": "Kudypy",
+        "location": "3299/10",
+        "station_id": "0809"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E27'51\"",
+        "latitude": "53N46'16\"",
+        "city": "Olsztyn",
+        "location": "Kazimierza Jagiellończyka 32, 14/2",
+        "station_id": "4981"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E27'14\"",
+        "latitude": "53N47'00\"",
+        "city": "Olsztyn",
+        "location": "Bałtycka 37A, 3/2",
+        "station_id": "3280"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E30'48\"",
+        "latitude": "53N44'35\"",
+        "city": "Olsztyn",
+        "location": "Bolesława Jeziołowicza 2, 100",
+        "station_id": "0825"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E30'33\"",
+        "latitude": "53N46'47\"",
+        "city": "Olsztyn",
+        "location": "Kołobrzeska 38, 13/3",
+        "station_id": "0831"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E37'25\"",
+        "latitude": "53N47'05\"",
+        "city": "Wójtowo",
+        "location": "Liliowa 331/61, 10/346",
+        "station_id": "5751"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E29'02\"",
+        "latitude": "53N37'52\"",
+        "city": "Stawiguda",
+        "location": "873/4",
+        "station_id": "44095"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "19E53'05\"",
+        "latitude": "53N50'44\"",
+        "city": "Słonecznik",
+        "location": "87a, 264",
+        "station_id": "44102"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E29'53\"",
+        "latitude": "53N46'24\"",
+        "city": "Olsztyn",
+        "location": "Aleja Marszałka Józefa Piłsudskiego 44A",
+        "station_id": "44110"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E33'59\"",
+        "latitude": "54N07'57\"",
+        "city": "Lidzbark Warmiński",
+        "location": "16/69",
+        "station_id": "44119"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E51'51\"",
+        "latitude": "53N40'11\"",
+        "city": "Elganowo",
+        "location": "55/11",
+        "station_id": "44133"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E05'07\"",
+        "latitude": "53N55'59\"",
+        "city": "Boguchwały",
+        "location": "15/3",
+        "station_id": "44137"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E00'47\"",
+        "latitude": "53N33'58\"",
+        "city": "Szczytno",
+        "location": "9/4",
+        "station_id": "44171"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E30'39\"",
+        "latitude": "53N47'26\"",
+        "city": "Olsztyn",
+        "location": "Poprzeczna 15A, 86/4",
+        "station_id": "44175"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E26'23\"",
+        "latitude": "53N48'14\"",
+        "city": "Olsztyn",
+        "location": "Kardynała Stanisława Hozjusza 15, 20",
+        "station_id": "44188"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E29'07\"",
+        "latitude": "53N45'45\"",
+        "city": "Olsztyn",
+        "location": "Aleja Generała Władysława Sikorskiego 2a, 13",
+        "station_id": "44199"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "19E59'10\"",
+        "latitude": "53N42'33\"",
+        "city": "Ostróda",
+        "location": "Spokojna, 96/10",
+        "station_id": "0904"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "19E57'52\"",
+        "latitude": "53N41'59\"",
+        "city": "Ostróda",
+        "location": "Henryka Sienkiewicza 22, Ostróda Henryka Sienkiewicza 22",
+        "station_id": "2040"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E05'30\"",
+        "latitude": "53N41'41\"",
+        "city": "Stare Jabłonki",
+        "location": "54/3",
+        "station_id": "0803"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "19E58'30\"",
+        "latitude": "53N41'20\"",
+        "city": "Ostróda",
+        "location": "Józefa Poniatowskiego 3, 178/66",
+        "station_id": "7418"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E18'04\"",
+        "latitude": "53N34'47\"",
+        "city": "Olsztynek",
+        "location": "Zielona, 281409_4.0003.18/2",
+        "station_id": "0799"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E15'07\"",
+        "latitude": "53N35'14\"",
+        "city": "Sudwa",
+        "location": "35/2",
+        "station_id": "44227"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "19E45'40\"",
+        "latitude": "53N50'46\"",
+        "city": "Wodziany",
+        "location": "70",
+        "station_id": "0989"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E19'53\"",
+        "latitude": "53N26'27\"",
+        "city": "Frąknowo",
+        "location": "25/8",
+        "station_id": "0800"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E06'52\"",
+        "latitude": "53N35'16\"",
+        "city": "Rychnowo",
+        "location": "135/17",
+        "station_id": "0797"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "19E56'08\"",
+        "latitude": "53N55'08\"",
+        "city": "Morąg",
+        "location": "Mazurska 1",
+        "station_id": "2879"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "19E55'40\"",
+        "latitude": "53N54'39\"",
+        "city": "Morąg",
+        "location": "Herdera 1, 854",
+        "station_id": "9053"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "19E51'07\"",
+        "latitude": "53N57'02\"",
+        "city": "Królewo",
+        "location": "115/1",
+        "station_id": "0923"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E08'45\"",
+        "latitude": "54N06'43\"",
+        "city": "Orneta",
+        "location": "Przemysłowa 14, Orneta Przemysłowa 14",
+        "station_id": "0962"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "19E50'44\"",
+        "latitude": "53N45'36\"",
+        "city": "Miłomłyn",
+        "location": "Ostródzka 3, 640/26",
+        "station_id": "44291"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E29'34\"",
+        "latitude": "54N03'59\"",
+        "city": "Miłogórze",
+        "location": "55, 215/1",
+        "station_id": "1055"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "19E43'54\"",
+        "latitude": "53N52'54\"",
+        "city": "Sople",
+        "location": "27/2, 100/3",
+        "station_id": "44530"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E29'25\"",
+        "latitude": "53N47'01\"",
+        "city": "Olsztyn",
+        "location": "Partyzantów 26, 45",
+        "station_id": "44550"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E28'58\"",
+        "latitude": "53N47'11\"",
+        "city": "Olsztyn",
+        "location": "Aleja Wojska Polskiego 67-68",
+        "station_id": "44552"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E21'41\"",
+        "latitude": "53N25'50\"",
+        "city": "Dąbrowy",
+        "location": "1147",
+        "station_id": "44566"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E01'17\"",
+        "latitude": "53N42'13\"",
+        "city": "Lubajny",
+        "location": "392/2",
+        "station_id": "44603"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "19E49'44\"",
+        "latitude": "53N54'24\"",
+        "city": "Dobrocin",
+        "location": "8/15",
+        "station_id": "44623"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E00'34\"",
+        "latitude": "53N59'26\"",
+        "city": "Kolno",
+        "location": "62A, 342/1",
+        "station_id": "44640"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E03'07\"",
+        "latitude": "53N40'38\"",
+        "city": "Idzbark",
+        "location": "233/4",
+        "station_id": "44661"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E32'56\"",
+        "latitude": "53N48'18\"",
+        "city": "Olsztyn",
+        "location": "Jesienna 13, 96/9",
+        "station_id": "44663"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E21'20\"",
+        "latitude": "54N17'55\"",
+        "city": "Mołtajny",
+        "location": "238",
+        "station_id": "44674"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E43'56\"",
+        "latitude": "53N53'19\"",
+        "city": "Kronówko",
+        "location": "198/7",
+        "station_id": "44679"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "19E57'06\"",
+        "latitude": "53N37'31\"",
+        "city": "Brzydowo",
+        "location": "227",
+        "station_id": "44680"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E11'01\"",
+        "latitude": "53N38'43\"",
+        "city": "Powałczyn",
+        "location": "3057",
+        "station_id": "44704"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E58'46\"",
+        "latitude": "53N48'57\"",
+        "city": "Botowo",
+        "location": "47",
+        "station_id": "44712"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E39'53\"",
+        "latitude": "54N22'11\"",
+        "city": "Bezledy",
+        "location": "3/25",
+        "station_id": "4422"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E32'37\"",
+        "latitude": "54N12'51\"",
+        "city": "Leśniewo",
+        "location": "98/1",
+        "station_id": "2864"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E25'08\"",
+        "latitude": "53N41'47\"",
+        "city": "Dorotowo",
+        "location": "181/3",
+        "station_id": "44719"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E24'03\"",
+        "latitude": "53N39'55\"",
+        "city": "Stawiguda",
+        "location": "Warszawska 184, 281411_2.0012.279/26",
+        "station_id": "0893"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E21'39\"",
+        "latitude": "54N13'28\"",
+        "city": "Barciany",
+        "location": "Ogrodowa 11, 73/4",
+        "station_id": "3666"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E47'33\"",
+        "latitude": "53N43'57\"",
+        "city": "Giławy",
+        "location": "13/6",
+        "station_id": "3656"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E49'08\"",
+        "latitude": "54N10'15\"",
+        "city": "Galiny",
+        "location": "20",
+        "station_id": "44730"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E53'43\"",
+        "latitude": "54N05'04\"",
+        "city": "Bisztynek-Kolonia",
+        "location": "39/5",
+        "station_id": "3312"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E07'04\"",
+        "latitude": "53N25'25\"",
+        "city": "Zieleniec",
+        "location": "226/1",
+        "station_id": "3665"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E20'25\"",
+        "latitude": "54N15'58\"",
+        "city": "Zięby",
+        "location": "76",
+        "station_id": "3708"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E30'03\"",
+        "latitude": "54N17'32\"",
+        "city": "Sołtysowizna",
+        "location": "11a, Sołtysowizna  11a",
+        "station_id": "3246"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E41'28\"",
+        "latitude": "53N49'43\"",
+        "city": "Barczewo",
+        "location": "Feliksa Nowowiejskiego 4, 221",
+        "station_id": "7482"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E57'17\"",
+        "latitude": "53N51'52\"",
+        "city": "Biskupiec",
+        "location": "pl. Kościelny 1, 81/1",
+        "station_id": "7483"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E42'02\"",
+        "latitude": "53N50'37\"",
+        "city": "Barczewo",
+        "location": "Pułaskiego, 281401_4.0002.25/14",
+        "station_id": "1080"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E49'13\"",
+        "latitude": "53N50'23\"",
+        "city": "Kromerowo",
+        "location": "281401_5.0022.4/8",
+        "station_id": "4591"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E51'25\"",
+        "latitude": "53N56'03\"",
+        "city": "Zerbuń",
+        "location": "298",
+        "station_id": "4240"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E47'23\"",
+        "latitude": "53N54'27\"",
+        "city": "Wipsowo",
+        "location": "323",
+        "station_id": "44759"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E57'48\"",
+        "latitude": "53N51'30\"",
+        "city": "Biskupiec",
+        "location": "Czynu Społecznego, 68/1",
+        "station_id": "7271"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E13'20\"",
+        "latitude": "53N34'37\"",
+        "city": "Świętajno",
+        "location": "277",
+        "station_id": "5230"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E55'46\"",
+        "latitude": "54N00'25\"",
+        "city": "Lutry",
+        "location": "331/2",
+        "station_id": "0924"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E59'59\"",
+        "latitude": "53N57'00\"",
+        "city": "Bęsia",
+        "location": "61/3",
+        "station_id": "5754"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E44'30\"",
+        "latitude": "53N38'07\"",
+        "city": "Tylkowo",
+        "location": "80/2",
+        "station_id": "2323"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E11'27\"",
+        "latitude": "54N03'45\"",
+        "city": "Wójtowo",
+        "location": "47/2",
+        "station_id": "2008"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E17'02\"",
+        "latitude": "53N30'42\"",
+        "city": "Występ",
+        "location": "71, 109/3",
+        "station_id": "1520"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E22'40\"",
+        "latitude": "53N32'29\"",
+        "city": "Faryny",
+        "location": "99, 394",
+        "station_id": "44781"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E15'17\"",
+        "latitude": "53N39'45\"",
+        "city": "Mańki",
+        "location": "110",
+        "station_id": "3718"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E16'41\"",
+        "latitude": "53N45'28\"",
+        "city": "Naglady",
+        "location": "154/2",
+        "station_id": "5316"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E31'07\"",
+        "latitude": "54N17'17\"",
+        "city": "Bajory Małe",
+        "location": "280806_2.0001.223/1",
+        "station_id": "5780"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E59'39\"",
+        "latitude": "54N20'51\"",
+        "city": "Ostre Bardo",
+        "location": "169/4",
+        "station_id": "13212"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E07'08\"",
+        "latitude": "53N38'45\"",
+        "city": "Marksewo",
+        "location": "188/1",
+        "station_id": "4592"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E48'32\"",
+        "latitude": "54N15'06\"",
+        "city": "Bartoszyce",
+        "location": "Mazurska 5",
+        "station_id": "2466"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E43'44\"",
+        "latitude": "54N16'44\"",
+        "city": "Pilwa",
+        "location": "4/11",
+        "station_id": "0922"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E17'03\"",
+        "latitude": "54N18'42\"",
+        "city": "Michałkowo",
+        "location": "67",
+        "station_id": "4233"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E34'47\"",
+        "latitude": "54N07'27\"",
+        "city": "Lidzbark Warmiński",
+        "location": "pl. Kościelny 1, 142",
+        "station_id": "3567"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E33'47\"",
+        "latitude": "54N08'24\"",
+        "city": "Lidzbark Warmiński",
+        "location": "Jarosława Dąbrowskiego 19, 4/3",
+        "station_id": "0921"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E00'46\"",
+        "latitude": "54N16'20\"",
+        "city": "Sępopol",
+        "location": "Kościelna 3, 41/2",
+        "station_id": "3247"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E16'56\"",
+        "latitude": "54N08'10\"",
+        "city": "Garbno",
+        "location": "24/7",
+        "station_id": "10403"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E22'24\"",
+        "latitude": "54N05'08\"",
+        "city": "Kętrzyn",
+        "location": "Władysława Jagiełły, 280801_1.0003.10/18",
+        "station_id": "9395"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E17'23\"",
+        "latitude": "53N49'16\"",
+        "city": "Węgajty",
+        "location": "303/4",
+        "station_id": "4219"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E23'55\"",
+        "latitude": "54N04'57\"",
+        "city": "Kętrzyn",
+        "location": "Zbożowa 10, 59/1",
+        "station_id": "0931"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E04'42\"",
+        "latitude": "54N00'20\"",
+        "city": "Miłakowo",
+        "location": "Przemysłowa 6, 599",
+        "station_id": "3705"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E01'03\"",
+        "latitude": "53N52'46\"",
+        "city": "Żabi Róg",
+        "location": "50",
+        "station_id": "5342"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E44'40\"",
+        "latitude": "53N58'00\"",
+        "city": "Jeziorany",
+        "location": "Kajki, 316",
+        "station_id": "2861"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E34'59\"",
+        "latitude": "53N54'11\"",
+        "city": "Tuławki",
+        "location": "46/2",
+        "station_id": "44854"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E13'31\"",
+        "latitude": "53N44'41\"",
+        "city": "Gietrzwałd",
+        "location": "199/6",
+        "station_id": "3719"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E04'33\"",
+        "latitude": "53N48'29\"",
+        "city": "Łukta",
+        "location": "Leśna, 8/7",
+        "station_id": "2737"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E32'01\"",
+        "latitude": "53N58'40\"",
+        "city": "Orzechowo",
+        "location": "94/1",
+        "station_id": "5489"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E15'03\"",
+        "latitude": "53N55'40\"",
+        "city": "Świątki",
+        "location": "281412_2.0011.27/11",
+        "station_id": "2876"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E08'59\"",
+        "latitude": "53N43'20\"",
+        "city": "Rapaty",
+        "location": "11, 131",
+        "station_id": "0808"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E02'59\"",
+        "latitude": "53N53'46\"",
+        "city": "Bredynki",
+        "location": "145, 212",
+        "station_id": "5753"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E14'59\"",
+        "latitude": "53N52'23\"",
+        "city": "Gołogóra",
+        "location": "270",
+        "station_id": "5591"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E22'28\"",
+        "latitude": "54N04'40\"",
+        "city": "Kętrzyn",
+        "location": "Powstańców Warszawy 5, 241",
+        "station_id": "3984"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E14'09\"",
+        "latitude": "54N02'09\"",
+        "city": "Pieckowo",
+        "location": "111/5",
+        "station_id": "6403"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E22'26\"",
+        "latitude": "53N59'26\"",
+        "city": "Dobre Miasto",
+        "location": "Spichrzowa 1, 231/5",
+        "station_id": "0920"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E23'44\"",
+        "latitude": "53N59'09\"",
+        "city": "Dobre Miasto",
+        "location": "Orła Białego 30, 51",
+        "station_id": "8964"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E28'42\"",
+        "latitude": "54N04'27\"",
+        "city": "Czerniki",
+        "location": "280803_2.0006.3060/2",
+        "station_id": "4593"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E12'31\"",
+        "latitude": "53N30'39\"",
+        "city": "Mielno",
+        "location": "79/95",
+        "station_id": "4958"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E12'16\"",
+        "latitude": "53N26'14\"",
+        "city": "Turowo",
+        "location": "24/2",
+        "station_id": "3681"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "19E58'51\"",
+        "latitude": "53N26'19\"",
+        "city": "Lewałd Wielki",
+        "location": "140/1",
+        "station_id": "4643"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E00'27\"",
+        "latitude": "53N33'35\"",
+        "city": "Szczytno",
+        "location": "Wileńska 4, 11/12",
+        "station_id": "44900"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E59'43\"",
+        "latitude": "53N33'35\"",
+        "city": "Szczytno",
+        "location": "Polna 9, 163/4",
+        "station_id": "2677"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E39'44\"",
+        "latitude": "53N32'30\"",
+        "city": "Dłużek",
+        "location": "3229/3",
+        "station_id": "44906"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E55'47\"",
+        "latitude": "53N26'41\"",
+        "city": "Kucbork",
+        "location": "40, 16",
+        "station_id": "44907"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E43'13\"",
+        "latitude": "53N31'54\"",
+        "city": "Jedwabno",
+        "location": "46",
+        "station_id": "2728"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E59'50\"",
+        "latitude": "53N37'24\"",
+        "city": "Trelkowo",
+        "location": "284/1",
+        "station_id": "0925"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E54'11\"",
+        "latitude": "53N34'04\"",
+        "city": "Janowo",
+        "location": "5, 46",
+        "station_id": "44913"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E22'54\"",
+        "latitude": "53N35'26\"",
+        "city": "Świerkocin",
+        "location": "839/12",
+        "station_id": "10298"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E32'52\"",
+        "latitude": "53N29'48\"",
+        "city": "Jabłonka",
+        "location": "11/9",
+        "station_id": "5529"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E27'45\"",
+        "latitude": "53N35'26\"",
+        "city": "Rybaki",
+        "location": "470/8",
+        "station_id": "7139"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E50'24\"",
+        "latitude": "53N33'43\"",
+        "city": "Nowy Dwór",
+        "location": "72",
+        "station_id": "4589"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E29'06\"",
+        "latitude": "53N37'51\"",
+        "city": "Stawiguda",
+        "location": "873/4",
+        "station_id": "0811"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E25'28\"",
+        "latitude": "53N21'34\"",
+        "city": "Nidzica",
+        "location": "Młynarska 12, Nidzica Młynarska 12",
+        "station_id": "0807"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E27'08\"",
+        "latitude": "53N22'37\"",
+        "city": "Waszulki",
+        "location": "235/1",
+        "station_id": "0801"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E48'36\"",
+        "latitude": "53N23'04\"",
+        "city": "Przeździęk Mały",
+        "location": "29",
+        "station_id": "3679"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E48'51\"",
+        "latitude": "53N28'02\"",
+        "city": "Rekownica",
+        "location": "76",
+        "station_id": "3659"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E41'16\"",
+        "latitude": "53N18'56\"",
+        "city": "Janowo",
+        "location": "666/3",
+        "station_id": "4232"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "20E34'43\"",
+        "latitude": "53N39'00\"",
+        "city": "Nowy Ramuk",
+        "location": "3285/5",
+        "station_id": "3658"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "21E00'22\"",
+        "latitude": "53N27'22\"",
+        "city": "Ciemna Dąbrowa",
+        "location": "18, 226/1",
+        "station_id": "4242"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E08'38\"",
+        "latitude": "53N09'09\"",
+        "city": "Bydgoszcz",
+        "location": "gen. Tadeusza Jordana-Rozwadowskiego 1",
+        "station_id": "3556"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E54'14\"",
+        "latitude": "53N08'38\"",
+        "city": "Bydgoszcz",
+        "location": "Spiżowa 2",
+        "station_id": "0834"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E55'54\"",
+        "latitude": "53N08'09\"",
+        "city": "Bydgoszcz",
+        "location": "Spacerowa 69, 14",
+        "station_id": "0835"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E57'38\"",
+        "latitude": "53N07'32\"",
+        "city": "Bydgoszcz",
+        "location": "Słoneczna 26, 86",
+        "station_id": "0837"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E57'20\"",
+        "latitude": "53N06'56\"",
+        "city": "Bydgoszcz",
+        "location": "ks. Józefa Schulza 9, 7/5",
+        "station_id": "0838"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E01'09\"",
+        "latitude": "53N07'45\"",
+        "city": "Bydgoszcz",
+        "location": "Aleja Powstańców Wielkopolskich 10, 22/14",
+        "station_id": "0844"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E01'51\"",
+        "latitude": "53N07'18\"",
+        "city": "Bydgoszcz",
+        "location": "Jagiellońska 109, 229/2",
+        "station_id": "0845"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E01'18\"",
+        "latitude": "53N06'32\"",
+        "city": "Bydgoszcz",
+        "location": "Tadeusza Boya-Żeleńskiego 1, 32/6",
+        "station_id": "0847"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E02'34\"",
+        "latitude": "53N06'25\"",
+        "city": "Bydgoszcz",
+        "location": "Wojska Polskiego 20A, 56/21",
+        "station_id": "0849"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E02'49\"",
+        "latitude": "53N07'51\"",
+        "city": "Bydgoszcz",
+        "location": "Bartosza Głowackiego 20, 12",
+        "station_id": "0850"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E04'21\"",
+        "latitude": "53N07'03\"",
+        "city": "Bydgoszcz",
+        "location": "Toruńska 282, 13/17",
+        "station_id": "0851"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E07'02\"",
+        "latitude": "53N07'57\"",
+        "city": "Bydgoszcz",
+        "location": "Fordońska 246, 78/23",
+        "station_id": "0852"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E08'57\"",
+        "latitude": "53N08'21\"",
+        "city": "Bydgoszcz",
+        "location": "Fordońska 402, 266/4",
+        "station_id": "0853"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E10'26\"",
+        "latitude": "53N08'59\"",
+        "city": "Bydgoszcz",
+        "location": "Wyzwolenia 2, 213",
+        "station_id": "0854"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E09'16\"",
+        "latitude": "53N09'34\"",
+        "city": "Bydgoszcz",
+        "location": "Macieja Rataja 7",
+        "station_id": "0856"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E08'03\"",
+        "latitude": "53N08'35\"",
+        "city": "Bydgoszcz",
+        "location": "Aleje Prof. Sylwestra Kaliskiego 14, 162",
+        "station_id": "0857"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E57'47\"",
+        "latitude": "53N08'17\"",
+        "city": "Bydgoszcz",
+        "location": "Głucha 15, 75",
+        "station_id": "0858"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E57'59\"",
+        "latitude": "53N11'40\"",
+        "city": "Bydgoszcz",
+        "location": "Opławiec 160, 45",
+        "station_id": "0859"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E06'50\"",
+        "latitude": "53N04'59\"",
+        "city": "Bydgoszcz",
+        "location": "Wojska Polskiego 65, 9/55",
+        "station_id": "0867"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E01'44\"",
+        "latitude": "53N07'58\"",
+        "city": "Bydgoszcz",
+        "location": "Jana Karola Chodkiewicza 61, 41/1",
+        "station_id": "0868"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E00'15\"",
+        "latitude": "53N07'16\"",
+        "city": "Bydgoszcz",
+        "location": "Pl. Kościeleckich 7, 91/4",
+        "station_id": "0894"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E03'35\"",
+        "latitude": "53N10'09\"",
+        "city": "Bydgoszcz",
+        "location": "Roztoczańska 2, 1/3",
+        "station_id": "1001"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E58'27\"",
+        "latitude": "53N08'43\"",
+        "city": "Bydgoszcz",
+        "location": "Średnia 98, 122/2",
+        "station_id": "3357"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E59'40\"",
+        "latitude": "53N06'58\"",
+        "city": "Bydgoszcz",
+        "location": "Ugory 16, 212",
+        "station_id": "3358"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E00'20\"",
+        "latitude": "53N06'22\"",
+        "city": "Bydgoszcz",
+        "location": "Wczasowa 10, 94",
+        "station_id": "4243"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E03'29\"",
+        "latitude": "53N07'22\"",
+        "city": "Bydgoszcz",
+        "location": "Łęczycka 6, 73/45",
+        "station_id": "4265"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E09'30\"",
+        "latitude": "53N08'53\"",
+        "city": "Bydgoszcz",
+        "location": "Produkcyjna 3, 16/18",
+        "station_id": "4807"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E10'15\"",
+        "latitude": "53N09'39\"",
+        "city": "Bydgoszcz",
+        "location": "aleja marsz. Józefa Piłsudskiego, 1/16",
+        "station_id": "4808"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E00'26\"",
+        "latitude": "53N07'47\"",
+        "city": "Bydgoszcz",
+        "location": "Gdańska 53, 72/2",
+        "station_id": "4939"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E02'11\"",
+        "latitude": "53N06'31\"",
+        "city": "Bydgoszcz",
+        "location": "Adama Grzymały Siedleckiego 24",
+        "station_id": "4987"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E00'56\"",
+        "latitude": "53N08'30\"",
+        "city": "Bydgoszcz",
+        "location": "Powstańców Warszawy 5, 6/18",
+        "station_id": "4988"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E56'54\"",
+        "latitude": "53N08'21\"",
+        "city": "Bydgoszcz",
+        "location": "Grunwaldzka 229, 7/27",
+        "station_id": "4989"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E02'42\"",
+        "latitude": "53N05'27\"",
+        "city": "Bydgoszcz",
+        "location": "Glinki 146, 4/66",
+        "station_id": "4996"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E07'50\"",
+        "latitude": "53N08'00\"",
+        "city": "Bydgoszcz",
+        "location": "Pilicka 6, 103/9",
+        "station_id": "5823"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E09'47\"",
+        "latitude": "53N09'17\"",
+        "city": "Bydgoszcz",
+        "location": "Osiedlowa 3, 333/1",
+        "station_id": "6028"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E58'31\"",
+        "latitude": "53N07'08\"",
+        "city": "Bydgoszcz",
+        "location": "Szubińska 4, 2/4",
+        "station_id": "6459"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E05'23\"",
+        "latitude": "53N06'53\"",
+        "city": "Bydgoszcz",
+        "location": "Budowlana 1",
+        "station_id": "8896"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E01'03\"",
+        "latitude": "53N07'59\"",
+        "city": "Bydgoszcz",
+        "location": "Jana Karola Chodkiewicza 15, 9/4",
+        "station_id": "8913"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E01'04\"",
+        "latitude": "53N07'27\"",
+        "city": "Bydgoszcz",
+        "location": "Jagiellońska 39-47, 11/3",
+        "station_id": "10581"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E55'08\"",
+        "latitude": "53N06'16\"",
+        "city": "Białe Błota",
+        "location": "Betonowa 9, 44/26",
+        "station_id": "3264"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E55'38\"",
+        "latitude": "53N04'06\"",
+        "city": "Ciele",
+        "location": "134/4",
+        "station_id": "10010"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E22'36\"",
+        "latitude": "52N59'56\"",
+        "city": "Przyłubie",
+        "location": "26147/3",
+        "station_id": "5594"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E14'06\"",
+        "latitude": "53N04'30\"",
+        "city": "Solec Kujawski",
+        "location": "Garbary 4, 2461",
+        "station_id": "9231"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E10'26\"",
+        "latitude": "53N15'59\"",
+        "city": "Trzeciewiec",
+        "location": "33/1",
+        "station_id": "0968"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E43'40\"",
+        "latitude": "53N21'46\"",
+        "city": "Sitowiec",
+        "location": "26, 195/1",
+        "station_id": "0991"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E54'28\"",
+        "latitude": "53N14'40\"",
+        "city": "Wtelno",
+        "location": "97/1",
+        "station_id": "5948"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E46'03\"",
+        "latitude": "53N16'58\"",
+        "city": "Krąpiewo",
+        "location": "189/11",
+        "station_id": "6398"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E57'07\"",
+        "latitude": "53N18'28\"",
+        "city": "Koronowo",
+        "location": "1",
+        "station_id": "11740"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E01'23\"",
+        "latitude": "53N01'38\"",
+        "city": "Brzoza",
+        "location": "5/1",
+        "station_id": "1503"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E04'49\"",
+        "latitude": "52N58'17\"",
+        "city": "Nowa Wieś Wielka",
+        "location": "Ogrodowa 1, 18/3",
+        "station_id": "5548"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E04'01\"",
+        "latitude": "53N12'59\"",
+        "city": "Żołędowo",
+        "location": "22274/25",
+        "station_id": "5581"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E03'48\"",
+        "latitude": "53N49'48\"",
+        "city": "Łąg",
+        "location": "Dworcowa, 54/9",
+        "station_id": "45190"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E51'33\"",
+        "latitude": "53N11'20\"",
+        "city": "Osówiec",
+        "location": "48/8",
+        "station_id": "0992"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E35'14\"",
+        "latitude": "53N41'31\"",
+        "city": "Chojnice",
+        "location": "Zakładowa 10, 684/33",
+        "station_id": "0954"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E33'47\"",
+        "latitude": "53N41'43\"",
+        "city": "Chojnice",
+        "location": "Plac Kościelny 5, 1443/1",
+        "station_id": "2232"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E33'07\"",
+        "latitude": "53N41'27\"",
+        "city": "Chojnice",
+        "location": "Sępoleńska 25, 256/1",
+        "station_id": "10343"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E34'28\"",
+        "latitude": "53N42'04\"",
+        "city": "Chojnice",
+        "location": "Kościerska 12A, 506/142",
+        "station_id": "10338"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E32'54\"",
+        "latitude": "53N42'43\"",
+        "city": "Chojnice",
+        "location": "Leśna 10, 4283",
+        "station_id": "6183"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E30'39\"",
+        "latitude": "53N44'08\"",
+        "city": "Charzykowy",
+        "location": "Długa 29, 241/12",
+        "station_id": "4311"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E29'20\"",
+        "latitude": "53N51'54\"",
+        "city": "Swornegacie",
+        "location": "294/2",
+        "station_id": "4365"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E43'26\"",
+        "latitude": "53N52'41\"",
+        "city": "Brusy",
+        "location": "Młyńska 32, 546/6",
+        "station_id": "2007"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E59'01\"",
+        "latitude": "53N47'10\"",
+        "city": "Czersk",
+        "location": "Jana Kilińskiego 15, 318/3",
+        "station_id": "0982"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E46'59\"",
+        "latitude": "53N45'35\"",
+        "city": "Rytel",
+        "location": "407",
+        "station_id": "1026"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E24'20\"",
+        "latitude": "53N50'58\"",
+        "city": "Zielona Huta",
+        "location": "36, 187/2",
+        "station_id": "4622"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E34'53\"",
+        "latitude": "53N08'06\"",
+        "city": "Nakło nad Notecią",
+        "location": "Młyńska 15, 2589/16",
+        "station_id": "5884"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E41'03\"",
+        "latitude": "53N07'19\"",
+        "city": "Potulice",
+        "location": "Bydgoska 1, 29/7",
+        "station_id": "6425"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E37'03\"",
+        "latitude": "53N08'39\"",
+        "city": "Nakło nad Notecią",
+        "location": "Rudki 1, 631/28",
+        "station_id": "1506"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E00'32\"",
+        "latitude": "53N07'03\"",
+        "city": "Bydgoszcz",
+        "location": "Kujawska 7, 12/1",
+        "station_id": "45308"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E45'03\"",
+        "latitude": "53N01'03\"",
+        "city": "Szubin-Wieś",
+        "location": "3285/5",
+        "station_id": "1507"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E44'06\"",
+        "latitude": "53N00'30\"",
+        "city": "Szubin",
+        "location": "Ogrodowa 1, 1688/2",
+        "station_id": "7491"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E28'54\"",
+        "latitude": "53N02'10\"",
+        "city": "Dębogóra",
+        "location": "35/4",
+        "station_id": "1385"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E28'44\"",
+        "latitude": "53N14'25\"",
+        "city": "Witosław",
+        "location": "33/2",
+        "station_id": "5885"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E36'58\"",
+        "latitude": "53N14'04\"",
+        "city": "Mrocza",
+        "location": "206/3",
+        "station_id": "3266"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E26'42\"",
+        "latitude": "53N09'39\"",
+        "city": "Sadki",
+        "location": "Wyrzyska 14, 332/13",
+        "station_id": "5546"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E01'53\"",
+        "latitude": "53N06'10\"",
+        "city": "Bydgoszcz",
+        "location": "Glinki 79, 47",
+        "station_id": "45353"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E01'36\"",
+        "latitude": "53N06'55\"",
+        "city": "Bydgoszcz",
+        "location": "Kornela Ujejskiego 75, 67",
+        "station_id": "45375"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E32'59\"",
+        "latitude": "53N27'22\"",
+        "city": "Sępólno Krajeńskie",
+        "location": "Przemysłowa 5, 124/3",
+        "station_id": "1093"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E29'22\"",
+        "latitude": "53N21'40\"",
+        "city": "Więcbork",
+        "location": "Gdańska 17, 50/4",
+        "station_id": "3265"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "17E19'18\"",
+        "latitude": "53N21'50\"",
+        "city": "Sypniewo",
+        "location": "278/1",
+        "station_id": "3760"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E03'51\"",
+        "latitude": "53N18'21\"",
+        "city": "Aleksandrowiec",
+        "location": "1",
+        "station_id": "45416"
+    },
+    {
+        "operator": "Orange Polska S.A.",
+        "longitude": "18E10'23\"",
+        "latitude": "53N04'18\"",
+        "city": "Makowiska",
+        "location": "58/1",
+        "station_id": "45417"
+    }
+]
