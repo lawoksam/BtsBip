@@ -1,0 +1,4002 @@
+[
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E33'52\"",
+        "latitude": "53N00'42\"",
+        "city": "Wnory-Wiechy",
+        "location": "179",
+        "station_id": "23608"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E45'34\"",
+        "latitude": "53N08'25\"",
+        "city": "Drogoszewo",
+        "location": "774/2",
+        "station_id": "23651"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E10'15\"",
+        "latitude": "53N21'55\"",
+        "city": "Stawiski",
+        "location": "Smolniki, 891/90",
+        "station_id": "23652"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E12'06\"",
+        "latitude": "53N27'53\"",
+        "city": "Świdry-Dobrzyce",
+        "location": "40/2",
+        "station_id": "23653"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E16'27\"",
+        "latitude": "53N34'08\"",
+        "city": "Szczuczyn",
+        "location": "Graniczna 6, 684/2",
+        "station_id": "23654"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E27'58\"",
+        "latitude": "53N37'13\"",
+        "city": "Grajewo",
+        "location": "Wiórowa 1, 3301/20",
+        "station_id": "23655"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E43'10\"",
+        "latitude": "53N43'58\"",
+        "city": "Rajgród",
+        "location": "Kolonia Lewa 2, 203/4",
+        "station_id": "23656"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E19'43\"",
+        "latitude": "52N47'47\"",
+        "city": "Czyżew",
+        "location": "641/5",
+        "station_id": "23657"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E33'06\"",
+        "latitude": "53N31'46\"",
+        "city": "Ciemnoszyje",
+        "location": "143",
+        "station_id": "23659"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E13'31\"",
+        "latitude": "53N14'42\"",
+        "city": "Kownaty",
+        "location": "204",
+        "station_id": "23660"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E27'55\"",
+        "latitude": "53N39'02\"",
+        "city": "Grajewo",
+        "location": "Kopernika, 1251/4",
+        "station_id": "23662"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E28'20\"",
+        "latitude": "53N38'37\"",
+        "city": "Grajewo",
+        "location": "Targowa 2, 1884/4",
+        "station_id": "23663"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E25'39\"",
+        "latitude": "53N24'57\"",
+        "city": "Radziłów",
+        "location": "386",
+        "station_id": "23700"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E18'18\"",
+        "latitude": "53N17'27\"",
+        "city": "Jedwabne",
+        "location": "543/5",
+        "station_id": "23701"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E41'24\"",
+        "latitude": "53N21'36\"",
+        "city": "Zucielec",
+        "location": "54/3",
+        "station_id": "23702"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E03'06\"",
+        "latitude": "53N09'18\"",
+        "city": "Łomża",
+        "location": "Aleja Legionów 151, 40451",
+        "station_id": "23901"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E48'19\"",
+        "latitude": "53N21'59\"",
+        "city": "Dziękonie",
+        "location": "110",
+        "station_id": "24102"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E43'06\"",
+        "latitude": "53N27'50\"",
+        "city": "Goniądz",
+        "location": "708/8,708/9",
+        "station_id": "24104"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E55'42\"",
+        "latitude": "53N18'27\"",
+        "city": "Knyszyn",
+        "location": "Białostocka, 985/44",
+        "station_id": "24107"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E48'33\"",
+        "latitude": "53N24'21\"",
+        "city": "Mońki",
+        "location": "Aleja Wojska Polskiego 47, 1080/2",
+        "station_id": "24108"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E57'31\"",
+        "latitude": "53N27'33\"",
+        "city": "Romejki",
+        "location": "26, 53/1",
+        "station_id": "24115"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E01'54\"",
+        "latitude": "53N23'30\"",
+        "city": "Jasionówka",
+        "location": "Knyszyńska 22, 667",
+        "station_id": "24118"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E42'09\"",
+        "latitude": "52N59'55\"",
+        "city": "Sokoły",
+        "location": "Tykocińska, 45/1",
+        "station_id": "24125"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E55'27\"",
+        "latitude": "53N25'04\"",
+        "city": "Kolno",
+        "location": "1378/3",
+        "station_id": "67363"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E02'11\"",
+        "latitude": "53N09'11\"",
+        "city": "Łomża",
+        "location": "40112/2",
+        "station_id": "67946"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E02'57\"",
+        "latitude": "53N09'29\"",
+        "city": "Łomża",
+        "location": "23895/2",
+        "station_id": "67964"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E17'40\"",
+        "latitude": "52N54'14\"",
+        "city": "Brajczewo-Sierzputy",
+        "location": "45/11",
+        "station_id": "25517"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E58'58\"",
+        "latitude": "53N22'09\"",
+        "city": "Borkowo",
+        "location": "106, 663/1",
+        "station_id": "25504"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E31'58\"",
+        "latitude": "53N04'38\"",
+        "city": "Dobrochy",
+        "location": "1",
+        "station_id": "26855"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E11'14\"",
+        "latitude": "53N06'31\"",
+        "city": "Pniewo",
+        "location": "1570",
+        "station_id": "26179"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E24'05\"",
+        "latitude": "53N18'57\"",
+        "city": "Siestrzanki",
+        "location": "48",
+        "station_id": "26296"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E11'59\"",
+        "latitude": "53N16'22\"",
+        "city": "Dobrzyjałowo",
+        "location": "135/7",
+        "station_id": "26726"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E25'46\"",
+        "latitude": "53N21'54\"",
+        "city": "Szlasy",
+        "location": "47",
+        "station_id": "26671"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E11'27\"",
+        "latitude": "52N57'11\"",
+        "city": "Krajewo-Korytki",
+        "location": "23, 56/1",
+        "station_id": "26730"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E23'35\"",
+        "latitude": "53N15'01\"",
+        "city": "Zanklewo",
+        "location": "41, 469/2",
+        "station_id": "26662"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E26'51\"",
+        "latitude": "53N04'32\"",
+        "city": "Mężenin",
+        "location": "612/3",
+        "station_id": "26833"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E15'05\"",
+        "latitude": "52N58'08\"",
+        "city": "Zambrów",
+        "location": "Magazynowa 10, Zambrów Magazynowa 10",
+        "station_id": "26805"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E39'14\"",
+        "latitude": "53N00'12\"",
+        "city": "Jamiołki-Piotrowięta",
+        "location": "289",
+        "station_id": "26857"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E01'55\"",
+        "latitude": "53N06'42\"",
+        "city": "Konarzyce",
+        "location": "775/2",
+        "station_id": "28454"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E45'47\"",
+        "latitude": "52N35'16\"",
+        "city": "Mierzynówka",
+        "location": "93/2",
+        "station_id": "23162"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E36'13\"",
+        "latitude": "53N06'43\"",
+        "city": "Stare Krzewo",
+        "location": "54",
+        "station_id": "23210"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E32'58\"",
+        "latitude": "53N11'55\"",
+        "city": "Rudniki",
+        "location": "66",
+        "station_id": "23220"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E09'31\"",
+        "latitude": "53N08'37\"",
+        "city": "Białystok",
+        "location": "Al. 1000-lecia Państwa Polskiego 2, 703",
+        "station_id": "24003"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E08'01\"",
+        "latitude": "53N08'08\"",
+        "city": "Białystok",
+        "location": "Zwycięstwa 8/10, 514/11",
+        "station_id": "24004"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E07'16\"",
+        "latitude": "53N07'12\"",
+        "city": "Białystok",
+        "location": "Octowa 1, 4/3",
+        "station_id": "24005"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E10'20\"",
+        "latitude": "53N07'23\"",
+        "city": "Białystok",
+        "location": "Adama Mickiewicza 42, 2271",
+        "station_id": "24008"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E05'01\"",
+        "latitude": "53N07'26\"",
+        "city": "Białystok",
+        "location": "Nowosielska 2A, 1891/23",
+        "station_id": "24010"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E11'28\"",
+        "latitude": "53N08'26\"",
+        "city": "Białystok",
+        "location": "Zacisze 8",
+        "station_id": "24015"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E11'19\"",
+        "latitude": "53N10'23\"",
+        "city": "Białystok",
+        "location": "Władysława Wysockiego 164, 1648/73",
+        "station_id": "24016"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E08'42\"",
+        "latitude": "53N08'04\"",
+        "city": "Białystok",
+        "location": "ks. Adama Abramowicza 1, 256",
+        "station_id": "24017"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E14'57\"",
+        "latitude": "53N07'35\"",
+        "city": "Zaścianki",
+        "location": "Szosa Baranowicka 39, 22/47",
+        "station_id": "24018"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E04'53\"",
+        "latitude": "53N09'42\"",
+        "city": "Białystok",
+        "location": "Przędzalniana 8, 337/38",
+        "station_id": "24019"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E06'07\"",
+        "latitude": "53N07'33\"",
+        "city": "Białystok",
+        "location": "Słonecznikowa 8, 2060/4",
+        "station_id": "24020"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E10'14\"",
+        "latitude": "53N08'20\"",
+        "city": "Białystok",
+        "location": "Sienkiewicza 82, 419",
+        "station_id": "24022"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E13'12\"",
+        "latitude": "53N04'25\"",
+        "city": "Białystok",
+        "location": "Leśnej Jagody, 83/2",
+        "station_id": "24025"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E10'05\"",
+        "latitude": "53N09'12\"",
+        "city": "Białystok",
+        "location": "gen. Władysława Andersa 38, 189/9",
+        "station_id": "24026"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E09'30\"",
+        "latitude": "53N07'12\"",
+        "city": "Białystok",
+        "location": "Wołodyjowskiego 5, 1995/3",
+        "station_id": "24027"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E11'09\"",
+        "latitude": "53N09'45\"",
+        "city": "Białystok",
+        "location": "Władysława Wysockiego 67, 131/6",
+        "station_id": "24030"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E12'37\"",
+        "latitude": "53N08'27\"",
+        "city": "Białystok",
+        "location": "42 Pułku Piechoty 62, 127",
+        "station_id": "24032"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E11'43\"",
+        "latitude": "53N07'53\"",
+        "city": "Białystok",
+        "location": "Sybiraków 2, 185/1",
+        "station_id": "24033"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E04'31\"",
+        "latitude": "53N08'35\"",
+        "city": "Białystok",
+        "location": "Elewatorska 52, 14/5",
+        "station_id": "24035"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E10'51\"",
+        "latitude": "53N08'02\"",
+        "city": "Białystok",
+        "location": "Skorupska 17, 975",
+        "station_id": "24038"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E10'38\"",
+        "latitude": "53N08'51\"",
+        "city": "Białystok",
+        "location": "gen. Władysława Andersa 5, 553/27",
+        "station_id": "24039"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E06'59\"",
+        "latitude": "53N08'50\"",
+        "city": "Białystok",
+        "location": "Aleja Konstytucji 3 Maja 34, 1150/3",
+        "station_id": "24040"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E13'52\"",
+        "latitude": "53N09'39\"",
+        "city": "Białystok",
+        "location": "Bagnówka-Kolonia 3",
+        "station_id": "24042"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E09'54\"",
+        "latitude": "53N08'11\"",
+        "city": "Białystok",
+        "location": "Sienkiewicza 49, 183/14",
+        "station_id": "24044"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E07'30\"",
+        "latitude": "53N09'36\"",
+        "city": "Białystok",
+        "location": "gen. Stanisława Maczka, 133/22",
+        "station_id": "24047"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E27'05\"",
+        "latitude": "52N38'32\"",
+        "city": "Dubicze Cerkiewne",
+        "location": "Leśna, 839/2, 854/1",
+        "station_id": "24050"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E17'03\"",
+        "latitude": "52N57'59\"",
+        "city": "Laszki",
+        "location": "55/9",
+        "station_id": "24054"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E53'06\"",
+        "latitude": "52N59'18\"",
+        "city": "Łapy",
+        "location": "29, 473",
+        "station_id": "24056"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E30'16\"",
+        "latitude": "52N54'29\"",
+        "city": "Narew",
+        "location": "Bielska 88a, 57/3",
+        "station_id": "24058"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E39'33\"",
+        "latitude": "52N23'48\"",
+        "city": "Drohiczyn",
+        "location": "Józefa Ignacego Kraszewskiego 2, 396",
+        "station_id": "24062"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E43'11\"",
+        "latitude": "52N42'26\"",
+        "city": "Zwierzyniec",
+        "location": "827",
+        "station_id": "24064"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E35'53\"",
+        "latitude": "52N44'20\"",
+        "city": "Hajnówka",
+        "location": "3 Maja 51, 1056/28",
+        "station_id": "24065"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E51'34\"",
+        "latitude": "52N58'48\"",
+        "city": "Łapy",
+        "location": "242/3",
+        "station_id": "24066"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E10'18\"",
+        "latitude": "52N45'23\"",
+        "city": "Bielsk Podlaski",
+        "location": "Wojska Polskiego 52, 488/3",
+        "station_id": "24067"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E40'16\"",
+        "latitude": "52N31'40\"",
+        "city": "Ostrożany",
+        "location": "640",
+        "station_id": "24068"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E21'51\"",
+        "latitude": "53N38'43\"",
+        "city": "Dąbrowa Białostocka",
+        "location": "321/9",
+        "station_id": "24071"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E46'40\"",
+        "latitude": "52N54'23\"",
+        "city": "Tarnopol",
+        "location": "359/15",
+        "station_id": "24073"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E20'50\"",
+        "latitude": "52N30'12\"",
+        "city": "Czeremcha",
+        "location": "Fabryczna 7, 1163/3",
+        "station_id": "24074"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E51'35\"",
+        "latitude": "52N44'38\"",
+        "city": "Brańsk",
+        "location": "Marii Konopnickiej, 1599/2",
+        "station_id": "24075"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E59'12\"",
+        "latitude": "52N50'20\"",
+        "city": "Wyszki",
+        "location": "Usługowa 11, 79/23",
+        "station_id": "24076"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E20'54\"",
+        "latitude": "53N30'28\"",
+        "city": "Nowinka",
+        "location": "62/2",
+        "station_id": "24078"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E44'13\"",
+        "latitude": "52N49'56\"",
+        "city": "Stoczek",
+        "location": "62/2",
+        "station_id": "24083"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E59'06\"",
+        "latitude": "53N07'57\"",
+        "city": "Choroszcz",
+        "location": "Zastawie I, 294/3",
+        "station_id": "24086"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E07'07\"",
+        "latitude": "53N16'23\"",
+        "city": "Rybniki",
+        "location": "96",
+        "station_id": "24087"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E43'59\"",
+        "latitude": "52N43'37\"",
+        "city": "Rudka",
+        "location": "Brańska 15, 1325",
+        "station_id": "24088"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E57'49\"",
+        "latitude": "52N57'15\"",
+        "city": "Suraż",
+        "location": "Zabłudowska 25, 276/5",
+        "station_id": "24089"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E10'12\"",
+        "latitude": "53N07'46\"",
+        "city": "Białystok",
+        "location": "Elektryczna 13, 1780/2",
+        "station_id": "24097"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E10'39\"",
+        "latitude": "52N46'36\"",
+        "city": "Bielsk Podlaski",
+        "location": "Rejonowa 11, 1208/3, 1209/3",
+        "station_id": "24098"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E46'43\"",
+        "latitude": "53N12'11\"",
+        "city": "Tykocin",
+        "location": "Klasztorna, 2118",
+        "station_id": "24105"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E53'59\"",
+        "latitude": "53N00'13\"",
+        "city": "Jałówka",
+        "location": "Kościelna, 108/7",
+        "station_id": "24109"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E30'48\"",
+        "latitude": "53N08'35\"",
+        "city": "Sofipol",
+        "location": "109/2",
+        "station_id": "24110"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E23'42\"",
+        "latitude": "53N06'36\"",
+        "city": "Tatarowce",
+        "location": "70",
+        "station_id": "24111"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E38'58\"",
+        "latitude": "53N05'41\"",
+        "city": "Gródek",
+        "location": "Polna, 1510",
+        "station_id": "24112"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E52'43\"",
+        "latitude": "53N07'37\"",
+        "city": "Bobrowniki",
+        "location": "97/12",
+        "station_id": "24113"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E12'16\"",
+        "latitude": "53N11'40\"",
+        "city": "Wasilków",
+        "location": "Nadrzeczna 22, 3684/4",
+        "station_id": "24121"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E16'34\"",
+        "latitude": "53N18'26\"",
+        "city": "Czarna Białostocka",
+        "location": "175/2",
+        "station_id": "24122"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E28'19\"",
+        "latitude": "53N23'32\"",
+        "city": "Sokółka",
+        "location": "Białostocka, 2145/5",
+        "station_id": "24123"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E37'17\"",
+        "latitude": "53N29'32\"",
+        "city": "Kruglany",
+        "location": "132/2",
+        "station_id": "24124"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E04'03\"",
+        "latitude": "53N00'30\"",
+        "city": "Szerenosy",
+        "location": "319/1",
+        "station_id": "24126"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E15'20\"",
+        "latitude": "53N14'28\"",
+        "city": "Studzianki",
+        "location": "Spółdzielcza 7, 227/1",
+        "station_id": "24127"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E08'29\"",
+        "latitude": "52N31'41\"",
+        "city": "Milejczyce",
+        "location": "Wodociągowa, 1129/2",
+        "station_id": "24129"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E24'09\"",
+        "latitude": "53N20'33\"",
+        "city": "Stara Moczalnia",
+        "location": "53/2",
+        "station_id": "24131"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E05'40\"",
+        "latitude": "52N53'58\"",
+        "city": "Strabla",
+        "location": "478/3",
+        "station_id": "24133"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E49'14\"",
+        "latitude": "52N54'44\"",
+        "city": "Chomizna",
+        "location": "40",
+        "station_id": "24134"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E25'46\"",
+        "latitude": "52N46'38\"",
+        "city": "Czyże",
+        "location": "445/3",
+        "station_id": "24137"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E16'14\"",
+        "latitude": "52N24'13\"",
+        "city": "Klukowicze",
+        "location": "378/1",
+        "station_id": "24139"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E12'08\"",
+        "latitude": "52N44'43\"",
+        "city": "Bielsk Podlaski",
+        "location": "Kleszczelowska 84A, 178/14",
+        "station_id": "24141"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E55'45\"",
+        "latitude": "53N09'51\"",
+        "city": "Złotoria",
+        "location": "526/2",
+        "station_id": "24212"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E07'20\"",
+        "latitude": "53N23'29\"",
+        "city": "Popiołówka",
+        "location": "104",
+        "station_id": "24214"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E04'21\"",
+        "latitude": "53N07'49\"",
+        "city": "Białystok",
+        "location": "ks. Jerzego Popiełuszki 120, 68/9",
+        "station_id": "24307"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E08'47\"",
+        "latitude": "53N06'32\"",
+        "city": "Białystok",
+        "location": "Kawaleryjska 5, 133",
+        "station_id": "24308"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E07'12\"",
+        "latitude": "53N08'17\"",
+        "city": "Białystok",
+        "location": "Aleja Jana Pawła II 54",
+        "station_id": "24312"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E09'41\"",
+        "latitude": "53N07'38\"",
+        "city": "Białystok",
+        "location": "Jerzego Waszyngtona 11, 1834",
+        "station_id": "24313"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E09'22\"",
+        "latitude": "53N07'07\"",
+        "city": "Białystok",
+        "location": "Świerkowa 1, 1030",
+        "station_id": "24314"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E32'19\"",
+        "latitude": "53N18'30\"",
+        "city": "Wierzchlesie",
+        "location": "871",
+        "station_id": "23360"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E50'50\"",
+        "latitude": "52N42'12\"",
+        "city": "Białowieża",
+        "location": "park Pałacowy 11, 635/9",
+        "station_id": "23684"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E12'56\"",
+        "latitude": "53N06'57\"",
+        "city": "Białystok",
+        "location": "Plażowa, 1242/3",
+        "station_id": "24208"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E12'56\"",
+        "latitude": "53N06'57\"",
+        "city": "Białystok",
+        "location": "Plażowa, 1242/3",
+        "station_id": "24208"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E09'47\"",
+        "latitude": "53N08'10\"",
+        "city": "Białystok",
+        "location": "Jurowiecka 1, 337/5",
+        "station_id": "25872"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E12'38\"",
+        "latitude": "53N01'34\"",
+        "city": "Kudrycze",
+        "location": "43, 190/3",
+        "station_id": "25382"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E10'39\"",
+        "latitude": "53N07'21\"",
+        "city": "Białystok",
+        "location": "Czesława Miłosza 2, 2204/6",
+        "station_id": "26244"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E10'23\"",
+        "latitude": "53N07'40\"",
+        "city": "Białystok",
+        "location": "Świętojańska 13, Białystok Świętojańska 13",
+        "station_id": "26440"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E10'23\"",
+        "latitude": "53N07'40\"",
+        "city": "Białystok",
+        "location": "Świętojańska 13",
+        "station_id": "26440"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E14'38\"",
+        "latitude": "53N26'01\"",
+        "city": "Teolin",
+        "location": "74/1",
+        "station_id": "26656"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E51'22\"",
+        "latitude": "53N09'10\"",
+        "city": "Rzędziany",
+        "location": "180/4",
+        "station_id": "26860"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E04'45\"",
+        "latitude": "53N09'50\"",
+        "city": "Białystok",
+        "location": "Produkcyjna 115, 164/6",
+        "station_id": "27244"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E04'45\"",
+        "latitude": "53N09'50\"",
+        "city": "Białystok",
+        "location": "Produkcyjna 115, 164/6",
+        "station_id": "27244"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E11'02\"",
+        "latitude": "53N06'34\"",
+        "city": "Białystok",
+        "location": "Praw Kobiet 4, Białystok Praw Kobiet 4",
+        "station_id": "26744"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E21'14\"",
+        "latitude": "52N50'36\"",
+        "city": "Leszczyny",
+        "location": "87",
+        "station_id": "28420"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E05'08\"",
+        "latitude": "54N04'08\"",
+        "city": "Wigry",
+        "location": "11, 153",
+        "station_id": "24530"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E56'54\"",
+        "latitude": "54N07'25\"",
+        "city": "Suwałki",
+        "location": "Prymasa Stefana Wyszyńskiego 3, 23915",
+        "station_id": "24548"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E58'32\"",
+        "latitude": "54N01'34\"",
+        "city": "Płociczno-Tartak",
+        "location": "34/9",
+        "station_id": "24550"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E54'17\"",
+        "latitude": "54N05'45\"",
+        "city": "Suwałki",
+        "location": "Bakałarzewska 21, 31330/27",
+        "station_id": "24563"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E55'50\"",
+        "latitude": "54N04'21\"",
+        "city": "Suwałki",
+        "location": "Wojska Polskiego 100, 32686/12",
+        "station_id": "24565"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E55'14\"",
+        "latitude": "54N04'02\"",
+        "city": "Suwałki",
+        "location": "Majora Hubala 5, 32722/3",
+        "station_id": "24584"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E55'30\"",
+        "latitude": "54N03'26\"",
+        "city": "Suwałki",
+        "location": "Wojska Polskiego 112A, 32853/3",
+        "station_id": "24585"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E11'16\"",
+        "latitude": "54N05'57\"",
+        "city": "Smolany Dąb",
+        "location": "45",
+        "station_id": "24595"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E52'16\"",
+        "latitude": "54N08'14\"",
+        "city": "Bród Nowy",
+        "location": "48",
+        "station_id": "24613"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E55'37\"",
+        "latitude": "54N06'25\"",
+        "city": "Suwałki",
+        "location": "Tadeusza Kościuszki 101, 10056/4",
+        "station_id": "24640"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E26'16\"",
+        "latitude": "53N45'03\"",
+        "city": "Kolonie Lipsk",
+        "location": "112/1",
+        "station_id": "24080"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E18'54\"",
+        "latitude": "54N06'46\"",
+        "city": "Radziuszki",
+        "location": "95/2",
+        "station_id": "24514"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E14'55\"",
+        "latitude": "53N53'58\"",
+        "city": "Płaska",
+        "location": "58/6",
+        "station_id": "24526"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E40'04\"",
+        "latitude": "54N05'31\"",
+        "city": "Bakałarzewo",
+        "location": "151/1",
+        "station_id": "24528"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E16'56\"",
+        "latitude": "54N02'09\"",
+        "city": "Pogorzelec",
+        "location": "179",
+        "station_id": "24541"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E06'51\"",
+        "latitude": "54N17'59\"",
+        "city": "Budzisko",
+        "location": "12, 28/2",
+        "station_id": "24542"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E48'06\"",
+        "latitude": "53N58'57\"",
+        "city": "Dowspuda",
+        "location": "44/10",
+        "station_id": "24546"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E02'17\"",
+        "latitude": "53N51'08\"",
+        "city": "Augustów",
+        "location": "Turystyczna 18, 1167",
+        "station_id": "24557"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E25'11\"",
+        "latitude": "53N53'51\"",
+        "city": "Rygol",
+        "location": "984/1",
+        "station_id": "24559"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E38'59\"",
+        "latitude": "54N10'17\"",
+        "city": "Filipów",
+        "location": "473/3",
+        "station_id": "24562"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E50'42\"",
+        "latitude": "53N46'34\"",
+        "city": "Bargłów Dworny",
+        "location": "188",
+        "station_id": "24625"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E58'36\"",
+        "latitude": "54N19'12\"",
+        "city": "Rutka-Tartak",
+        "location": "Górna 7, 61/12",
+        "station_id": "24636"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E06'24\"",
+        "latitude": "53N43'13\"",
+        "city": "Kamień",
+        "location": "90/2",
+        "station_id": "24701"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E57'02\"",
+        "latitude": "53N58'15\"",
+        "city": "Nowinka",
+        "location": "13/2",
+        "station_id": "24702"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E14'23\"",
+        "latitude": "53N44'51\"",
+        "city": "Jastrzębna-Majątek",
+        "location": "400/2",
+        "station_id": "24703"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E06'00\"",
+        "latitude": "53N57'58\"",
+        "city": "Danowskie",
+        "location": "1/3",
+        "station_id": "24704"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E52'48\"",
+        "latitude": "54N01'07\"",
+        "city": "Józefowo",
+        "location": "12/2",
+        "station_id": "25376"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E21'34\"",
+        "latitude": "54N06'15\"",
+        "city": "Sejny",
+        "location": "Powstańców Sejneńskich, 965/11",
+        "station_id": "25955"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E00'57\"",
+        "latitude": "53N39'56\"",
+        "city": "Jaminy",
+        "location": "49, 27/6",
+        "station_id": "26658"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E56'26\"",
+        "latitude": "53N39'27\"",
+        "city": "Jaziewo",
+        "location": "47A, 83/10",
+        "station_id": "26715"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E59'04\"",
+        "latitude": "53N42'53\"",
+        "city": "Sosnowo",
+        "location": "538",
+        "station_id": "26661"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E57'49\"",
+        "latitude": "54N15'49\"",
+        "city": "Sumowo",
+        "location": "29",
+        "station_id": "26887"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E59'14\"",
+        "latitude": "52N14'04\"",
+        "city": "Warszawa",
+        "location": "Grzybowska 60, Warszawa Grzybowska 60",
+        "station_id": "28724"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E59'05\"",
+        "latitude": "52N13'52\"",
+        "city": "Warszawa",
+        "location": "Towarowa 28, Warszawa Towarowa 28",
+        "station_id": "28384"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E41'32\"",
+        "latitude": "52N19'29\"",
+        "city": "Dobre",
+        "location": "Przemysłowa 5, 2401",
+        "station_id": "23460"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E53'59\"",
+        "latitude": "52N23'21\"",
+        "city": "Jabłonna",
+        "location": "Chotomowska, 179/1",
+        "station_id": "23341"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E53'59\"",
+        "latitude": "52N23'21\"",
+        "city": "Jabłonna",
+        "location": "Chotomowska, 179/1",
+        "station_id": "23341"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E57'22\"",
+        "latitude": "52N23'33\"",
+        "city": "Legionowo",
+        "location": "gen. Bolesława Roi 24, 47/15",
+        "station_id": "23456"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E57'22\"",
+        "latitude": "52N23'33\"",
+        "city": "Legionowo",
+        "location": "gen. Bolesława Roi 24, 47/15",
+        "station_id": "23456"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E55'09\"",
+        "latitude": "52N24'44\"",
+        "city": "Legionowo",
+        "location": "Targowa 71A, 1",
+        "station_id": "23364"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E25'48\"",
+        "latitude": "52N19'38\"",
+        "city": "Poświętne",
+        "location": "Jana Pawła II, 237",
+        "station_id": "23638"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E45'47\"",
+        "latitude": "52N10'23\"",
+        "city": "Pruszków",
+        "location": "Parzniewska, 32",
+        "station_id": "23417"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E45'47\"",
+        "latitude": "52N10'23\"",
+        "city": "Pruszków",
+        "location": "Parzniewska, 32",
+        "station_id": "23417"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E06'17\"",
+        "latitude": "52N05'18\"",
+        "city": "Konstancin-Jeziorna",
+        "location": "Piaseczyńska 52, 9",
+        "station_id": "23418"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E05'37\"",
+        "latitude": "51N57'07\"",
+        "city": "Julianów",
+        "location": "Julianowska, 63",
+        "station_id": "23643"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E29'12\"",
+        "latitude": "52N09'51\"",
+        "city": "Dębe Wielkie",
+        "location": "Przemysłowa 83, 212/1",
+        "station_id": "23639"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E29'10\"",
+        "latitude": "52N14'08\"",
+        "city": "Poręby",
+        "location": "1, 167/2",
+        "station_id": "23461"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E00'04\"",
+        "latitude": "52N14'17\"",
+        "city": "Warszawa",
+        "location": "Grzybowska 4, Warszawa Grzybowska 4",
+        "station_id": "29491"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E00'43\"",
+        "latitude": "52N13'49\"",
+        "city": "Warszawa",
+        "location": "Marszałkowska 100/102, Warszawa Marszałkowska 100/102",
+        "station_id": "65399"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E05'11\"",
+        "latitude": "52N14'39\"",
+        "city": "Warszawa",
+        "location": "Grochowska 207",
+        "station_id": "65793"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E47'35\"",
+        "latitude": "52N09'55\"",
+        "city": "Pruszków",
+        "location": "Henryka Sienkiewicza, 19",
+        "station_id": "66320"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E55'32\"",
+        "latitude": "52N11'32\"",
+        "city": "Warszawa",
+        "location": "Jutrzenki 105, Warszawa Jutrzenki 105",
+        "station_id": "27468"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E02'38\"",
+        "latitude": "52N15'16\"",
+        "city": "Warszawa",
+        "location": "Plac Konesera 10A, Warszawa Plac Konesera 10A",
+        "station_id": "66212"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E59'33\"",
+        "latitude": "52N10'52\"",
+        "city": "Warszawa",
+        "location": "Marynarska 12, Warszawa Marynarska 12",
+        "station_id": "27973"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E55'09\"",
+        "latitude": "52N13'18\"",
+        "city": "Warszawa",
+        "location": "Połczyńska 10, 116",
+        "station_id": "24869"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E36'38\"",
+        "latitude": "52N17'09\"",
+        "city": "Kępiaste",
+        "location": "41C, 284/2",
+        "station_id": "61031"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E58'46\"",
+        "latitude": "52N10'04\"",
+        "city": "Warszawa",
+        "location": "Jamesa Gordona Bennetta 2B, 23/4",
+        "station_id": "65282"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E01'15\"",
+        "latitude": "52N13'28\"",
+        "city": "Warszawa",
+        "location": "Mokotowska 49",
+        "station_id": "61873"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E31'12\"",
+        "latitude": "52N11'31\"",
+        "city": "Stojadła",
+        "location": "Warszawska 99, Stojadła Warszawska 99",
+        "station_id": "65312"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E04'15\"",
+        "latitude": "52N09'51\"",
+        "city": "Warszawa",
+        "location": "Aleja Rzeczypospolitej 14, Warszawa Aleja Rzeczypospolitej 14",
+        "station_id": "26626"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E12'01\"",
+        "latitude": "50N02'59\"",
+        "city": "Krzemienica",
+        "location": "centrum logistyczne",
+        "station_id": "56903"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E46'59\"",
+        "latitude": "49N47'28\"",
+        "city": "Przemyśl",
+        "location": "Wojciecha Brudzewskiego 1, Przemyśl Wojciecha Brudzewskiego 1",
+        "station_id": "56502"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E40'49\"",
+        "latitude": "49N03'58\"",
+        "city": "Wołosate",
+        "location": "6D, Wołosate  6D",
+        "station_id": "56648"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E03'24\"",
+        "latitude": "50N34'21\"",
+        "city": "Stalowa Wola",
+        "location": "Okulickiego 76, Stalowa Wola Okulickiego 76",
+        "station_id": "56232"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E03'52\"",
+        "latitude": "50N35'09\"",
+        "city": "Stalowa Wola",
+        "location": "Fryderyka Chopina 42, 42",
+        "station_id": "93375"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E02'56\"",
+        "latitude": "49N12'51\"",
+        "city": "Dolina Pięciu Stawów",
+        "location": "2529/1",
+        "station_id": "56006"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E02'41\"",
+        "latitude": "49N12'44\"",
+        "city": "Dolina Pięciu Stawów",
+        "location": "2529/1",
+        "station_id": "95331"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E04'44\"",
+        "latitude": "49N12'46\"",
+        "city": "Brzegi",
+        "location": "2526/3",
+        "station_id": "56745"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E40'32\"",
+        "latitude": "49N39'01\"",
+        "city": "Nowy Sącz",
+        "location": "Jagodowa 55, Nowy Sącz Jagodowa 55",
+        "station_id": "57616"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E05'44\"",
+        "latitude": "49N14'01\"",
+        "city": "Brzegi",
+        "location": "2526/10, 2526/11",
+        "station_id": "95683"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E03'27\"",
+        "latitude": "51N03'30\"",
+        "city": "Starachowice",
+        "location": "1 Maja 12, Starachowice 1 Maja 12",
+        "station_id": "56394"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E04'44\"",
+        "latitude": "50N05'06\"",
+        "city": "Kraków",
+        "location": "Tadeusza Sendzimira 1",
+        "station_id": "96036"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E55'51\"",
+        "latitude": "50N03'21\"",
+        "city": "Kraków",
+        "location": "Powiśle 7",
+        "station_id": "96864"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E51'59\"",
+        "latitude": "50N02'54\"",
+        "city": "Kraków",
+        "location": "Jodłowa 13",
+        "station_id": "96865"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E57'06\"",
+        "latitude": "50N03'07\"",
+        "city": "Kraków",
+        "location": "Halicka 14a",
+        "station_id": "96845"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E55'40\"",
+        "latitude": "50N03'31\"",
+        "city": "Kraków",
+        "location": "Smolensk 29, 29",
+        "station_id": "51446"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E03'24\"",
+        "latitude": "50N02'06\"",
+        "city": "Kraków",
+        "location": "Feliksa Wrobela 3, Kraków Feliksa Wrobela 3",
+        "station_id": "58036"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E48'05\"",
+        "latitude": "50N03'29\"",
+        "city": "Cholerzyn",
+        "location": "D1064, ---",
+        "station_id": "94990"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E05'42\"",
+        "latitude": "50N04'57\"",
+        "city": "Kraków",
+        "location": "Ujastek 1, 1/61",
+        "station_id": "56304"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E11'54\"",
+        "latitude": "50N01'23\"",
+        "city": "Oświęcim",
+        "location": "Maksymiliana Kolbego 1, 1677/11",
+        "station_id": "96863"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E11'54\"",
+        "latitude": "50N01'26\"",
+        "city": "Oświęcim",
+        "location": "Maksymiliana Kolbego 1",
+        "station_id": "96880"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E47'25\"",
+        "latitude": "49N44'53\"",
+        "city": "Ustroń",
+        "location": "Katowicka 197, Ustroń Katowicka 197",
+        "station_id": "95533"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E59'02\"",
+        "latitude": "49N35'47\"",
+        "city": "Wisła",
+        "location": "Czarna Wisełka 8, 6087",
+        "station_id": "95613"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E47'53\"",
+        "latitude": "50N20'57\"",
+        "city": "Zabrze",
+        "location": "Karola Goduli, 115/3",
+        "station_id": "59844"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E57'00\"",
+        "latitude": "50N15'46\"",
+        "city": "Chorzów",
+        "location": "Niedźwiedziniec 10, Chorzów Niedźwiedziniec 10",
+        "station_id": "56449"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E04'38\"",
+        "latitude": "50N05'55\"",
+        "city": "Bieruń",
+        "location": "Oświęcimska 336, 336",
+        "station_id": "57826"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E39'04\"",
+        "latitude": "54N21'19\"",
+        "city": "Gdańsk",
+        "location": "Rajska 8",
+        "station_id": "73364"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E31'58\"",
+        "latitude": "54N30'07\"",
+        "city": "Gdynia",
+        "location": "Kazimierza Górskiego 2",
+        "station_id": "70654"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E40'46\"",
+        "latitude": "54N41'35\"",
+        "city": "Jastarnia",
+        "location": "6",
+        "station_id": "37107"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "16E59'20\"",
+        "latitude": "54N27'20\"",
+        "city": "Słupsk",
+        "location": "Szczecińska 59, Słupsk Szczecińska 59",
+        "station_id": "31904"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "16E51'10\"",
+        "latitude": "54N32'30\"",
+        "city": "Duninowo",
+        "location": "39, Duninowo  39",
+        "station_id": "39167"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E33'43\"",
+        "latitude": "54N46'05\"",
+        "city": "Łeba",
+        "location": "Sosnowa 1, 361/12",
+        "station_id": "33089"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "15E35'58\"",
+        "latitude": "54N09'45\"",
+        "city": "Budzistowo",
+        "location": "3, Budzistowo  3",
+        "station_id": "36275"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "16E00'54\"",
+        "latitude": "54N15'04\"",
+        "city": "Mielenko",
+        "location": "Akacjowa 31, Mielenko Akacjowa 31",
+        "station_id": "72796"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E21'41\"",
+        "latitude": "53N49'23\"",
+        "city": "Ełk",
+        "location": "pl. Miejski 1, Ełk pl. Miejski 1",
+        "station_id": "73104"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E51'13\"",
+        "latitude": "53N51'16\"",
+        "city": "Dadaj",
+        "location": "1/14",
+        "station_id": "72722"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E38'19\"",
+        "latitude": "53N01'30\"",
+        "city": "Toruń",
+        "location": "Żółkiewskiego 15, Toruń Żółkiewskiego 15",
+        "station_id": "36156"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E44'53\"",
+        "latitude": "53N29'05\"",
+        "city": "Grudziądz",
+        "location": "Chełmińska 4, 48/12",
+        "station_id": "36195"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E24'26\"",
+        "latitude": "54N11'06\"",
+        "city": "Elbląg",
+        "location": "Płk.Dąbka 152, Elbląg Płk.Dąbka 152",
+        "station_id": "38101"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E55'54\"",
+        "latitude": "53N44'02\"",
+        "city": "Kwidzyn",
+        "location": "Konopnickiej 19, Kwidzyn Konopnickiej 19",
+        "station_id": "73156"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E30'10\"",
+        "latitude": "54N33'54\"",
+        "city": "Pogórze",
+        "location": "płk. Stanisława Dąbka 338, Pogórze płk. Stanisława Dąbka 338",
+        "station_id": "71424"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E32'23\"",
+        "latitude": "54N31'09\"",
+        "city": "Gdynia",
+        "location": "10 Lutego 11, Gdynia 10 Lutego 11",
+        "station_id": "71249"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E38'40\"",
+        "latitude": "54N21'00\"",
+        "city": "Gdańsk",
+        "location": "Targ Sienny 7, Gdańsk Targ Sienny 7",
+        "station_id": "73210"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E32'24\"",
+        "latitude": "54N30'52\"",
+        "city": "Gdynia",
+        "location": "Świętojańska 72, Gdynia Świętojańska 72",
+        "station_id": "73477"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "16E54'53\"",
+        "latitude": "52N25'55\"",
+        "city": "Poznań",
+        "location": "Piątkowska 116, Poznań Piątkowska 116",
+        "station_id": "48460"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "15E36'24\"",
+        "latitude": "51N55'38\"",
+        "city": "Zielona Góra",
+        "location": "Nowa 7",
+        "station_id": "83838"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "15E30'41\"",
+        "latitude": "52N14'20\"",
+        "city": "Świebodzin",
+        "location": "Kozia 3",
+        "station_id": "84270"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "15E12'51\"",
+        "latitude": "51N31'58\"",
+        "city": "Konin Żagański",
+        "location": "160",
+        "station_id": "85711"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E06'11\"",
+        "latitude": "51N40'29\"",
+        "city": "Grąbkowo",
+        "location": "73, Grąbkowo  73",
+        "station_id": "47574"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "16E35'27\"",
+        "latitude": "51N50'27\"",
+        "city": "Leszno",
+        "location": "Aleje Jana Pawła II 16, Leszno Aleje Jana Pawła II 16",
+        "station_id": "84774"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E02'18\"",
+        "latitude": "52N24'34\"",
+        "city": "Poznań",
+        "location": "Warszawska 349, Poznań Warszawska 349",
+        "station_id": "45411"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E04'08\"",
+        "latitude": "51N44'40\"",
+        "city": "Kalisz",
+        "location": "Górnośląska 82, 15/5",
+        "station_id": "43463"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "16E10'30\"",
+        "latitude": "51N24'41\"",
+        "city": "Lubin",
+        "location": "Biedronkowa 1, Lubin Biedronkowa 1",
+        "station_id": "81201"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "15E45'44\"",
+        "latitude": "50N55'21\"",
+        "city": "Jelenia Góra",
+        "location": "Aleja Jana Pawła II 51, Jelenia Góra Aleja Jana Pawła II 51",
+        "station_id": "43789"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "15E18'21\"",
+        "latitude": "51N06'22\"",
+        "city": "Lubań",
+        "location": "Jeleniogórska 12, Lubań Jeleniogórska 12",
+        "station_id": "84245"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "14E31'45\"",
+        "latitude": "53N25'34\"",
+        "city": "Szczecin",
+        "location": "al. Bohaterów Warszawy 42, 10/4",
+        "station_id": "33502"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E02'03\"",
+        "latitude": "51N05'48\"",
+        "city": "Wrocław",
+        "location": "Sucha 1, 23/1",
+        "station_id": "84387"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E16'10\"",
+        "latitude": "50N56'13\"",
+        "city": "Oława",
+        "location": "Nowy Otok 11, Oława Nowy Otok 11",
+        "station_id": "84576"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E03'31\"",
+        "latitude": "51N06'48\"",
+        "city": "Wrocław",
+        "location": "Pl.Grunwaldzki 22, Wrocław Pl.Grunwaldzki 22",
+        "station_id": "46565"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "16E53'34\"",
+        "latitude": "51N02'09\"",
+        "city": "Biskupice Podgórne",
+        "location": "2, 7/22",
+        "station_id": "48767"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E19'57\"",
+        "latitude": "50N53'52\"",
+        "city": "Godzikowice",
+        "location": "50p, Godzikowice  50p",
+        "station_id": "46798"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E02'25\"",
+        "latitude": "51N05'58\"",
+        "city": "Wrocław",
+        "location": "Konstytucji 3 Maja 3, Wrocław Konstytucji 3 Maja 3",
+        "station_id": "83422"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E02'50\"",
+        "latitude": "51N06'19\"",
+        "city": "Wrocław",
+        "location": "gen. Romualda Traugutta 45",
+        "station_id": "45446"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E00'46\"",
+        "latitude": "51N03'31\"",
+        "city": "Wrocław",
+        "location": "Zwycięska 41",
+        "station_id": "45340"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "16E57'33\"",
+        "latitude": "51N03'50\"",
+        "city": "Wrocław",
+        "location": "Targowa 2",
+        "station_id": "85281"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E00'10\"",
+        "latitude": "51N01'14\"",
+        "city": "Karwiany",
+        "location": "Platanowa 2",
+        "station_id": "85185"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "16E56'21\"",
+        "latitude": "51N06'31\"",
+        "city": "Wrocław",
+        "location": "Graniczna 4a",
+        "station_id": "46806"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E02'18\"",
+        "latitude": "51N06'25\"",
+        "city": "Wrocław",
+        "location": "ks. Piotra Skargi 1, Wrocław ks. Piotra Skargi 1",
+        "station_id": "81938"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "16E40'06\"",
+        "latitude": "51N09'52\"",
+        "city": "Święte",
+        "location": "Innowacji 2, Święte Innowacji 2",
+        "station_id": "84885"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "16E53'13\"",
+        "latitude": "51N01'28\"",
+        "city": "Biskupice Podgórne",
+        "location": "LG 3, 127",
+        "station_id": "47978"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E07'51\"",
+        "latitude": "51N08'59\"",
+        "city": "Wrocław",
+        "location": "Bierutowska 57/59, Wrocław Bierutowska 57/59",
+        "station_id": "46215"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "16E53'12\"",
+        "latitude": "51N00'48\"",
+        "city": "Biskupice Podgórne",
+        "location": "LG Electronics 3, 3/4",
+        "station_id": "49416"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "16E53'01\"",
+        "latitude": "51N01'04\"",
+        "city": "Biskupice Podgórne",
+        "location": "LG Electronics 3, 2/144",
+        "station_id": "49414"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "16E53'22\"",
+        "latitude": "51N01'19\"",
+        "city": "Biskupice Podgórne",
+        "location": "LG Electronics 3, 2/127",
+        "station_id": "49415"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E01'41\"",
+        "latitude": "51N05'58\"",
+        "city": "Wrocław",
+        "location": "Powstańców Śląskich 2-4, Wrocław Powstańców Śląskich 2-4",
+        "station_id": "46556"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "16E59'26\"",
+        "latitude": "51N07'09\"",
+        "city": "Wrocław",
+        "location": "Legnicka 58, Wrocław Legnicka 58",
+        "station_id": "46670"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "17E01'52\"",
+        "latitude": "51N06'14\"",
+        "city": "Wrocław",
+        "location": "Świdnicka 40, Wrocław Świdnicka 40",
+        "station_id": "46671"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "16E53'33\"",
+        "latitude": "51N01'09\"",
+        "city": "Biskupice Podgórne",
+        "location": "Innowacyjna 1, Biskupice Podgórne Innowacyjna 1",
+        "station_id": "46728"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "16E58'54\"",
+        "latitude": "51N05'40\"",
+        "city": "Wrocław",
+        "location": "Grabiszyńska 240, 240",
+        "station_id": "82347"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "16E29'52\"",
+        "latitude": "50N50'24\"",
+        "city": "Świdnica",
+        "location": "Westerplatte 29, Świdnica Westerplatte 29",
+        "station_id": "83573"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "16E31'01\"",
+        "latitude": "50N57'04\"",
+        "city": "Żarów",
+        "location": "Strefowa 6, Żarów Strefowa 6",
+        "station_id": "45238"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E00'54\"",
+        "latitude": "52N14'09\"",
+        "city": "Warszawa",
+        "location": "Świętokrzyska 11/21, Warszawa Świętokrzyska 11/21",
+        "station_id": "20030"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E59'07\"",
+        "latitude": "52N15'27\"",
+        "city": "Warszawa",
+        "location": "Aleja Jana Pawła II 82, Warszawa Aleja Jana Pawła II 82",
+        "station_id": "20453"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E56'05\"",
+        "latitude": "52N10'18\"",
+        "city": "Warszawa",
+        "location": "Aleja Krakowska 61, Warszawa Aleja Krakowska 61",
+        "station_id": "23401"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E57'52\"",
+        "latitude": "52N19'59\"",
+        "city": "Warszawa",
+        "location": "Modlińska 224, Warszawa Modlińska 224",
+        "station_id": "23770"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E27'30\"",
+        "latitude": "51N46'55\"",
+        "city": "Ruda Tarnowska",
+        "location": "KPRP",
+        "station_id": "66049"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E28'15\"",
+        "latitude": "51N07'55\"",
+        "city": "Chełm",
+        "location": "Ks. Jerzego Popiełuszki 3, Chełm Ks. Jerzego Popiełuszki 3",
+        "station_id": "26030"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E34'15\"",
+        "latitude": "51N15'57\"",
+        "city": "Lublin",
+        "location": "Aleja Spółdzielczości Pracy 34, 15/3",
+        "station_id": "63337"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "19E36'28\"",
+        "latitude": "51N24'42\"",
+        "city": "Rokszyce",
+        "location": "46a, 23",
+        "station_id": "28273"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "18E50'44\"",
+        "latitude": "51N36'16\"",
+        "city": "Stawiszcze",
+        "location": "8, Stawiszcze  8",
+        "station_id": "65543"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "23E10'39\"",
+        "latitude": "53N07'22\"",
+        "city": "Białystok",
+        "location": "Czesława Miłosza 2, Białystok Czesława Miłosza 2",
+        "station_id": "24418"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E59'35\"",
+        "latitude": "53N09'43\"",
+        "city": "Żółtki",
+        "location": "200, Żółtki  200",
+        "station_id": "60286"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "22E58'40\"",
+        "latitude": "53N50'37\"",
+        "city": "Augustów",
+        "location": "rynek Zygmunta Augusta 15, 3230/1",
+        "station_id": "22186"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "21E07'26\"",
+        "latitude": "52N11'30\"",
+        "city": "Warszawa",
+        "location": "Wał Miedzyszyński 384",
+        "station_id": "60777"
+    },
+    {
+        "operator": "T-Mobile Polska S.A.",
+        "longitude": "20E59'43\"",
+        "latitude": "52N13'45\"",
+        "city": "Warszawa",
+        "location": "Złota 79, 10/2",
+        "station_id": "23897"
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E21'06\"",
+        "latitude": "51N12'54\"",
+        "city": "Szczedrzykowice",
+        "location": NaN,
+        "station_id": 11033
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E29'57\"",
+        "latitude": "51N12'55\"",
+        "city": "Malczyce",
+        "location": NaN,
+        "station_id": 11035
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E36'24\"",
+        "latitude": "51N11'21\"",
+        "city": "Środa Śląska",
+        "location": NaN,
+        "station_id": 11037
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E44'38\"",
+        "latitude": "51N11'16\"",
+        "city": "Miękinia",
+        "location": NaN,
+        "station_id": 11039
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E49'49\"",
+        "latitude": "51N10'19\"",
+        "city": "Żurawiniec",
+        "location": "g. Wrocław",
+        "station_id": 11041
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E54'36\"",
+        "latitude": "51N07'37\"",
+        "city": "Wrocław",
+        "location": NaN,
+        "station_id": 11043
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E00'07\"",
+        "latitude": "51N06'13\"",
+        "city": "Wrocław",
+        "location": "g. Wrocław",
+        "station_id": 11045
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E03'05\"",
+        "latitude": "51N05'42\"",
+        "city": "Wrocław",
+        "location": NaN,
+        "station_id": 11047
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E05'01\"",
+        "latitude": "51N04'05\"",
+        "city": "Wrocław",
+        "location": NaN,
+        "station_id": 11049
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E09'44\"",
+        "latitude": "51N00'23\"",
+        "city": "Zębice",
+        "location": NaN,
+        "station_id": 11051
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E18'23\"",
+        "latitude": "50N55'34\"",
+        "city": "Oława",
+        "location": "g. Oława",
+        "station_id": 11053
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E27'05\"",
+        "latitude": "50N51'30\"",
+        "city": "Brzeg",
+        "location": "g. Brzeg",
+        "station_id": 11055
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E33'08\"",
+        "latitude": "50N47'19\"",
+        "city": "Łosiów",
+        "location": NaN,
+        "station_id": 11057
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E43'29\"",
+        "latitude": "50N42'21\"",
+        "city": "Nowa Jamka",
+        "location": "g. Dąbrowa",
+        "station_id": 11059
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E50'40\"",
+        "latitude": "50N39'58\"",
+        "city": "Mechnice",
+        "location": NaN,
+        "station_id": 11061
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E50'40\"",
+        "latitude": "50N39'58\"",
+        "city": "Mechnice",
+        "location": NaN,
+        "station_id": 11061
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E55'24\"",
+        "latitude": "50N39'41\"",
+        "city": "Opole",
+        "location": NaN,
+        "station_id": 11063
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E55'24\"",
+        "latitude": "50N39'41\"",
+        "city": "Opole",
+        "location": NaN,
+        "station_id": 11063
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E35'11\"",
+        "latitude": "54N23'34\"",
+        "city": "Gdańsk",
+        "location": NaN,
+        "station_id": 5201
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E34'34\"",
+        "latitude": "54N23'13\"",
+        "city": "Gdańsk",
+        "location": NaN,
+        "station_id": 5202
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E33'52\"",
+        "latitude": "54N21'30\"",
+        "city": "Gdańsk",
+        "location": NaN,
+        "station_id": 5203
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E31'54\"",
+        "latitude": "54N21'16\"",
+        "city": "Gdańsk",
+        "location": NaN,
+        "station_id": 5204
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E29'16\"",
+        "latitude": "54N22'42\"",
+        "city": "Gdańsk",
+        "location": NaN,
+        "station_id": 5205
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E26'13\"",
+        "latitude": "54N23'28\"",
+        "city": "Żukowo",
+        "location": NaN,
+        "station_id": 5206
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "23E35'50\"",
+        "latitude": "52N03'44\"",
+        "city": "Terespol",
+        "location": NaN,
+        "station_id": 4001
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "23E31'42\"",
+        "latitude": "52N01'34\"",
+        "city": "Terespol",
+        "location": NaN,
+        "station_id": 4002
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "23E25'08\"",
+        "latitude": "51N59'54\"",
+        "city": "Piszczac",
+        "location": NaN,
+        "station_id": 4003
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "23E16'45\"",
+        "latitude": "51N59'47\"",
+        "city": "Biała Podlaska",
+        "location": NaN,
+        "station_id": 4004
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "23E09'09\"",
+        "latitude": "52N01'17\"",
+        "city": "Biała Podlaska",
+        "location": NaN,
+        "station_id": 4005
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "23E03'47\"",
+        "latitude": "52N00'44\"",
+        "city": "Porosiuki",
+        "location": NaN,
+        "station_id": 4006
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E57'16\"",
+        "latitude": "51N59'52\"",
+        "city": "Drelów",
+        "location": NaN,
+        "station_id": 4007
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E48'29\"",
+        "latitude": "51N58'40\"",
+        "city": "Międzyrzec Podlaski",
+        "location": NaN,
+        "station_id": 4008
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E41'21\"",
+        "latitude": "51N57'35\"",
+        "city": "Międzyrzec Podlaski",
+        "location": NaN,
+        "station_id": 4010
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E32'29\"",
+        "latitude": "51N56'47\"",
+        "city": "Szaniawy Poniety",
+        "location": NaN,
+        "station_id": 4011
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E24'37\"",
+        "latitude": "51N55'59\"",
+        "city": "Łuków",
+        "location": NaN,
+        "station_id": 4012
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E17'59\"",
+        "latitude": "51N56'29\"",
+        "city": "Zalesie",
+        "location": NaN,
+        "station_id": 4013
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E07'23\"",
+        "latitude": "51N56'38\"",
+        "city": "Jedlanka",
+        "location": NaN,
+        "station_id": 4052
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E07'23\"",
+        "latitude": "51N56'38\"",
+        "city": "Jedlanka",
+        "location": NaN,
+        "station_id": 4052
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E58'12\"",
+        "latitude": "51N57'19\"",
+        "city": "Stoczek Łukowski",
+        "location": NaN,
+        "station_id": 4054
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E52'29\"",
+        "latitude": "51N58'07\"",
+        "city": "Iwowe",
+        "location": NaN,
+        "station_id": 4055
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E47'21\"",
+        "latitude": "51N57'38\"",
+        "city": "Jaźwiny",
+        "location": NaN,
+        "station_id": 4056
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E40'32\"",
+        "latitude": "51N57'32\"",
+        "city": "Parysów",
+        "location": NaN,
+        "station_id": 4057
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E32'01\"",
+        "latitude": "51N57'22\"",
+        "city": "Pilawa",
+        "location": NaN,
+        "station_id": 4058
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E24'35\"",
+        "latitude": "51N58'40\"",
+        "city": "Osieck",
+        "location": NaN,
+        "station_id": 4059
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E18'30\"",
+        "latitude": "51N59'37\"",
+        "city": "Warszówka",
+        "location": NaN,
+        "station_id": 4060
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E10'53\"",
+        "latitude": "51N59'13\"",
+        "city": "Mikówiec",
+        "location": NaN,
+        "station_id": 4061
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E04'38\"",
+        "latitude": "51N58'10\"",
+        "city": "Bronisławów",
+        "location": NaN,
+        "station_id": 4062
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E58'40\"",
+        "latitude": "51N57'50\"",
+        "city": "Nowy Prażmów",
+        "location": NaN,
+        "station_id": 4063
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E49'39\"",
+        "latitude": "51N58'07\"",
+        "city": "Tarczyn",
+        "location": NaN,
+        "station_id": 4064
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E41'17\"",
+        "latitude": "51N57'48\"",
+        "city": "Piotrkowice",
+        "location": NaN,
+        "station_id": 4066
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E31'58\"",
+        "latitude": "51N57'52\"",
+        "city": "Mszczonów",
+        "location": NaN,
+        "station_id": 4067
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E25'48\"",
+        "latitude": "51N58'42\"",
+        "city": "Wólka Wręcka",
+        "location": NaN,
+        "station_id": 4068
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E20'29\"",
+        "latitude": "51N58'32\"",
+        "city": "Puszcza Mariańska",
+        "location": NaN,
+        "station_id": 4069
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E14'53\"",
+        "latitude": "51N58'37\"",
+        "city": "Skierniewice",
+        "location": NaN,
+        "station_id": 4070
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E08'15\"",
+        "latitude": "51N57'49\"",
+        "city": "Skierniewice",
+        "location": NaN,
+        "station_id": 4071
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E02'24\"",
+        "latitude": "52N01'03\"",
+        "city": "Bełchów",
+        "location": NaN,
+        "station_id": 4072
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E57'12\"",
+        "latitude": "52N06'21\"",
+        "city": "Łowicz",
+        "location": NaN,
+        "station_id": 4051
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E03'54\"",
+        "latitude": "52N06'22\"",
+        "city": "Bednary",
+        "location": NaN,
+        "station_id": 4050
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E10'03\"",
+        "latitude": "52N09'32\"",
+        "city": "Zakrzew",
+        "location": NaN,
+        "station_id": 4049
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E14'48\"",
+        "latitude": "52N13'00\"",
+        "city": "Sochaczew",
+        "location": NaN,
+        "station_id": 4048
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E25'14\"",
+        "latitude": "52N12'07\"",
+        "city": "Teresin",
+        "location": NaN,
+        "station_id": 4046
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E34'26\"",
+        "latitude": "52N11'10\"",
+        "city": "Bieniewice",
+        "location": NaN,
+        "station_id": 4045
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E47'31\"",
+        "latitude": "52N12'28\"",
+        "city": "Ożarów Mazowiecki",
+        "location": NaN,
+        "station_id": 4044
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E52'58\"",
+        "latitude": "52N12'37\"",
+        "city": "Warszawa",
+        "location": NaN,
+        "station_id": 4043
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E55'53\"",
+        "latitude": "52N12'50\"",
+        "city": "Warszawa",
+        "location": NaN,
+        "station_id": 4042
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E22'28\"",
+        "latitude": "52N00'26\"",
+        "city": "Krynka",
+        "location": NaN,
+        "station_id": 4014
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E21'31\"",
+        "latitude": "52N05'19\"",
+        "city": "Borki-Kosy",
+        "location": NaN,
+        "station_id": 4016
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E16'00\"",
+        "latitude": "52N09'53\"",
+        "city": "Siedlce",
+        "location": NaN,
+        "station_id": 4017
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "22E09'44\"",
+        "latitude": "52N10'18\"",
+        "city": "Stare Opole",
+        "location": NaN,
+        "station_id": 4018
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E59'16\"",
+        "latitude": "52N10'09\"",
+        "city": "Koszewnica",
+        "location": NaN,
+        "station_id": 4020
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E52'18\"",
+        "latitude": "52N09'38\"",
+        "city": "Grodzisk",
+        "location": NaN,
+        "station_id": 4021
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E47'52\"",
+        "latitude": "52N09'47\"",
+        "city": "Mrozy",
+        "location": NaN,
+        "station_id": 4022
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E41'19\"",
+        "latitude": "52N08'58\"",
+        "city": "Mienia",
+        "location": NaN,
+        "station_id": 4023
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E32'32\"",
+        "latitude": "52N10'37\"",
+        "city": "Mińsk Mazowiecki",
+        "location": NaN,
+        "station_id": 4024
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E20'58\"",
+        "latitude": "52N13'25\"",
+        "city": "Halinów",
+        "location": NaN,
+        "station_id": 4026
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E13'25\"",
+        "latitude": "52N15'15\"",
+        "city": "Warszawa-Wesoła",
+        "location": NaN,
+        "station_id": 4027
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "14E35'34\"",
+        "latitude": "52N20'07\"",
+        "city": "Słubice",
+        "location": "gm. Słubice",
+        "station_id": 3001
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "14E38'27\"",
+        "latitude": "52N20'29\"",
+        "city": "Kunowice",
+        "location": "gm. Słubice obszar wiejski",
+        "station_id": 3003
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "14E44'24\"",
+        "latitude": "52N20'47\"",
+        "city": "Gajec",
+        "location": "gm. Rzepin obszar wiejski",
+        "station_id": 3005
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "14E49'58\"",
+        "latitude": "52N21'01\"",
+        "city": "Rzepin",
+        "location": "gm. Rzepin miasto",
+        "station_id": 3007
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "14E56'51\"",
+        "latitude": "52N19'36\"",
+        "city": "Boczów",
+        "location": "gm. Torzym obszar wiejski",
+        "station_id": 3009
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E03'11\"",
+        "latitude": "52N18'48\"",
+        "city": "Torzym",
+        "location": "gm. Torzym miasto",
+        "station_id": 3011
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E07'22\"",
+        "latitude": "52N16'58\"",
+        "city": "Drzewce Kolonia",
+        "location": "gm. Torzym obszar wiejski",
+        "station_id": 3013
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E11'22\"",
+        "latitude": "52N15'39\"",
+        "city": "Zamęt",
+        "location": "gm. Torzym obszar wiejski",
+        "station_id": 3015
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E16'03\"",
+        "latitude": "52N15'40\"",
+        "city": "Toporów",
+        "location": "gm. Łagów",
+        "station_id": 3017
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E19'33\"",
+        "latitude": "52N16'17\"",
+        "city": "Zagórze",
+        "location": "gm. Lubrza",
+        "station_id": 3019
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E23'47\"",
+        "latitude": "52N16'07\"",
+        "city": "Mostki",
+        "location": "gm. Lubrza",
+        "station_id": 3021
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E27'59\"",
+        "latitude": "52N15'26\"",
+        "city": "Wilkowo",
+        "location": "gm. Świebodzin obaszar wiejski",
+        "station_id": 3023
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E32'31\"",
+        "latitude": "52N14'45\"",
+        "city": "Świebodzin",
+        "location": "gm. Świebodzin miasto",
+        "station_id": 3025
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E36'41\"",
+        "latitude": "52N15'26\"",
+        "city": "Kupienio",
+        "location": "gm. Świebodzin obaszar wiejski",
+        "station_id": 3027
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E44'21\"",
+        "latitude": "52N15'51\"",
+        "city": "Szczaniec",
+        "location": "gm. Zbąszynek obszar wiejski",
+        "station_id": 3029
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E48'07\"",
+        "latitude": "52N13'46\"",
+        "city": "Kosieczyn",
+        "location": "gm. Zbąszynek miasto",
+        "station_id": 3031
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E50'31\"",
+        "latitude": "52N15'35\"",
+        "city": "Zbąszynek",
+        "location": "gm. Zbąszynek miasto",
+        "station_id": 3033
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E55'02\"",
+        "latitude": "52N15'34\"",
+        "city": "Zbąszyń",
+        "location": "gm. Zbąszyń miasto",
+        "station_id": 3035
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E59'28\"",
+        "latitude": "52N16'53\"",
+        "city": "Chrośnica",
+        "location": "gm. Zbąszyń obszar wiejska",
+        "station_id": 3037
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E04'18\"",
+        "latitude": "52N17'49\"",
+        "city": "Jastrzębsko Stare",
+        "location": "gm. Nowy Tomyśl obszar wiejski",
+        "station_id": 3039
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E12'15\"",
+        "latitude": "52N18'11\"",
+        "city": "Sątopy",
+        "location": "gm. Nowy Tomyśl obszar wiejski",
+        "station_id": 3041
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E18'03\"",
+        "latitude": "52N18'07\"",
+        "city": "Stary Bukowiec",
+        "location": "gm. Opalenica obszar wiejski",
+        "station_id": 3043
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E24'10\"",
+        "latitude": "52N18'38\"",
+        "city": "Opalenica",
+        "location": "gm. Opalenica miasto",
+        "station_id": 3045
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E31'21\"",
+        "latitude": "52N20'39\"",
+        "city": "Buk",
+        "location": "gm. Buk miasto",
+        "station_id": 3047
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E38'33\"",
+        "latitude": "52N20'47\"",
+        "city": "Podłoziny",
+        "location": "gm. Dopiewo",
+        "station_id": 3049
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E44'21\"",
+        "latitude": "52N22'26\"",
+        "city": "Palędzie",
+        "location": "gm. Dopiewo",
+        "station_id": 3051
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E52'11\"",
+        "latitude": "52N22'46\"",
+        "city": "Poznań",
+        "location": "gm. Poznań",
+        "station_id": 3053
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E54'31\"",
+        "latitude": "52N23'38\"",
+        "city": "Poznań",
+        "location": "gm. Poznań",
+        "station_id": 3055
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E56'19\"",
+        "latitude": "52N24'57\"",
+        "city": "Poznań",
+        "location": "gm. Poznań",
+        "station_id": 3057
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E58'30\"",
+        "latitude": "52N25'10\"",
+        "city": "Poznań",
+        "location": "gm. Poznań",
+        "station_id": 3059
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E02'14\"",
+        "latitude": "52N24'24\"",
+        "city": "Poznań",
+        "location": "gm. Poznań",
+        "station_id": 3061
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E09'31\"",
+        "latitude": "52N23'50\"",
+        "city": "Paczkowo",
+        "location": "gm. Swarzędz obszar wiejski",
+        "station_id": 3063
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E19'11\"",
+        "latitude": "52N22'00\"",
+        "city": "Antonin",
+        "location": "gm. Kostrzyń obszar wiejski",
+        "station_id": 3065
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E23'52\"",
+        "latitude": "52N21'17\"",
+        "city": "Nekla",
+        "location": "gm. Nekla miasto",
+        "station_id": 3067
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E28'46\"",
+        "latitude": "52N20'30\"",
+        "city": "Podstolice",
+        "location": "gm. Nekla obszar wiejski",
+        "station_id": 3069
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E33'48\"",
+        "latitude": "52N20'19\"",
+        "city": "Sokołowo Wrzesińskie",
+        "location": "gm. Września miasto",
+        "station_id": 3071
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E41'21\"",
+        "latitude": "52N19'33\"",
+        "city": "Otoczna",
+        "location": "gm. Września obszar wiejski",
+        "station_id": 3073
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E48'33\"",
+        "latitude": "52N18'37\"",
+        "city": "Strzałkowo",
+        "location": "gm. Strzałkowo",
+        "station_id": 3075
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "17E57'56\"",
+        "latitude": "52N16'20\"",
+        "city": "Cienin Zaborny",
+        "location": "gm. Słupca",
+        "station_id": 3077
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E09'00\"",
+        "latitude": "52N14'58\"",
+        "city": "Kawnice",
+        "location": "gm. Golina obszar wiejski",
+        "station_id": 3079
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E14'53\"",
+        "latitude": "52N13'56\"",
+        "city": "Konin",
+        "location": "gm. Konin",
+        "station_id": 3081
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E17'48\"",
+        "latitude": "52N14'38\"",
+        "city": "Morzyslaw - Kolonia",
+        "location": "gm. Kramsk",
+        "station_id": 3083
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E21'30\"",
+        "latitude": "52N13'45\"",
+        "city": "Patrzyków",
+        "location": "gm. Kramsk",
+        "station_id": 3085
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E28'01\"",
+        "latitude": "52N14'43\"",
+        "city": "Winnica",
+        "location": "gm. Kramsk",
+        "station_id": 3087
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E33'29\"",
+        "latitude": "52N14'40\"",
+        "city": "Nowe Budki",
+        "location": "gm. Osiek Mały",
+        "station_id": 3089
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E37'45\"",
+        "latitude": "52N12'48\"",
+        "city": "Koło",
+        "location": "gm. Koło",
+        "station_id": 3091
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E47'26\"",
+        "latitude": "52N13'05\"",
+        "city": "Grabina",
+        "location": "gm. Grzegorzew",
+        "station_id": 3093
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E55'56\"",
+        "latitude": "52N13'41\"",
+        "city": "Straszkówek",
+        "location": "gm. Kłodawa obszar wiejski",
+        "station_id": 3095
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E05'10\"",
+        "latitude": "52N13'55\"",
+        "city": "Suchodoły",
+        "location": "gm. Krośniewice",
+        "station_id": 3097
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E16'11\"",
+        "latitude": "52N14'21\"",
+        "city": "Krzesinówek",
+        "location": "gm. Kutno",
+        "station_id": 3099
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E21'23\"",
+        "latitude": "52N13'26\"",
+        "city": "Kutno",
+        "location": "gm. Kutno",
+        "station_id": 3101
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E26'09\"",
+        "latitude": "52N13'45\"",
+        "city": "Kotliska",
+        "location": "gm. Kutno",
+        "station_id": 3103
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E35'21\"",
+        "latitude": "52N12'57\"",
+        "city": "Bedlno",
+        "location": "gm. Bedlno",
+        "station_id": 3105
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E42'57\"",
+        "latitude": "52N11'10\"",
+        "city": "Zosinów",
+        "location": "gm. Bedlno",
+        "station_id": 3107
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E49'42\"",
+        "latitude": "52N08'58\"",
+        "city": "Szymanowice",
+        "location": "gm. Zduny",
+        "station_id": 3109
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E56'23\"",
+        "latitude": "52N07'11\"",
+        "city": "Łowicz",
+        "location": "gm. Łowicz",
+        "station_id": 3111
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E52'38\"",
+        "latitude": "52N11'39\"",
+        "city": "Warszawa",
+        "location": NaN,
+        "station_id": 4201
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E46'45\"",
+        "latitude": "52N09'44\"",
+        "city": "Pruszków",
+        "location": NaN,
+        "station_id": 4202
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E43'19\"",
+        "latitude": "52N08'35\"",
+        "city": "Brwinów",
+        "location": NaN,
+        "station_id": 4203
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E37'11\"",
+        "latitude": "52N06'32\"",
+        "city": "Grodzisk Mazowiecki",
+        "location": NaN,
+        "station_id": 4204
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E33'09\"",
+        "latitude": "52N05'12\"",
+        "city": "Jaktorów",
+        "location": NaN,
+        "station_id": 4205
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E27'06\"",
+        "latitude": "52N03'11\"",
+        "city": "Żyrardów",
+        "location": NaN,
+        "station_id": 4206
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E20'46\"",
+        "latitude": "52N01'07\"",
+        "city": "Jesionka",
+        "location": NaN,
+        "station_id": 4207
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E17'28\"",
+        "latitude": "52N00'03\"",
+        "city": "Małe Łąki",
+        "location": NaN,
+        "station_id": 4208
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E12'50\"",
+        "latitude": "51N58'32\"",
+        "city": "Skierniewice",
+        "location": NaN,
+        "station_id": 4209
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E06'14\"",
+        "latitude": "51N56'02\"",
+        "city": "Skierniewice",
+        "location": NaN,
+        "station_id": 4210
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E01'41\"",
+        "latitude": "51N56'33\"",
+        "city": "Maków",
+        "location": NaN,
+        "station_id": 4211
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E56'20\"",
+        "latitude": "51N54'16\"",
+        "city": "Lipce Reymontowskie",
+        "location": NaN,
+        "station_id": 4212
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E55'02\"",
+        "latitude": "51N50'25\"",
+        "city": "Przyłęk Duży",
+        "location": NaN,
+        "station_id": 4213
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E50'56\"",
+        "latitude": "51N47'29\"",
+        "city": "Wągry",
+        "location": NaN,
+        "station_id": 4214
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E49'05\"",
+        "latitude": "51N44'45\"",
+        "city": "Koluszki",
+        "location": NaN,
+        "station_id": 4215
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E44'06\"",
+        "latitude": "51N43'49\"",
+        "city": "Gałków Duży",
+        "location": NaN,
+        "station_id": 4216
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E38'36\"",
+        "latitude": "51N43'53\"",
+        "city": "Andrespol",
+        "location": NaN,
+        "station_id": 4217
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E36'47\"",
+        "latitude": "51N44'34\"",
+        "city": "Łódź",
+        "location": NaN,
+        "station_id": 4218
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E33'02\"",
+        "latitude": "51N45'43\"",
+        "city": "Łódź",
+        "location": NaN,
+        "station_id": 4219
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E38'32\"",
+        "latitude": "54N21'02\"",
+        "city": "Gdańsk",
+        "location": NaN,
+        "station_id": 2050
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E02'40\"",
+        "latitude": "51N17'14\"",
+        "city": "Bielawa Dolna",
+        "location": NaN,
+        "station_id": 11001
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E07'44\"",
+        "latitude": "51N17'14\"",
+        "city": "Zielonka",
+        "location": NaN,
+        "station_id": 11003
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E12'55\"",
+        "latitude": "51N17'28\"",
+        "city": "Węgliniec",
+        "location": NaN,
+        "station_id": 11005
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E17'59\"",
+        "latitude": "51N16'12\"",
+        "city": "Zagajnik",
+        "location": NaN,
+        "station_id": 11007
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E22'05\"",
+        "latitude": "51N15'20\"",
+        "city": "Zebrzydowa",
+        "location": NaN,
+        "station_id": 11009
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E25'50\"",
+        "latitude": "51N15'23\"",
+        "city": "Kierżno",
+        "location": NaN,
+        "station_id": 11011
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E30'52\"",
+        "latitude": "51N16'28\"",
+        "city": "Dobra",
+        "location": NaN,
+        "station_id": 11013
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E34'41\"",
+        "latitude": "51N16'03\"",
+        "city": "Bolesławiec",
+        "location": NaN,
+        "station_id": 11015
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E37'26\"",
+        "latitude": "51N16'58\"",
+        "city": "Kraśnik",
+        "location": NaN,
+        "station_id": 11018
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E40'47\"",
+        "latitude": "51N17'10\"",
+        "city": "Tomaszów",
+        "location": NaN,
+        "station_id": 11019
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E46'45\"",
+        "latitude": "51N16'14\"",
+        "city": "Okmiany",
+        "location": NaN,
+        "station_id": 11021
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E50'40\"",
+        "latitude": "51N15'40\"",
+        "city": "Osetnica",
+        "location": NaN,
+        "station_id": 11023
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E56'36\"",
+        "latitude": "51N16'41\"",
+        "city": "Chojnów",
+        "location": NaN,
+        "station_id": 11026
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "15E59'58\"",
+        "latitude": "51N15'24\"",
+        "city": "Dobroszów",
+        "location": NaN,
+        "station_id": 11027
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E05'48\"",
+        "latitude": "51N14'09\"",
+        "city": "Jezierzany",
+        "location": NaN,
+        "station_id": 11030
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "16E10'26\"",
+        "latitude": "51N12'53\"",
+        "city": "Legnica",
+        "location": NaN,
+        "station_id": 11031
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E04'49\"",
+        "latitude": "52N15'34\"",
+        "city": "Warszawa",
+        "location": NaN,
+        "station_id": 2001
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "21E01'04\"",
+        "latitude": "52N17'09\"",
+        "city": "Warszawa",
+        "location": NaN,
+        "station_id": 2002
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E58'53\"",
+        "latitude": "52N20'28\"",
+        "city": "Warszawa",
+        "location": NaN,
+        "station_id": 2003
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E57'09\"",
+        "latitude": "52N23'36\"",
+        "city": "Legionowo",
+        "location": NaN,
+        "station_id": 2004
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E54'05\"",
+        "latitude": "52N24'48\"",
+        "city": "Legionowo",
+        "location": NaN,
+        "station_id": 2005
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E46'44\"",
+        "latitude": "52N25'31\"",
+        "city": "Nowy Dwór Mazowiecki",
+        "location": NaN,
+        "station_id": 2006
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E41'45\"",
+        "latitude": "52N26'24\"",
+        "city": "Nowy Dwór Mazowiecki",
+        "location": NaN,
+        "station_id": 2007
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E44'41\"",
+        "latitude": "52N29'05\"",
+        "city": "Pomiechówek",
+        "location": NaN,
+        "station_id": 2008
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E45'04\"",
+        "latitude": "52N32'15\"",
+        "city": "Nasielsk",
+        "location": NaN,
+        "station_id": 2009
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E46'09\"",
+        "latitude": "52N35'37\"",
+        "city": "Nasielsk",
+        "location": NaN,
+        "station_id": 2010
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E45'48\"",
+        "latitude": "52N40'11\"",
+        "city": "Świercze",
+        "location": NaN,
+        "station_id": 2011
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E43'25\"",
+        "latitude": "52N44'06\"",
+        "city": "Gąsocin",
+        "location": NaN,
+        "station_id": 2012
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E40'04\"",
+        "latitude": "52N48'18\"",
+        "city": "Sońsk",
+        "location": NaN,
+        "station_id": 2013
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E35'27\"",
+        "latitude": "52N52'54\"",
+        "city": "Ciechanów",
+        "location": NaN,
+        "station_id": 2014
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E31'30\"",
+        "latitude": "52N55'22\"",
+        "city": "Regimin",
+        "location": NaN,
+        "station_id": 2015
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E28'11\"",
+        "latitude": "52N59'12\"",
+        "city": "Stupsk",
+        "location": NaN,
+        "station_id": 2016
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E24'46\"",
+        "latitude": "53N02'29\"",
+        "city": "Stupsk",
+        "location": NaN,
+        "station_id": 2017
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E21'04\"",
+        "latitude": "53N07'31\"",
+        "city": "Mława",
+        "location": NaN,
+        "station_id": 2018
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E20'18\"",
+        "latitude": "53N08'52\"",
+        "city": "Iłowo-Osada",
+        "location": NaN,
+        "station_id": 2019
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E15'18\"",
+        "latitude": "53N11'20\"",
+        "city": "Narzym",
+        "location": NaN,
+        "station_id": 2020
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E09'55\"",
+        "latitude": "53N14'29\"",
+        "city": "Działdowo",
+        "location": NaN,
+        "station_id": 2021
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E07'02\"",
+        "latitude": "53N17'17\"",
+        "city": "Działdowo",
+        "location": NaN,
+        "station_id": 2022
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "20E02'20\"",
+        "latitude": "53N19'11\"",
+        "city": "Działdowo",
+        "location": NaN,
+        "station_id": 2023
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E58'58\"",
+        "latitude": "53N20'30\"",
+        "city": "Rybno",
+        "location": NaN,
+        "station_id": 2024
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E55'07\"",
+        "latitude": "53N22'48\"",
+        "city": "Rybno",
+        "location": NaN,
+        "station_id": 2025
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E48'55\"",
+        "latitude": "53N24'30\"",
+        "city": "Grodziczno",
+        "location": NaN,
+        "station_id": 2026
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E43'33\"",
+        "latitude": "53N26'03\"",
+        "city": "Grodziczno",
+        "location": NaN,
+        "station_id": 2027
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E40'07\"",
+        "latitude": "53N27'49\"",
+        "city": "Lubawa",
+        "location": NaN,
+        "station_id": 2028
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E37'18\"",
+        "latitude": "53N30'51\"",
+        "city": "Lubawa",
+        "location": NaN,
+        "station_id": 2029
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E36'14\"",
+        "latitude": "53N32'28\"",
+        "city": "Iława",
+        "location": NaN,
+        "station_id": 2030
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E34'10\"",
+        "latitude": "53N34'30\"",
+        "city": "Iława",
+        "location": NaN,
+        "station_id": 2031
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E30'02\"",
+        "latitude": "53N36'13\"",
+        "city": "Iława",
+        "location": NaN,
+        "station_id": 2032
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E27'38\"",
+        "latitude": "53N38'12\"",
+        "city": "Iława",
+        "location": NaN,
+        "station_id": 2033
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E24'13\"",
+        "latitude": "53N40'20\"",
+        "city": "Susz",
+        "location": NaN,
+        "station_id": 2034
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E19'45\"",
+        "latitude": "53N42'38\"",
+        "city": "Susz",
+        "location": NaN,
+        "station_id": 2035
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E15'48\"",
+        "latitude": "53N43'58\"",
+        "city": "Prabuty",
+        "location": NaN,
+        "station_id": 2036
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E11'25\"",
+        "latitude": "53N47'00\"",
+        "city": "Prabuty",
+        "location": NaN,
+        "station_id": 2037
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E09'17\"",
+        "latitude": "53N51'03\"",
+        "city": "Mikołajki Pomorskie",
+        "location": NaN,
+        "station_id": 2038
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E07'18\"",
+        "latitude": "53N54'54\"",
+        "city": "Stary Targ",
+        "location": NaN,
+        "station_id": 2039
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E05'14\"",
+        "latitude": "53N58'43\"",
+        "city": "Malbork",
+        "location": NaN,
+        "station_id": 2040
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "19E03'02\"",
+        "latitude": "54N02'02\"",
+        "city": "Malbork",
+        "location": NaN,
+        "station_id": 2041
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E58'15\"",
+        "latitude": "54N03'49\"",
+        "city": "Malbork",
+        "location": NaN,
+        "station_id": 2042
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E51'55\"",
+        "latitude": "54N05'10\"",
+        "city": "Tczew",
+        "location": NaN,
+        "station_id": 2043
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E47'41\"",
+        "latitude": "54N05'36\"",
+        "city": "Tczew",
+        "location": NaN,
+        "station_id": 2044
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E44'22\"",
+        "latitude": "54N08'50\"",
+        "city": "Tczew",
+        "location": NaN,
+        "station_id": 2045
+    },
+    {
+        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "longitude": "18E40'07\"",
+        "latitude": "54N12'15\"",
+        "city": "Pszczółki",
+        "location": NaN,
+        "station_id": 2046
+    }
+]
